@@ -20,4 +20,4 @@
 | [Financial document extraction API](ai-05-14-financial-document-extraction-api.md) | Document formats vary and break fixed extraction rules. | $10,000 MVP → $40,500 |
 | [Finance team training simulator](ai-05-15-finance-team-training-simulator.md) | New staff need practice investigating realistic accounting discrepancies. | $10,000 MVP → $40,500 |
 
-Become an AI-optimized specialist for Finance: [Complete AI Training](https://completeaitraining.com/tag/finance/?contentType=ai-certification). Browse these ideas on [nexibeo.com](https://nexibeo.com/ideas/field/finance/).
+Become an AI-optimized specialist for Finance: [Complete AI Training](https://completeaitraining.com/tag/finance/?contentType=ai-certification). Browse these ideas on [nexibeo.com](https://nexibeo.com/solutions/field/finance/).

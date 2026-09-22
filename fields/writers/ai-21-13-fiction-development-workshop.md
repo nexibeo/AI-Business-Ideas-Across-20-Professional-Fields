@@ -97,7 +97,7 @@ Preserve author voice, source attribution, quotation accuracy and usage permissi
 - Colors: `#913827` primary · `#54acc9` accent · `#f1e7e4` surface · `#22201e` ink
 - Type: Fraunces for headings, Inter for text
 - Voice: Literate, generous, editorial
-- Demo site: [https://nexibeo.com/ideas/fiction-development-workshop/demo/](https://nexibeo.com/ideas/fiction-development-workshop/demo/)
+- Demo site: [https://nexibeo.com/solutions/fiction-development-workshop/demo/](https://nexibeo.com/solutions/fiction-development-workshop/demo/)
 
 ## Investment indication
 
@@ -117,13 +117,13 @@ Indicative build budget, from MVP to full product. This is a planning range, not
 | MVP and paid pilot (about 3 customers) | $30–$60 | $50–$110 | **$80–$170** |
 | Full product (about 50 customers) | $110–$210 | $420–$840 | **$530–$1,050** |
 
-**Co-create this project with us:** [contact Nexibeo](https://nexibeo.com/ideas/fiction-development-workshop/#apply) and we build it with you.
+**Get this built:** [contact Nexibeo](https://nexibeo.com/solutions/fiction-development-workshop/#apply). We build it with our AI software factory, usually in days to a few weeks, for you to run internally or offer to your clients.
 
 ## Research status
 Concept proposal expanded from the 315-idea conversation. Demand, pricing, differentiation, build scope and integration feasibility are hypotheses, not verified market findings. Category link is inspiration rather than evidence of business viability.
 
 ## Credits and next steps
 
-- **Estimation and building this idea:** see the full idea page on [nexibeo.com](https://nexibeo.com/ideas/fiction-development-workshop/) for more detail on estimation, and to co-create and build this idea with Nexibeo.
+- **Estimation and having it built:** see the full solution page on [nexibeo.com](https://nexibeo.com/solutions/fiction-development-workshop/) for more detail on estimation. Nexibeo builds it for you as a custom AI implementation, to run internally or to offer to your own clients.
 - **Become an AI-optimized specialist for Writers:** [Complete AI Training](https://completeaitraining.com/tag/writers/?contentType=ai-certification).
 - Field news: [AI news for Writers](https://completeaitraining.com/all-ai-news-for-writers/).

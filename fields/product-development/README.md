@@ -20,4 +20,4 @@
 | [Hardware requirements organizer](ai-17-14-hardware-requirements-organizer.md) | Customer needs and supplier constraints become disconnected. | $6,500 MVP → $23,000 |
 | [Roadmap communication studio](ai-17-15-roadmap-communication-studio.md) | Roadmaps are interpreted as unconditional delivery promises. | $6,500 MVP → $23,000 |
 
-Become an AI-optimized specialist for Product Development: [Complete AI Training](https://completeaitraining.com/tag/product-development/?contentType=ai-certification). Browse these ideas on [nexibeo.com](https://nexibeo.com/ideas/field/product-development/).
+Become an AI-optimized specialist for Product Development: [Complete AI Training](https://completeaitraining.com/tag/product-development/?contentType=ai-certification). Browse these ideas on [nexibeo.com](https://nexibeo.com/solutions/field/product-development/).

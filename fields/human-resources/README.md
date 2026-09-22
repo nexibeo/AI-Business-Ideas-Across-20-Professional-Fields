@@ -20,4 +20,4 @@
 | [Workforce planning workspace](ai-09-14-workforce-planning-workspace.md) | Staffing decisions lack transparent workload assumptions. | $6,000 MVP → $19,000 |
 | [HR automation implementation agency](ai-09-15-hr-automation-implementation-agency.md) | Manual handoffs between HR tools repeatedly fail. | $9,500 MVP → $37,500 |
 
-Become an AI-optimized specialist for Human Resources: [Complete AI Training](https://completeaitraining.com/tag/human-resources/?contentType=ai-certification). Browse these ideas on [nexibeo.com](https://nexibeo.com/ideas/field/human-resources/).
+Become an AI-optimized specialist for Human Resources: [Complete AI Training](https://completeaitraining.com/tag/human-resources/?contentType=ai-certification). Browse these ideas on [nexibeo.com](https://nexibeo.com/solutions/field/human-resources/).

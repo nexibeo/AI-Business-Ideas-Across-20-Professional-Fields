@@ -20,4 +20,4 @@
 | [Webinar promotion engine](ai-14-14-webinar-promotion-engine.md) | Promotion and follow-up require repetitive coordinated content. | $7,000 MVP → $26,000 |
 | [AI search presence audit](ai-14-15-ai-search-presence-audit.md) | Teams rely on isolated screenshots instead of repeatable observations. | $6,500 MVP → $22,000 |
 
-Become an AI-optimized specialist for Marketing: [Complete AI Training](https://completeaitraining.com/certification/12b-ai-certification-for-marketing-specialists/). Browse these ideas on [nexibeo.com](https://nexibeo.com/ideas/field/marketing/).
+Become an AI-optimized specialist for Marketing: [Complete AI Training](https://completeaitraining.com/certification/12b-ai-certification-for-marketing-specialists/). Browse these ideas on [nexibeo.com](https://nexibeo.com/solutions/field/marketing/).

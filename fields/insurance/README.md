@@ -20,4 +20,4 @@
 | [Policy change tracking tool](ai-10-14-policy-change-tracking-tool.md) | Small wording changes are hard to distinguish from layout changes. | $10,000 MVP → $40,000 |
 | [Specialist insurance content subscription](ai-10-15-specialist-insurance-content-subscription.md) | Generic newsletters do not explain clients' actual concerns. | $10,500 MVP → $42,500 |
 
-Become an AI-optimized specialist for Insurance: [Complete AI Training](https://completeaitraining.com/certification/12b-ai-certification-for-insurance-specialists/). Browse these ideas on [nexibeo.com](https://nexibeo.com/ideas/field/insurance/).
+Become an AI-optimized specialist for Insurance: [Complete AI Training](https://completeaitraining.com/certification/12b-ai-certification-for-insurance-specialists/). Browse these ideas on [nexibeo.com](https://nexibeo.com/solutions/field/insurance/).

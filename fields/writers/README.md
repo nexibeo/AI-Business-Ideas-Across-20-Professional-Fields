@@ -20,4 +20,4 @@
 | [Editorial verification service](ai-21-14-editorial-verification-service.md) | Copy editing misses unsupported facts and quotation problems. | $7,500 MVP → $28,000 |
 | [Personal history publishing](ai-21-15-personal-history-publishing.md) | Family recordings and archives remain disorganized and unpublished. | $8,500 MVP → $32,000 |
 
-Become an AI-optimized specialist for Writers: [Complete AI Training](https://completeaitraining.com/tag/writers/?contentType=ai-certification). Browse these ideas on [nexibeo.com](https://nexibeo.com/ideas/field/writers/).
+Become an AI-optimized specialist for Writers: [Complete AI Training](https://completeaitraining.com/tag/writers/?contentType=ai-certification). Browse these ideas on [nexibeo.com](https://nexibeo.com/solutions/field/writers/).

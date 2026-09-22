@@ -20,4 +20,4 @@
 | [Building handover library](ai-18-14-building-handover-library.md) | Owners receive disorganized manuals and warranty files. | $8,000 MVP → $29,500 |
 | [Real estate content subscription](ai-18-15-real-estate-content-subscription.md) | Generic property content lacks verified local relevance. | $8,500 MVP → $33,500 |
 
-Become an AI-optimized specialist for Real Estate and Construction: [Complete AI Training](https://completeaitraining.com/certification/12b-ai-certification-for-real-estate-agents/). Browse these ideas on [nexibeo.com](https://nexibeo.com/ideas/field/real-estate-and-construction/).
+Become an AI-optimized specialist for Real Estate and Construction: [Complete AI Training](https://completeaitraining.com/certification/12b-ai-certification-for-real-estate-agents/). Browse these ideas on [nexibeo.com](https://nexibeo.com/solutions/field/real-estate-and-construction/).

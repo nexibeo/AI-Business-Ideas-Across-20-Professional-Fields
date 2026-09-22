@@ -20,4 +20,4 @@
 | [Win-loss research studio](ai-19-14-win-loss-research-studio.md) | Internal explanations of deals differ from buyers' actual reasons. | $6,000 MVP → $20,500 |
 | [Quote configuration assistant](ai-19-15-quote-configuration-assistant.md) | Complex configurations produce incompatible or incomplete quotes. | $5,500 MVP → $18,000 |
 
-Become an AI-optimized specialist for Sales: [Complete AI Training](https://completeaitraining.com/certification/12b-ai-certification-for-sales-specialists/). Browse these ideas on [nexibeo.com](https://nexibeo.com/ideas/field/sales/).
+Become an AI-optimized specialist for Sales: [Complete AI Training](https://completeaitraining.com/certification/12b-ai-certification-for-sales-specialists/). Browse these ideas on [nexibeo.com](https://nexibeo.com/solutions/field/sales/).

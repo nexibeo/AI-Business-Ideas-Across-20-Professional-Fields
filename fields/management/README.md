@@ -20,4 +20,4 @@
 | [Remote team onboarding service](ai-13-14-remote-team-onboarding-service.md) | Remote hires lack clear communication norms and role expectations. | $9,500 MVP → $38,000 |
 | [Management reporting cleanup](ai-13-15-management-reporting-cleanup.md) | Different status definitions make reports impossible to compare. | $9,000 MVP → $34,500 |
 
-Become an AI-optimized specialist for Management: [Complete AI Training](https://completeaitraining.com/tag/management/?contentType=ai-certification). Browse these ideas on [nexibeo.com](https://nexibeo.com/ideas/field/management/).
+Become an AI-optimized specialist for Management: [Complete AI Training](https://completeaitraining.com/tag/management/?contentType=ai-certification). Browse these ideas on [nexibeo.com](https://nexibeo.com/solutions/field/management/).

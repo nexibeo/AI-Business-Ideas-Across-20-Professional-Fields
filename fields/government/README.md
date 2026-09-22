@@ -20,4 +20,4 @@
 | [Open data reporting service](ai-06-14-open-data-reporting-service.md) | Members cannot interpret fragmented public datasets. | $11,000 MVP → $44,000 |
 | [Government workforce training](ai-06-15-government-workforce-training.md) | Staff training lacks relevant approved-tool workflows. | $12,000 MVP → $50,000 |
 
-Become an AI-optimized specialist for Government: [Complete AI Training](https://completeaitraining.com/certification/12b-ai-certification-for-government-employees/). Browse these ideas on [nexibeo.com](https://nexibeo.com/ideas/field/government/).
+Become an AI-optimized specialist for Government: [Complete AI Training](https://completeaitraining.com/certification/12b-ai-certification-for-government-employees/). Browse these ideas on [nexibeo.com](https://nexibeo.com/solutions/field/government/).

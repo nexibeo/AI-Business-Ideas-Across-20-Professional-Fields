@@ -20,4 +20,4 @@
 | [Speechwriting subscription](ai-16-14-speechwriting-subscription.md) | Each speaking engagement restarts research and drafting. | $7,500 MVP → $28,000 |
 | [Communications knowledge library](ai-16-15-communications-knowledge-library.md) | Approved bios, facts and messaging are scattered. | $6,500 MVP → $23,500 |
 
-Become an AI-optimized specialist for PR and Communications: [Complete AI Training](https://completeaitraining.com/certification/12b-ai-certification-for-pr-and-communications-specialists/). Browse these ideas on [nexibeo.com](https://nexibeo.com/ideas/field/pr-and-communications/).
+Become an AI-optimized specialist for PR and Communications: [Complete AI Training](https://completeaitraining.com/certification/12b-ai-certification-for-pr-and-communications-specialists/). Browse these ideas on [nexibeo.com](https://nexibeo.com/solutions/field/pr-and-communications/).

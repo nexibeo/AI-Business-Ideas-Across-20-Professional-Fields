@@ -20,4 +20,4 @@
 | [Proactive service update platform](ai-02-14-proactive-service-update-platform.md) | Customers receive unclear or contradictory incident updates. | $8,000 MVP → $30,000 |
 | [Outsourced support optimization service](ai-02-15-outsourced-support-optimization-service.md) | Support costs grow without visibility into avoidable work. | $7,000 MVP → $25,500 |
 
-Become an AI-optimized specialist for Customer Support: [Complete AI Training](https://completeaitraining.com/certification/12b-ai-certification-for-customer-support-specialists/). Browse these ideas on [nexibeo.com](https://nexibeo.com/ideas/field/customer-support/).
+Become an AI-optimized specialist for Customer Support: [Complete AI Training](https://completeaitraining.com/certification/12b-ai-certification-for-customer-support-specialists/). Browse these ideas on [nexibeo.com](https://nexibeo.com/solutions/field/customer-support/).

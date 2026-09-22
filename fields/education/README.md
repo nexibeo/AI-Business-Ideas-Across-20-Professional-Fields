@@ -20,4 +20,4 @@
 | [Cohort learning assistant](ai-03-14-cohort-learning-assistant.md) | Questions repeat and useful discussion disappears between sessions. | $5,000 MVP → $15,000 |
 | [Educational content quality review](ai-03-15-educational-content-quality-review.md) | Errors and missing explanations survive fragmented editorial checks. | $5,000 MVP → $16,000 |
 
-Become an AI-optimized specialist for Education: [Complete AI Training](https://completeaitraining.com/tag/education/?contentType=ai-certification). Browse these ideas on [nexibeo.com](https://nexibeo.com/ideas/field/education/).
+Become an AI-optimized specialist for Education: [Complete AI Training](https://completeaitraining.com/tag/education/?contentType=ai-certification). Browse these ideas on [nexibeo.com](https://nexibeo.com/solutions/field/education/).

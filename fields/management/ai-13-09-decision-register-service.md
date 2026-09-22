@@ -97,7 +97,7 @@ Confirm owners, decisions and commitments. Keep employee discussion notes access
 - Colors: `#272f91` primary · `#c9c554` accent · `#e4e6f1` surface · `#22201e` ink
 - Type: Archivo for headings, Lora for text
 - Voice: Practical, organised, candid
-- Demo site: [https://nexibeo.com/ideas/decision-register-service/demo/](https://nexibeo.com/ideas/decision-register-service/demo/)
+- Demo site: [https://nexibeo.com/solutions/decision-register-service/demo/](https://nexibeo.com/solutions/decision-register-service/demo/)
 
 ## Investment indication
 
@@ -117,13 +117,13 @@ Indicative build budget, from MVP to full product. This is a planning range, not
 | MVP and paid pilot (about 3 customers) | $30–$60 | $40–$90 | **$70–$150** |
 | Full product (about 50 customers) | $110–$210 | $280–$560 | **$390–$770** |
 
-**Co-create this project with us:** [contact Nexibeo](https://nexibeo.com/ideas/decision-register-service/#apply) and we build it with you.
+**Get this built:** [contact Nexibeo](https://nexibeo.com/solutions/decision-register-service/#apply). We build it with our AI software factory, usually in days to a few weeks, for you to run internally or offer to your clients.
 
 ## Research status
 Concept proposal expanded from the 315-idea conversation. Demand, pricing, differentiation, build scope and integration feasibility are hypotheses, not verified market findings. Category link is inspiration rather than evidence of business viability.
 
 ## Credits and next steps
 
-- **Estimation and building this idea:** see the full idea page on [nexibeo.com](https://nexibeo.com/ideas/decision-register-service/) for more detail on estimation, and to co-create and build this idea with Nexibeo.
+- **Estimation and having it built:** see the full solution page on [nexibeo.com](https://nexibeo.com/solutions/decision-register-service/) for more detail on estimation. Nexibeo builds it for you as a custom AI implementation, to run internally or to offer to your own clients.
 - **Become an AI-optimized specialist for Management:** [Complete AI Training](https://completeaitraining.com/tag/management/?contentType=ai-certification).
 - Field news: [AI news for Management](https://completeaitraining.com/all-ai-news-for-management/).

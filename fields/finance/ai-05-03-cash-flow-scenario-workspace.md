@@ -97,7 +97,7 @@ Reconcile calculations to approved records. Keep proposed entries and payment ac
 - Colors: `#719127` primary · `#8754c9` accent · `#edf1e4` surface · `#22201e` ink
 - Type: Manrope for headings, Manrope for text
 - Voice: Exact, sober, trustworthy
-- Demo site: [https://nexibeo.com/ideas/cash-flow-scenario-workspace/demo/](https://nexibeo.com/ideas/cash-flow-scenario-workspace/demo/)
+- Demo site: [https://nexibeo.com/solutions/cash-flow-scenario-workspace/demo/](https://nexibeo.com/solutions/cash-flow-scenario-workspace/demo/)
 
 ## Investment indication
 
@@ -117,13 +117,13 @@ Indicative build budget, from MVP to full product. This is a planning range, not
 | MVP and paid pilot (about 3 customers) | $50–$100 | $50–$100 | **$100–$200** |
 | Full product (about 50 customers) | $190–$380 | $350–$700 | **$540–$1,080** |
 
-**Co-create this project with us:** [contact Nexibeo](https://nexibeo.com/ideas/cash-flow-scenario-workspace/#apply) and we build it with you.
+**Get this built:** [contact Nexibeo](https://nexibeo.com/solutions/cash-flow-scenario-workspace/#apply). We build it with our AI software factory, usually in days to a few weeks, for you to run internally or offer to your clients.
 
 ## Research status
 Concept proposal expanded from the 315-idea conversation. Demand, pricing, differentiation, build scope and integration feasibility are hypotheses, not verified market findings. Category link is inspiration rather than evidence of business viability.
 
 ## Credits and next steps
 
-- **Estimation and building this idea:** see the full idea page on [nexibeo.com](https://nexibeo.com/ideas/cash-flow-scenario-workspace/) for more detail on estimation, and to co-create and build this idea with Nexibeo.
+- **Estimation and having it built:** see the full solution page on [nexibeo.com](https://nexibeo.com/solutions/cash-flow-scenario-workspace/) for more detail on estimation. Nexibeo builds it for you as a custom AI implementation, to run internally or to offer to your own clients.
 - **Become an AI-optimized specialist for Finance:** [Complete AI Training](https://completeaitraining.com/tag/finance/?contentType=ai-certification).
 - Field news: [AI news for Finance](https://completeaitraining.com/all-ai-news-for-finance/).

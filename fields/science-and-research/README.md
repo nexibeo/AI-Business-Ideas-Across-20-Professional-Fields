@@ -20,4 +20,4 @@
 | [Technology commercialization briefs](ai-20-14-technology-commercialization-briefs.md) | Promising research lacks a clear application hypothesis. | $8,000 MVP → $29,000 |
 | [Scientific translation service](ai-20-15-scientific-translation-service.md) | Technical terminology and methodological meaning drift in translation. | $10,500 MVP → $41,500 |
 
-Become an AI-optimized specialist for Science and Research: [Complete AI Training](https://completeaitraining.com/tag/science-and-research/?contentType=ai-certification). Browse these ideas on [nexibeo.com](https://nexibeo.com/ideas/field/science-and-research/).
+Become an AI-optimized specialist for Science and Research: [Complete AI Training](https://completeaitraining.com/tag/science-and-research/?contentType=ai-certification). Browse these ideas on [nexibeo.com](https://nexibeo.com/solutions/field/science-and-research/).

@@ -20,4 +20,4 @@
 | [Accessibility adaptation studio](ai-01-14-accessibility-adaptation-studio.md) | Content is published without reliable accessible alternatives. | $8,000 MVP → $30,500 |
 | [Creative asset librarian](ai-01-15-creative-asset-librarian.md) | Teams recreate assets because approved work is hard to find. | $8,000 MVP → $30,500 |
 
-Become an AI-optimized specialist for Creatives: [Complete AI Training](https://completeaitraining.com/certification/12b-ai-certification-for-creatives/). Browse these ideas on [nexibeo.com](https://nexibeo.com/ideas/field/creatives/).
+Become an AI-optimized specialist for Creatives: [Complete AI Training](https://completeaitraining.com/certification/12b-ai-certification-for-creatives/). Browse these ideas on [nexibeo.com](https://nexibeo.com/solutions/field/creatives/).

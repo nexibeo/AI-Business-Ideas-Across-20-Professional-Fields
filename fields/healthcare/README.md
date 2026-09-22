@@ -20,4 +20,4 @@
 | [Healthcare directory maintenance](ai-07-14-healthcare-directory-maintenance.md) | Services and booking details differ across channels. | $11,500 MVP → $47,000 |
 | [Clinic capacity reporting](ai-07-15-clinic-capacity-reporting.md) | Unused appointments and bottlenecks are poorly understood. | $11,500 MVP → $47,000 |
 
-Become an AI-optimized specialist for Healthcare: [Complete AI Training](https://completeaitraining.com/certification/12b-ai-certification-for-healthcare-specialists/). Browse these ideas on [nexibeo.com](https://nexibeo.com/ideas/field/healthcare/).
+Become an AI-optimized specialist for Healthcare: [Complete AI Training](https://completeaitraining.com/certification/12b-ai-certification-for-healthcare-specialists/). Browse these ideas on [nexibeo.com](https://nexibeo.com/solutions/field/healthcare/).

@@ -97,7 +97,7 @@ Verify property facts and scope assumptions. Clearly label visual alterations. P
 - Colors: `#91278d` primary · `#54c95a` accent · `#f1e4f0` surface · `#22201e` ink
 - Type: Playfair Display for headings, Source Sans 3 for text
 - Voice: Solid, practical, on-schedule
-- Demo site: [https://nexibeo.com/ideas/virtual-staging-service/demo/](https://nexibeo.com/ideas/virtual-staging-service/demo/)
+- Demo site: [https://nexibeo.com/solutions/virtual-staging-service/demo/](https://nexibeo.com/solutions/virtual-staging-service/demo/)
 
 ## Investment indication
 
@@ -117,13 +117,13 @@ Indicative build budget, from MVP to full product. This is a planning range, not
 | MVP and paid pilot (about 3 customers) | $40–$80 | $150–$310 | **$190–$390** |
 | Full product (about 50 customers) | $160–$320 | $2,100–$4,200 | **$2,260–$4,520** |
 
-**Co-create this project with us:** [contact Nexibeo](https://nexibeo.com/ideas/virtual-staging-service/#apply) and we build it with you.
+**Get this built:** [contact Nexibeo](https://nexibeo.com/solutions/virtual-staging-service/#apply). We build it with our AI software factory, usually in days to a few weeks, for you to run internally or offer to your clients.
 
 ## Research status
 Concept proposal expanded from the 315-idea conversation. Demand, pricing, differentiation, build scope and integration feasibility are hypotheses, not verified market findings. Category link is inspiration rather than evidence of business viability.
 
 ## Credits and next steps
 
-- **Estimation and building this idea:** see the full idea page on [nexibeo.com](https://nexibeo.com/ideas/virtual-staging-service/) for more detail on estimation, and to co-create and build this idea with Nexibeo.
+- **Estimation and having it built:** see the full solution page on [nexibeo.com](https://nexibeo.com/solutions/virtual-staging-service/) for more detail on estimation. Nexibeo builds it for you as a custom AI implementation, to run internally or to offer to your own clients.
 - **Become an AI-optimized specialist for Real Estate and Construction:** [Complete AI Training](https://completeaitraining.com/certification/12b-ai-certification-for-real-estate-agents/).
 - Field news: [AI news for Real Estate and Construction](https://completeaitraining.com/all-ai-news-for-real-estate-and-construction/).

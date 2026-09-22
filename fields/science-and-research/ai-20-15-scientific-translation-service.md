@@ -97,7 +97,7 @@ Preserve original data, methods, citations and research limitations. Use researc
 - Colors: `#91274a` primary · `#54c987` accent · `#f1e4e9` surface · `#22201e` ink
 - Type: Sora for headings, Work Sans for text
 - Voice: Rigorous, transparent, cited
-- Demo site: [https://nexibeo.com/ideas/scientific-translation-service/demo/](https://nexibeo.com/ideas/scientific-translation-service/demo/)
+- Demo site: [https://nexibeo.com/solutions/scientific-translation-service/demo/](https://nexibeo.com/solutions/scientific-translation-service/demo/)
 
 ## Investment indication
 
@@ -117,13 +117,13 @@ Indicative build budget, from MVP to full product. This is a planning range, not
 | MVP and paid pilot (about 3 customers) | $40–$80 | $100–$200 | **$140–$280** |
 | Full product (about 50 customers) | $160–$320 | $1,230–$2,450 | **$1,390–$2,770** |
 
-**Co-create this project with us:** [contact Nexibeo](https://nexibeo.com/ideas/scientific-translation-service/#apply) and we build it with you.
+**Get this built:** [contact Nexibeo](https://nexibeo.com/solutions/scientific-translation-service/#apply). We build it with our AI software factory, usually in days to a few weeks, for you to run internally or offer to your clients.
 
 ## Research status
 Concept proposal expanded from the 315-idea conversation. Demand, pricing, differentiation, build scope and integration feasibility are hypotheses, not verified market findings. Category link is inspiration rather than evidence of business viability.
 
 ## Credits and next steps
 
-- **Estimation and building this idea:** see the full idea page on [nexibeo.com](https://nexibeo.com/ideas/scientific-translation-service/) for more detail on estimation, and to co-create and build this idea with Nexibeo.
+- **Estimation and having it built:** see the full solution page on [nexibeo.com](https://nexibeo.com/solutions/scientific-translation-service/) for more detail on estimation. Nexibeo builds it for you as a custom AI implementation, to run internally or to offer to your own clients.
 - **Become an AI-optimized specialist for Science and Research:** [Complete AI Training](https://completeaitraining.com/tag/science-and-research/?contentType=ai-certification).
 - Field news: [AI news for Science and Research](https://completeaitraining.com/all-ai-news-for-science-and-research/).

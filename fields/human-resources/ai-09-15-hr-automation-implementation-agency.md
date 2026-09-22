@@ -97,7 +97,7 @@ Keep employee data access explicit and confidential. Use human judgment for pers
 - Colors: `#279168` primary · `#c9548d` accent · `#e4f1ec` surface · `#22201e` ink
 - Type: Fraunces for headings, Inter for text
 - Voice: Fair, human, straightforward
-- Demo site: [https://nexibeo.com/ideas/hr-automation-implementation-agency/demo/](https://nexibeo.com/ideas/hr-automation-implementation-agency/demo/)
+- Demo site: [https://nexibeo.com/solutions/hr-automation-implementation-agency/demo/](https://nexibeo.com/solutions/hr-automation-implementation-agency/demo/)
 
 ## Investment indication
 
@@ -117,13 +117,13 @@ Indicative build budget, from MVP to full product. This is a planning range, not
 | MVP and paid pilot (about 3 customers) | $30–$60 | $60–$120 | **$90–$180** |
 | Full product (about 50 customers) | $110–$210 | $530–$1,050 | **$640–$1,260** |
 
-**Co-create this project with us:** [contact Nexibeo](https://nexibeo.com/ideas/hr-automation-implementation-agency/#apply) and we build it with you.
+**Get this built:** [contact Nexibeo](https://nexibeo.com/solutions/hr-automation-implementation-agency/#apply). We build it with our AI software factory, usually in days to a few weeks, for you to run internally or offer to your clients.
 
 ## Research status
 Concept proposal expanded from the 315-idea conversation. Demand, pricing, differentiation, build scope and integration feasibility are hypotheses, not verified market findings. Category link is inspiration rather than evidence of business viability.
 
 ## Credits and next steps
 
-- **Estimation and building this idea:** see the full idea page on [nexibeo.com](https://nexibeo.com/ideas/hr-automation-implementation-agency/) for more detail on estimation, and to co-create and build this idea with Nexibeo.
+- **Estimation and having it built:** see the full solution page on [nexibeo.com](https://nexibeo.com/solutions/hr-automation-implementation-agency/) for more detail on estimation. Nexibeo builds it for you as a custom AI implementation, to run internally or to offer to your own clients.
 - **Become an AI-optimized specialist for Human Resources:** [Complete AI Training](https://completeaitraining.com/tag/human-resources/?contentType=ai-certification).
 - Field news: [AI news for Human Resources](https://completeaitraining.com/all-ai-news-for-human-resources/).

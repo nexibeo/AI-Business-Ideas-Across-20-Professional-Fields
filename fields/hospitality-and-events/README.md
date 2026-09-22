@@ -20,4 +20,4 @@
 | [Hospitality package designer](ai-08-14-hospitality-package-designer.md) | Packages combine attractive ideas with inconsistent margins and availability. | $8,500 MVP → $31,500 |
 | [Event operations assistant](ai-08-15-event-operations-assistant.md) | Supplier responsibilities and schedule changes are difficult to coordinate. | $9,500 MVP → $36,500 |
 
-Become an AI-optimized specialist for Hospitality and Events: [Complete AI Training](https://completeaitraining.com/certification/12b-ai-certification-for-hospitality-and-events-specialists/). Browse these ideas on [nexibeo.com](https://nexibeo.com/ideas/field/hospitality-and-events/).
+Become an AI-optimized specialist for Hospitality and Events: [Complete AI Training](https://completeaitraining.com/certification/12b-ai-certification-for-hospitality-and-events-specialists/). Browse these ideas on [nexibeo.com](https://nexibeo.com/solutions/field/hospitality-and-events/).

@@ -20,4 +20,4 @@
 | [Regulatory update briefing](ai-12-14-regulatory-update-briefing.md) | Official updates are difficult to connect to relevant internal questions. | $9,500 MVP → $37,000 |
 | [Approved template assembly](ai-12-15-approved-template-assembly.md) | Manual template population introduces inconsistent details. | $10,500 MVP → $43,500 |
 
-Become an AI-optimized specialist for Legal: [Complete AI Training](https://completeaitraining.com/certification/12b-ai-certification-for-legal-specialists/). Browse these ideas on [nexibeo.com](https://nexibeo.com/ideas/field/legal/).
+Become an AI-optimized specialist for Legal: [Complete AI Training](https://completeaitraining.com/certification/12b-ai-certification-for-legal-specialists/). Browse these ideas on [nexibeo.com](https://nexibeo.com/solutions/field/legal/).

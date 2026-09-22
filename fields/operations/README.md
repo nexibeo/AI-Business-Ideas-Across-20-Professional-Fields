@@ -20,4 +20,4 @@
 | [Vendor performance reporting](ai-15-14-vendor-performance-reporting.md) | Vendor reviews rely on inconsistent anecdotal evidence. | $6,000 MVP → $21,000 |
 | [Automation monitoring subscription](ai-15-15-automation-monitoring-subscription.md) | Failed automations silently create missing or duplicate work. | $9,500 MVP → $38,000 |
 
-Become an AI-optimized specialist for Operations: [Complete AI Training](https://completeaitraining.com/tag/operations/?contentType=ai-certification). Browse these ideas on [nexibeo.com](https://nexibeo.com/ideas/field/operations/).
+Become an AI-optimized specialist for Operations: [Complete AI Training](https://completeaitraining.com/tag/operations/?contentType=ai-certification). Browse these ideas on [nexibeo.com](https://nexibeo.com/solutions/field/operations/).

@@ -20,4 +20,4 @@
 | [Company knowledge briefing assistant](ai-04-14-company-knowledge-briefing-assistant.md) | Executive questions require repeated searches across disconnected documents. | $5,500 MVP → $17,000 |
 | [Strategy workshop business](ai-04-15-strategy-workshop-business.md) | Remote planning sessions produce vague priorities without follow-through. | $7,500 MVP → $28,000 |
 
-Become an AI-optimized specialist for Executives and Strategy: [Complete AI Training](https://completeaitraining.com/tag/executives-and-strategy/?contentType=ai-certification). Browse these ideas on [nexibeo.com](https://nexibeo.com/ideas/field/executives-and-strategy/).
+Become an AI-optimized specialist for Executives and Strategy: [Complete AI Training](https://completeaitraining.com/tag/executives-and-strategy/?contentType=ai-certification). Browse these ideas on [nexibeo.com](https://nexibeo.com/solutions/field/executives-and-strategy/).

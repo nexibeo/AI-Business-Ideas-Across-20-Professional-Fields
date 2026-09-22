@@ -20,4 +20,4 @@
 | [AI workflow evaluation service](ai-11-14-ai-workflow-evaluation-service.md) | Teams lack task-specific evidence of assistant reliability. | $8,500 MVP → $33,000 |
 | [Small-business automation maintenance](ai-11-15-small-business-automation-maintenance.md) | Automations break silently after upstream changes. | $11,000 MVP → $45,000 |
 
-Become an AI-optimized specialist for IT and Development: [Complete AI Training](https://completeaitraining.com/certification/12b-ai-certification-for-it-and-development-specialists/). Browse these ideas on [nexibeo.com](https://nexibeo.com/ideas/field/it-and-development/).
+Become an AI-optimized specialist for IT and Development: [Complete AI Training](https://completeaitraining.com/certification/12b-ai-certification-for-it-and-development-specialists/). Browse these ideas on [nexibeo.com](https://nexibeo.com/solutions/field/it-and-development/).
