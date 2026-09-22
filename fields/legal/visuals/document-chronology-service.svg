@@ -1,7 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Document chronology service">
-<rect width="1600" height="1000" fill="hsl(207 28% 93%)"/><circle cx="1347" cy="656" r="23" fill="hsl(207 30% 80%)"/><circle cx="1163" cy="361" r="9" fill="hsl(207 55% 38%)"/><circle cx="1228" cy="484" r="6" fill="hsl(207 30% 80%)"/><circle cx="1364" cy="418" r="27" fill="hsl(207 30% 80%)"/><circle cx="940" cy="518" r="9" fill="hsl(207 30% 80%)"/><circle cx="1287" cy="530" r="26" fill="hsl(207 55% 38%)"/><circle cx="1178" cy="706" r="22" fill="hsl(207 55% 38%)"/><circle cx="882" cy="367" r="26" fill="hsl(207 30% 80%)"/><circle cx="977" cy="567" r="23" fill="hsl(207 55% 38%)"/><circle cx="880" cy="302" r="12" fill="hsl(207 55% 38%)"/><circle cx="877" cy="481" r="26" fill="hsl(207 30% 80%)"/><circle cx="1411" cy="340" r="26" fill="hsl(207 30% 80%)"/><circle cx="1169" cy="226" r="16" fill="hsl(207 30% 80%)"/><circle cx="838" cy="212" r="13" fill="hsl(207 55% 38%)"/><circle cx="981" cy="339" r="25" fill="hsl(207 55% 38%)"/><circle cx="1179" cy="617" r="23" fill="hsl(207 30% 80%)"/><circle cx="1406" cy="720" r="16" fill="hsl(207 30% 80%)"/><circle cx="933" cy="578" r="18" fill="hsl(207 30% 80%)"/><circle cx="1148" cy="389" r="20" fill="hsl(207 30% 80%)"/><circle cx="907" cy="438" r="23" fill="hsl(207 30% 80%)"/><circle cx="1326" cy="633" r="9" fill="hsl(207 55% 38%)"/><circle cx="1285" cy="411" r="20" fill="hsl(207 55% 38%)"/><circle cx="882" cy="356" r="25" fill="hsl(207 30% 80%)"/><circle cx="1450" cy="279" r="14" fill="hsl(207 30% 80%)"/><circle cx="1147" cy="419" r="25" fill="hsl(207 30% 80%)"/><circle cx="1292" cy="257" r="15" fill="hsl(207 30% 80%)"/><circle cx="1008" cy="177" r="20" fill="hsl(207 30% 80%)"/><circle cx="1435" cy="203" r="27" fill="hsl(207 30% 80%)"/><circle cx="1232" cy="205" r="24" fill="hsl(207 30% 80%)"/><circle cx="1103" cy="547" r="19" fill="hsl(207 30% 80%)"/><circle cx="1315" cy="592" r="9" fill="hsl(207 30% 80%)"/><circle cx="1303" cy="458" r="20" fill="hsl(207 30% 80%)"/><circle cx="1005" cy="376" r="22" fill="hsl(207 30% 80%)"/><circle cx="1179" cy="516" r="16" fill="hsl(207 55% 38%)"/><circle cx="1393" cy="384" r="20" fill="hsl(207 30% 80%)"/><circle cx="948" cy="392" r="11" fill="hsl(207 30% 80%)"/><circle cx="1075" cy="499" r="23" fill="hsl(207 30% 80%)"/><circle cx="1216" cy="473" r="26" fill="hsl(207 30% 80%)"/><circle cx="839" cy="330" r="11" fill="hsl(207 55% 38%)"/><circle cx="1196" cy="728" r="24" fill="hsl(207 55% 38%)"/><circle cx="874" cy="472" r="16" fill="hsl(207 55% 38%)"/><circle cx="982" cy="722" r="8" fill="hsl(207 30% 80%)"/><circle cx="1371" cy="439" r="18" fill="hsl(207 30% 80%)"/><circle cx="1448" cy="235" r="24" fill="hsl(207 55% 38%)"/><circle cx="1415" cy="560" r="9" fill="hsl(207 55% 38%)"/><circle cx="1160" cy="469" r="12" fill="hsl(207 55% 38%)"/><circle cx="1268" cy="543" r="25" fill="hsl(207 30% 80%)"/><circle cx="1157" cy="250" r="20" fill="hsl(207 30% 80%)"/><circle cx="1017" cy="315" r="9" fill="hsl(207 30% 80%)"/><circle cx="983" cy="667" r="22" fill="hsl(207 30% 80%)"/><circle cx="1337" cy="338" r="17" fill="hsl(207 30% 80%)"/><circle cx="1309" cy="228" r="17" fill="hsl(207 30% 80%)"/><circle cx="1260" cy="283" r="18" fill="hsl(207 30% 80%)"/><circle cx="1000" cy="683" r="15" fill="hsl(207 30% 80%)"/><circle cx="1263" cy="533" r="6" fill="hsl(207 55% 38%)"/><circle cx="1424" cy="577" r="13" fill="hsl(207 30% 80%)"/><circle cx="1429" cy="365" r="21" fill="hsl(207 55% 38%)"/><circle cx="1352" cy="577" r="23" fill="hsl(207 30% 80%)"/><circle cx="1098" cy="648" r="23" fill="hsl(207 30% 80%)"/><circle cx="1033" cy="455" r="16" fill="hsl(207 55% 38%)"/>
-<rect x="100" y="160" width="166" height="68" rx="34" fill="#ffffff" fill-opacity="0.72"/>
-<text x="124" y="205" font-family="ui-monospace,Menlo,monospace" font-size="30" letter-spacing="4" fill="hsl(207 55% 38%)">LEGAL</text>
-<text x="116" y="340" font-family="Georgia,serif" font-size="96" fill="#33312f">Document</text><text x="116" y="444" font-family="Georgia,serif" font-size="96" fill="#33312f">chronology</text><text x="116" y="548" font-family="Georgia,serif" font-size="96" fill="#33312f">service</text>
-<text x="120" y="880" font-family="ui-monospace,Menlo,monospace" font-size="28" letter-spacing="2" fill="#6B655D">Research evidence workspace with reviewed deliverables</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<defs><linearGradient id="gdocumentchro" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="hsl(207 55% 38%)"/><stop offset="1" stop-color="hsl(357 22% 52%)"/></linearGradient></defs>
+<rect x="0" y="0" width="1600" height="1000" fill="hsl(207 28% 93%)"/>
+<circle cx="1640" cy="-40" r="260" fill="hsl(207 30% 80%)"/>
+<circle cx="1560" cy="60" r="130" fill="hsl(357 22% 52%)"/>
+<rect x="0" y="862" width="1600" height="138" fill="hsl(207 30% 80%)"/>
+<line x1="0" y1="862" x2="1600" y2="862" stroke="hsl(207 55% 38%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="760" y1="862" x2="760" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="890" y1="862" x2="890" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1020" y1="862" x2="1020" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1150" y1="862" x2="1150" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1280" y1="862" x2="1280" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1410" y1="862" x2="1410" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1540" y1="862" x2="1540" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<ellipse cx="1532.5" cy="966.3" rx="29.9" ry="6.5" fill="hsl(207 28% 93%)"/>
+<rect x="1500" y="913" width="45.5" height="39" fill="#ffffff" rx="5.2"/><rect x="1500" y="913" width="45.5" height="39" fill="none" stroke="hsl(207 55% 38%)" stroke-width="3.2" rx="5.2"/><path d="M1545.5 920.8 q19.5 0 19.5 11.7 q0 11.7 -19.5 11.7" fill="none" stroke="hsl(207 55% 38%)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="210" cy="520" r="5" fill="hsl(207 30% 80%)"/>
+<circle cx="300" cy="360" r="4" fill="hsl(207 30% 80%)"/>
+<circle cx="380" cy="640" r="5" fill="hsl(207 30% 80%)"/>
+<rect x="700" y="220" width="760" height="560" fill="#ffffff" rx="14"/>
+<rect x="700" y="220" width="760" height="56" fill="url(#gdocumentchro)" rx="14"/>
+<rect x="700" y="262" width="760" height="14" fill="url(#gdocumentchro)"/>
+<circle cx="722" cy="248" r="5" fill="hsl(207 30% 80%)"/>
+<circle cx="742" cy="248" r="5" fill="hsl(207 30% 80%)"/>
+<circle cx="762" cy="248" r="5" fill="hsl(207 30% 80%)"/>
+<text x="726" y="290" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#33312f" text-anchor="start" font-weight="700">Document explorer</text>
+<rect x="726" y="296" width="155.8" height="30" fill="#ffffff" rx="15"/>
+<rect x="726" y="296" width="155.8" height="30" fill="none" stroke="hsl(207 30% 80%)" stroke-width="1.5" rx="15"/>
+<rect x="903" y="296" width="141.6" height="30" fill="hsl(207 55% 38%)" rx="15"/>
+<rect x="726" y="342" width="439" height="414" fill="#ffffff" rx="8"/>
+<rect x="740" y="550.2" width="39.7" height="191.8" fill="hsl(207 30% 80%)" rx="3"/>
+<rect x="808.5" y="524.9" width="39.7" height="217.1" fill="hsl(207 55% 38%)" rx="3"/>
+<rect x="877" y="499.6" width="39.7" height="242.4" fill="hsl(207 30% 80%)" rx="3"/>
+<rect x="945.5" y="474.3" width="39.7" height="267.7" fill="hsl(207 55% 38%)" rx="3"/>
+<rect x="1014" y="449" width="39.7" height="293" fill="hsl(207 30% 80%)" rx="3"/>
+<rect x="1082.5" y="423.7" width="39.7" height="318.3" fill="hsl(207 55% 38%)" rx="3"/>
+<rect x="1185" y="342" width="249" height="128" fill="hsl(207 28% 93%)" rx="8"/>
+<rect x="1197" y="354" width="99.6" height="8" fill="hsl(207 30% 80%)" rx="4"/>
+<rect x="1197" y="370" width="149.4" height="12" fill="hsl(207 55% 38%)" rx="4"/>
+<rect x="1185" y="480" width="249" height="128" fill="hsl(207 28% 93%)" rx="8"/>
+<rect x="1197" y="492" width="99.6" height="8" fill="hsl(207 30% 80%)" rx="4"/>
+<rect x="1197" y="508" width="149.4" height="12" fill="hsl(207 55% 38%)" rx="4"/>
+<rect x="1185" y="618" width="249" height="128" fill="hsl(207 28% 93%)" rx="8"/>
+<rect x="1197" y="630" width="99.6" height="8" fill="hsl(207 30% 80%)" rx="4"/>
+<rect x="1197" y="646" width="149.4" height="12" fill="hsl(207 55% 38%)" rx="4"/>
+<ellipse cx="1540" cy="234.8" rx="67.2" ry="14.4" fill="hsl(207 30% 80%)"/>
+<rect x="1480" y="110" width="120" height="22.8" fill="hsl(207 55% 38%)" rx="2.4"/><rect x="1480" y="138.8" width="120" height="22.8" fill="hsl(207 30% 80%)" rx="2.4"/><rect x="1480" y="167.6" width="120" height="22.8" fill="hsl(357 22% 52%)" rx="2.4"/>
+<ellipse cx="675" cy="883.6" rx="45" ry="9" fill="hsl(207 30% 80%)"/>
+<circle cx="662.4" cy="822.4" r="27" fill="none" stroke="hsl(207 55% 38%)" stroke-width="6.3"/><line x1="682.2" y1="842.2" x2="712.8" y2="872.8" stroke="hsl(207 55% 38%)" stroke-width="8.1" stroke-linecap="round"/>
 </svg>

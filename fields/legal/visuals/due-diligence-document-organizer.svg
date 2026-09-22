@@ -1,7 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Due diligence document organizer">
-<rect width="1600" height="1000" fill="hsl(207 28% 93%)"/><rect x="820" y="170" width="640" height="64" rx="14" fill="hsl(207 30% 80%)"/><rect x="844" y="192" width="367.7476311614737" height="20" rx="10" fill="hsl(207 55% 38%)"/><rect x="820" y="262" width="640" height="64" rx="14" fill="hsl(207 30% 80%)"/><rect x="844" y="284" width="216.5794438496232" height="20" rx="10" fill="hsl(207 55% 38%)"/><rect x="820" y="354" width="640" height="64" rx="14" fill="hsl(207 30% 80%)"/><rect x="844" y="376" width="189.5941859157756" height="20" rx="10" fill="hsl(207 55% 38%)"/><rect x="820" y="446" width="640" height="64" rx="14" fill="hsl(207 30% 80%)"/><rect x="844" y="468" width="353.13184822909534" height="20" rx="10" fill="hsl(207 55% 38%)"/><rect x="820" y="538" width="640" height="64" rx="14" fill="hsl(207 30% 80%)"/><rect x="844" y="560" width="380.4939267737791" height="20" rx="10" fill="hsl(207 55% 38%)"/><rect x="820" y="630" width="640" height="64" rx="14" fill="hsl(207 30% 80%)"/><rect x="844" y="652" width="144.2835165001452" height="20" rx="10" fill="hsl(207 55% 38%)"/>
-<rect x="100" y="160" width="166" height="68" rx="34" fill="#ffffff" fill-opacity="0.72"/>
-<text x="124" y="205" font-family="ui-monospace,Menlo,monospace" font-size="30" letter-spacing="4" fill="hsl(207 55% 38%)">LEGAL</text>
-<text x="116" y="340" font-family="Georgia,serif" font-size="96" fill="#33312f">Due diligence</text><text x="116" y="444" font-family="Georgia,serif" font-size="96" fill="#33312f">document</text><text x="116" y="548" font-family="Georgia,serif" font-size="96" fill="#33312f">organizer</text>
-<text x="120" y="880" font-family="ui-monospace,Menlo,monospace" font-size="28" letter-spacing="2" fill="#6B655D">Client intake portal and staff exception queue</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<defs><linearGradient id="gduediligence" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="hsl(207 55% 38%)"/><stop offset="1" stop-color="hsl(357 22% 52%)"/></linearGradient></defs>
+<rect x="0" y="0" width="1600" height="1000" fill="hsl(207 28% 93%)"/>
+<circle cx="1640" cy="-40" r="260" fill="hsl(207 30% 80%)"/>
+<circle cx="1560" cy="60" r="130" fill="hsl(357 22% 52%)"/>
+<rect x="0" y="862" width="1600" height="138" fill="hsl(207 30% 80%)"/>
+<line x1="0" y1="862" x2="1600" y2="862" stroke="hsl(207 55% 38%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="760" y1="862" x2="760" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="890" y1="862" x2="890" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1020" y1="862" x2="1020" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1150" y1="862" x2="1150" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1280" y1="862" x2="1280" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1410" y1="862" x2="1410" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1540" y1="862" x2="1540" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<ellipse cx="1532.5" cy="966.3" rx="29.9" ry="6.5" fill="hsl(207 28% 93%)"/>
+<path d="M1506.5 965 q0 -39 26 -46.8" fill="none" stroke="hsl(207 55% 38%)" stroke-width="3.9" stroke-linecap="round" stroke-linejoin="round"/><path d="M1532.5 965 q3.2 -45.5 27.3 -55.9" fill="none" stroke="hsl(207 55% 38%)" stroke-width="3.9" stroke-linecap="round" stroke-linejoin="round"/><path d="M1519.5 965 q-1.3 -27.3 18.2 -32.5" fill="none" stroke="hsl(357 22% 52%)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/><path d="M1500 950.7 h46.8 l-3.9 14.3 h-39z" fill="hsl(207 55% 38%)"/>
+<circle cx="120" cy="210" r="7" fill="hsl(207 30% 80%)"/>
+<circle cx="90" cy="700" r="6" fill="hsl(207 30% 80%)"/>
+<circle cx="170" cy="860" r="6" fill="hsl(207 30% 80%)"/>
+<rect x="700" y="220" width="760" height="560" fill="#ffffff" rx="14"/>
+<rect x="700" y="220" width="760" height="56" fill="url(#gduediligence)" rx="14"/>
+<rect x="700" y="262" width="760" height="14" fill="url(#gduediligence)"/>
+<circle cx="722" cy="248" r="5" fill="hsl(207 30% 80%)"/>
+<circle cx="742" cy="248" r="5" fill="hsl(207 30% 80%)"/>
+<circle cx="762" cy="248" r="5" fill="hsl(207 30% 80%)"/>
+<text x="726" y="290" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#33312f" text-anchor="start" font-weight="700">Request matrix</text>
+<rect x="726" y="310" width="396.5" height="89.1" fill="#ffffff" rx="8"/>
+<rect x="726" y="310" width="396.5" height="89.1" fill="none" stroke="hsl(207 30% 80%)" stroke-width="1.5" rx="8"/>
+<rect x="740" y="348.5" width="12" height="12" fill="hsl(207 55% 38%)" rx="3"/>
+<rect x="762" y="349.5" width="326.5" height="6" fill="hsl(207 30% 80%)" rx="3"/>
+<rect x="726" y="413.1" width="396.5" height="89.1" fill="#ffffff" rx="8"/>
+<rect x="726" y="413.1" width="396.5" height="89.1" fill="none" stroke="hsl(207 30% 80%)" stroke-width="1.5" rx="8"/>
+<rect x="740" y="451.6" width="12" height="12" fill="hsl(207 30% 80%)" rx="3"/>
+<rect x="762" y="452.6" width="326.5" height="6" fill="hsl(207 30% 80%)" rx="3"/>
+<rect x="726" y="516.1" width="396.5" height="89.1" fill="#ffffff" rx="8"/>
+<rect x="726" y="516.1" width="396.5" height="89.1" fill="none" stroke="hsl(207 30% 80%)" stroke-width="1.5" rx="8"/>
+<rect x="740" y="554.7" width="12" height="12" fill="hsl(207 30% 80%)" rx="3"/>
+<rect x="762" y="555.7" width="326.5" height="6" fill="hsl(207 30% 80%)" rx="3"/>
+<rect x="726" y="611.2" width="396.5" height="144.8" fill="none" stroke="hsl(207 55% 38%)" stroke-width="1.5" rx="8"/>
+<line x1="914.2" y1="629.2" x2="924.2" y2="617.2" stroke="hsl(207 55% 38%)" stroke-width="3" stroke-linecap="round"/>
+<line x1="934.2" y1="629.2" x2="924.2" y2="617.2" stroke="hsl(207 55% 38%)" stroke-width="3" stroke-linecap="round"/>
+<text x="1144.5" y="290" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#33312f" text-anchor="start" font-weight="700">missing evidence</text>
+<rect x="1144.5" y="312" width="289.5" height="138" fill="hsl(207 28% 93%)" rx="8"/>
+<circle cx="1158.5" cy="381" r="6" fill="hsl(207 55% 38%)"/>
+<rect x="1174.5" y="377" width="243.5" height="8" fill="hsl(207 30% 80%)" rx="4"/>
+<rect x="1144.5" y="460" width="289.5" height="138" fill="hsl(207 28% 93%)" rx="8"/>
+<circle cx="1158.5" cy="529" r="6" fill="hsl(357 22% 52%)"/>
+<rect x="1174.5" y="525" width="243.5" height="8" fill="hsl(207 30% 80%)" rx="4"/>
+<rect x="1144.5" y="608" width="289.5" height="138" fill="hsl(207 28% 93%)" rx="8"/>
+<circle cx="1158.5" cy="677" r="6" fill="hsl(207 30% 80%)"/>
+<rect x="1174.5" y="673" width="243.5" height="8" fill="hsl(207 30% 80%)" rx="4"/>
+<ellipse cx="1540" cy="234.8" rx="67.2" ry="14.4" fill="hsl(207 30% 80%)"/>
+<path d="M1480 131.6 h48 l9.6 14.4 h62.4 v60 h-120 z" fill="hsl(207 55% 38%)"/><rect x="1480" y="146" width="120" height="60" fill="#ffffff"/><rect x="1480" y="146" width="120" height="10.8" fill="hsl(207 30% 80%)"/>
+<ellipse cx="675" cy="883.6" rx="45" ry="9" fill="hsl(207 30% 80%)"/>
+<rect x="630" y="797.2" width="72" height="82.8" fill="#ffffff" rx="4.5"/><rect x="630" y="797.2" width="72" height="82.8" fill="none" stroke="hsl(207 55% 38%)" stroke-width="3.6" rx="4.5"/><rect x="651.6" y="790" width="28.8" height="14.4" fill="hsl(207 55% 38%)" rx="2.7"/><line x1="642.6" y1="820.6" x2="689.4" y2="820.6" stroke="hsl(207 30% 80%)" stroke-width="4" stroke-linecap="round"/><line x1="642.6" y1="838.6" x2="689.4" y2="838.6" stroke="hsl(207 30% 80%)" stroke-width="4" stroke-linecap="round"/><line x1="642.6" y1="856.6" x2="689.4" y2="856.6" stroke="hsl(207 30% 80%)" stroke-width="4" stroke-linecap="round"/><circle cx="642.6" cy="817" r="2.7" fill="hsl(357 22% 52%)"/>
 </svg>

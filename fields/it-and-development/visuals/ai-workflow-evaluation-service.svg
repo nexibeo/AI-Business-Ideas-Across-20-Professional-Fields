@@ -1,7 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="AI workflow evaluation service">
-<rect width="1600" height="1000" fill="hsl(189 28% 93%)"/><circle cx="860" cy="210" r="30" fill="hsl(189 55% 38%)"/><rect x="920" y="194" width="409.1221551038325" height="32" rx="16" fill="hsl(189 30% 80%)"/><circle cx="860" cy="302" r="30" fill="hsl(189 55% 38%)"/><rect x="920" y="286" width="207.47701379470527" height="32" rx="16" fill="hsl(189 30% 80%)"/><circle cx="860" cy="394" r="30" fill="hsl(189 30% 80%)"/><rect x="920" y="378" width="272.9970121756196" height="32" rx="16" fill="hsl(189 30% 80%)"/><circle cx="860" cy="486" r="30" fill="hsl(189 55% 38%)"/><rect x="920" y="470" width="233.85028553195298" height="32" rx="16" fill="hsl(189 30% 80%)"/><circle cx="860" cy="578" r="30" fill="hsl(189 55% 38%)"/><rect x="920" y="562" width="523.5614383034408" height="32" rx="16" fill="hsl(189 30% 80%)"/><circle cx="860" cy="670" r="30" fill="hsl(189 55% 38%)"/><rect x="920" y="654" width="283.9598854538053" height="32" rx="16" fill="hsl(189 30% 80%)"/>
-<rect x="100" y="160" width="471" height="68" rx="34" fill="#ffffff" fill-opacity="0.72"/>
-<text x="124" y="205" font-family="ui-monospace,Menlo,monospace" font-size="30" letter-spacing="4" fill="hsl(189 55% 38%)">IT AND DEVELOPMENT</text>
-<text x="116" y="340" font-family="Georgia,serif" font-size="96" fill="#33312f">AI workflow</text><text x="116" y="444" font-family="Georgia,serif" font-size="96" fill="#33312f">evaluation</text><text x="116" y="548" font-family="Georgia,serif" font-size="96" fill="#33312f">service</text>
-<text x="120" y="880" font-family="ui-monospace,Menlo,monospace" font-size="28" letter-spacing="2" fill="#6B655D">Evidence review and quality assurance workspace</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<defs><linearGradient id="gaiworkflowev" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="hsl(189 55% 38%)"/><stop offset="1" stop-color="hsl(339 22% 52%)"/></linearGradient></defs>
+<rect x="0" y="0" width="1600" height="1000" fill="hsl(189 28% 93%)"/>
+<circle cx="1640" cy="-10" r="260" fill="hsl(189 30% 80%)"/>
+<circle cx="1560" cy="60" r="130" fill="hsl(339 22% 52%)"/>
+<rect x="0" y="862" width="1600" height="138" fill="hsl(189 30% 80%)"/>
+<line x1="0" y1="862" x2="1600" y2="862" stroke="hsl(189 55% 38%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="760" y1="862" x2="760" y2="1000" stroke="hsl(189 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="890" y1="862" x2="890" y2="1000" stroke="hsl(189 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1020" y1="862" x2="1020" y2="1000" stroke="hsl(189 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1150" y1="862" x2="1150" y2="1000" stroke="hsl(189 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1280" y1="862" x2="1280" y2="1000" stroke="hsl(189 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1410" y1="862" x2="1410" y2="1000" stroke="hsl(189 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1540" y1="862" x2="1540" y2="1000" stroke="hsl(189 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<ellipse cx="1237.5" cy="986.5" rx="34.5" ry="7.5" fill="hsl(189 28% 93%)"/>
+<rect x="1200" y="925" width="52.5" height="45" fill="#ffffff" rx="6"/><rect x="1200" y="925" width="52.5" height="45" fill="none" stroke="hsl(189 55% 38%)" stroke-width="3.8" rx="6"/><path d="M1252.5 934 q22.5 0 22.5 13.5 q0 13.5 -22.5 13.5" fill="none" stroke="hsl(189 55% 38%)" stroke-width="3.8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="210" cy="520" r="5" fill="hsl(189 30% 80%)"/>
+<circle cx="300" cy="360" r="4" fill="hsl(189 30% 80%)"/>
+<circle cx="380" cy="640" r="5" fill="hsl(189 30% 80%)"/>
+<rect x="820" y="150" width="700" height="590" fill="#ffffff" rx="14"/>
+<rect x="820" y="150" width="700" height="56" fill="url(#gaiworkflowev)" rx="14"/>
+<rect x="820" y="192" width="700" height="14" fill="url(#gaiworkflowev)"/>
+<circle cx="842" cy="178" r="5" fill="hsl(189 30% 80%)"/>
+<circle cx="862" cy="178" r="5" fill="hsl(189 30% 80%)"/>
+<circle cx="882" cy="178" r="5" fill="hsl(189 30% 80%)"/>
+<text x="846" y="220" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#33312f" text-anchor="start" font-weight="700">Test set</text>
+<rect x="846" y="238" width="285.1" height="89.5" fill="#ffffff" rx="8"/>
+<circle cx="862" cy="282.8" r="7" fill="hsl(189 30% 80%)"/>
+<rect x="878" y="278.8" width="235.1" height="8" fill="hsl(189 30% 80%)" rx="4"/>
+<rect x="846" y="339.6" width="285.1" height="89.5" fill="#ffffff" rx="8"/>
+<circle cx="862" cy="384.3" r="7" fill="hsl(339 22% 52%)"/>
+<rect x="878" y="380.3" width="235.1" height="8" fill="hsl(189 30% 80%)" rx="4"/>
+<rect x="846" y="441.1" width="285.1" height="89.5" fill="#ffffff" rx="8"/>
+<circle cx="862" cy="485.9" r="7" fill="hsl(189 30% 80%)"/>
+<rect x="878" y="481.9" width="235.1" height="8" fill="hsl(189 30% 80%)" rx="4"/>
+<rect x="846" y="542.6" width="285.1" height="89.5" fill="#ffffff" rx="8"/>
+<circle cx="862" cy="587.4" r="7" fill="hsl(189 55% 38%)"/>
+<rect x="878" y="583.4" width="235.1" height="8" fill="hsl(189 30% 80%)" rx="4"/>
+<rect x="1153.1" y="226" width="340.9" height="323.4" fill="hsl(189 28% 93%)" rx="8"/>
+<text x="1167.1" y="248" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#33312f" text-anchor="start" font-weight="700">run comparison</text>
+<line x1="1167.1" y1="270" x2="1474" y2="270" stroke="hsl(189 30% 80%)" stroke-width="3" stroke-linecap="round"/>
+<line x1="1167.1" y1="290" x2="1474" y2="290" stroke="hsl(189 30% 80%)" stroke-width="3" stroke-linecap="round"/>
+<line x1="1167.1" y1="310" x2="1474" y2="310" stroke="hsl(189 30% 80%)" stroke-width="3" stroke-linecap="round"/>
+<rect x="1153.1" y="565.4" width="105.6" height="117.6" fill="hsl(189 55% 38%)" rx="58.8"/>
+<rect x="1153.1" y="565.4" width="105.6" height="117.6" fill="none" stroke="hsl(189 55% 38%)" stroke-width="1.5" rx="58.8"/>
+<rect x="1270.7" y="565.4" width="105.6" height="117.6" fill="#ffffff" rx="58.8"/>
+<rect x="1270.7" y="565.4" width="105.6" height="117.6" fill="none" stroke="hsl(189 55% 38%)" stroke-width="1.5" rx="58.8"/>
+<rect x="1388.4" y="565.4" width="105.6" height="117.6" fill="#ffffff" rx="58.8"/>
+<rect x="1388.4" y="565.4" width="105.6" height="117.6" fill="none" stroke="hsl(189 55% 38%)" stroke-width="1.5" rx="58.8"/>
+<ellipse cx="710" cy="544.8" rx="67.2" ry="14.4" fill="hsl(189 30% 80%)"/>
+<rect x="650" y="492" width="21.6" height="48" fill="hsl(189 30% 80%)"/><rect x="681.2" y="453.6" width="21.6" height="86.4" fill="hsl(189 55% 38%)"/><rect x="712.4" y="474" width="21.6" height="66" fill="hsl(189 30% 80%)"/><rect x="743.6" y="429.6" width="21.6" height="110.4" fill="hsl(189 55% 38%)"/>
+<ellipse cx="1350" cy="884" rx="50" ry="10" fill="hsl(189 30% 80%)"/>
+<rect x="1300" y="788" width="80" height="92" fill="#ffffff" rx="5"/><rect x="1300" y="788" width="80" height="92" fill="none" stroke="hsl(189 55% 38%)" stroke-width="4" rx="5"/><rect x="1324" y="780" width="32" height="16" fill="hsl(189 55% 38%)" rx="3"/><line x1="1314" y1="814" x2="1366" y2="814" stroke="hsl(189 30% 80%)" stroke-width="4.5" stroke-linecap="round"/><line x1="1314" y1="834" x2="1366" y2="834" stroke="hsl(189 30% 80%)" stroke-width="4.5" stroke-linecap="round"/><line x1="1314" y1="854" x2="1366" y2="854" stroke="hsl(189 30% 80%)" stroke-width="4.5" stroke-linecap="round"/><circle cx="1314" cy="810" r="3" fill="hsl(339 22% 52%)"/>
 </svg>

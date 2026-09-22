@@ -1,7 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Certificate request coordinator">
-<rect width="1600" height="1000" fill="hsl(172 28% 93%)"/><line x1="1296" y1="376" x2="1115" y2="209" stroke="hsl(172 55% 38%)" stroke-width="6"/><line x1="1297" y1="299" x2="911" y2="419" stroke="hsl(172 55% 38%)" stroke-width="6"/><line x1="1334" y1="401" x2="950" y2="350" stroke="hsl(172 55% 38%)" stroke-width="6"/><line x1="1115" y1="209" x2="1323" y2="590" stroke="hsl(172 55% 38%)" stroke-width="6"/><line x1="911" y1="419" x2="1382" y2="281" stroke="hsl(172 55% 38%)" stroke-width="6"/><line x1="950" y1="350" x2="1269" y2="409" stroke="hsl(172 55% 38%)" stroke-width="6"/><line x1="1323" y1="590" x2="1296" y2="376" stroke="hsl(172 55% 38%)" stroke-width="6"/><line x1="1382" y1="281" x2="1297" y2="299" stroke="hsl(172 55% 38%)" stroke-width="6"/><line x1="1269" y1="409" x2="1334" y2="401" stroke="hsl(172 55% 38%)" stroke-width="6"/><circle cx="1296" cy="376" r="44" fill="hsl(172 55% 38%)"/><circle cx="1297" cy="299" r="26" fill="hsl(172 30% 80%)"/><circle cx="1334" cy="401" r="26" fill="hsl(172 30% 80%)"/><circle cx="1115" cy="209" r="44" fill="hsl(172 55% 38%)"/><circle cx="911" cy="419" r="26" fill="hsl(172 30% 80%)"/><circle cx="950" cy="350" r="26" fill="hsl(172 30% 80%)"/><circle cx="1323" cy="590" r="44" fill="hsl(172 55% 38%)"/><circle cx="1382" cy="281" r="26" fill="hsl(172 30% 80%)"/><circle cx="1269" cy="409" r="26" fill="hsl(172 30% 80%)"/>
-<rect x="100" y="160" width="260" height="68" rx="34" fill="#ffffff" fill-opacity="0.72"/>
-<text x="124" y="205" font-family="ui-monospace,Menlo,monospace" font-size="30" letter-spacing="4" fill="hsl(172 55% 38%)">INSURANCE</text>
-<text x="116" y="340" font-family="Georgia,serif" font-size="96" fill="#33312f">Certificate</text><text x="116" y="444" font-family="Georgia,serif" font-size="96" fill="#33312f">request</text><text x="116" y="548" font-family="Georgia,serif" font-size="96" fill="#33312f">coordinator</text>
-<text x="120" y="880" font-family="ui-monospace,Menlo,monospace" font-size="28" letter-spacing="2" fill="#6B655D">Operational coordination portal</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<defs><linearGradient id="gcertificater" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="hsl(172 55% 38%)"/><stop offset="1" stop-color="hsl(322 22% 52%)"/></linearGradient></defs>
+<rect x="0" y="0" width="1600" height="1000" fill="hsl(172 28% 93%)"/>
+<circle cx="1640" cy="-40" r="260" fill="hsl(172 30% 80%)"/>
+<circle cx="1560" cy="60" r="130" fill="hsl(322 22% 52%)"/>
+<rect x="0" y="862" width="1600" height="138" fill="hsl(172 30% 80%)"/>
+<line x1="0" y1="862" x2="1600" y2="862" stroke="hsl(172 55% 38%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="760" y1="862" x2="760" y2="1000" stroke="hsl(172 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="890" y1="862" x2="890" y2="1000" stroke="hsl(172 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1020" y1="862" x2="1020" y2="1000" stroke="hsl(172 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1150" y1="862" x2="1150" y2="1000" stroke="hsl(172 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1280" y1="862" x2="1280" y2="1000" stroke="hsl(172 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1410" y1="862" x2="1410" y2="1000" stroke="hsl(172 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1540" y1="862" x2="1540" y2="1000" stroke="hsl(172 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<ellipse cx="1532.5" cy="966.3" rx="29.9" ry="6.5" fill="hsl(172 28% 93%)"/>
+<path d="M1506.5 965 q0 -39 26 -46.8" fill="none" stroke="hsl(172 55% 38%)" stroke-width="3.9" stroke-linecap="round" stroke-linejoin="round"/><path d="M1532.5 965 q3.2 -45.5 27.3 -55.9" fill="none" stroke="hsl(172 55% 38%)" stroke-width="3.9" stroke-linecap="round" stroke-linejoin="round"/><path d="M1519.5 965 q-1.3 -27.3 18.2 -32.5" fill="none" stroke="hsl(322 22% 52%)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/><path d="M1500 950.7 h46.8 l-3.9 14.3 h-39z" fill="hsl(172 55% 38%)"/>
+<circle cx="120" cy="210" r="7" fill="hsl(172 30% 80%)"/>
+<circle cx="90" cy="700" r="6" fill="hsl(172 30% 80%)"/>
+<circle cx="170" cy="860" r="6" fill="hsl(172 30% 80%)"/>
+<rect x="700" y="220" width="760" height="560" fill="#ffffff" rx="14"/>
+<rect x="700" y="220" width="760" height="56" fill="url(#gcertificater)" rx="14"/>
+<rect x="700" y="262" width="760" height="14" fill="url(#gcertificater)"/>
+<circle cx="722" cy="248" r="5" fill="hsl(172 30% 80%)"/>
+<circle cx="742" cy="248" r="5" fill="hsl(172 30% 80%)"/>
+<circle cx="762" cy="248" r="5" fill="hsl(172 30% 80%)"/>
+<text x="726" y="290" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#33312f" text-anchor="start" font-weight="700">Request portal</text>
+<line x1="726" y1="314" x2="1434" y2="314" stroke="hsl(172 30% 80%)" stroke-width="3" stroke-linecap="round"/>
+<circle cx="726" cy="314" r="8" fill="hsl(172 55% 38%)"/>
+<circle cx="726" cy="314" r="8" fill="none" stroke="hsl(172 55% 38%)" stroke-width="2"/>
+<circle cx="962" cy="314" r="8" fill="#ffffff"/>
+<circle cx="962" cy="314" r="8" fill="none" stroke="hsl(172 55% 38%)" stroke-width="2"/>
+<circle cx="1198" cy="314" r="8" fill="#ffffff"/>
+<circle cx="1198" cy="314" r="8" fill="none" stroke="hsl(172 55% 38%)" stroke-width="2"/>
+<circle cx="1434" cy="314" r="8" fill="#ffffff"/>
+<circle cx="1434" cy="314" r="8" fill="none" stroke="hsl(172 55% 38%)" stroke-width="2"/>
+<rect x="726" y="342" width="708" height="128.7" fill="#ffffff" rx="8"/>
+<circle cx="746" cy="406.3" r="10" fill="hsl(172 30% 80%)"/>
+<rect x="768" y="401.3" width="354" height="8" fill="hsl(172 30% 80%)" rx="4"/>
+<rect x="1344" y="396.3" width="78" height="20" fill="hsl(172 55% 38%)" rx="10"/>
+<rect x="726" y="486.7" width="708" height="128.7" fill="#ffffff" rx="8"/>
+<circle cx="746" cy="551" r="10" fill="hsl(172 30% 80%)"/>
+<rect x="768" y="546" width="354" height="8" fill="hsl(172 30% 80%)" rx="4"/>
+<rect x="1344" y="541" width="78" height="20" fill="hsl(322 22% 52%)" rx="10"/>
+<rect x="726" y="631.3" width="708" height="128.7" fill="#ffffff" rx="8"/>
+<circle cx="746" cy="695.7" r="10" fill="hsl(172 30% 80%)"/>
+<rect x="768" y="690.7" width="354" height="8" fill="hsl(172 30% 80%)" rx="4"/>
+<rect x="1344" y="685.7" width="78" height="20" fill="hsl(322 22% 52%)" rx="10"/>
+<ellipse cx="1540" cy="234.8" rx="67.2" ry="14.4" fill="hsl(172 30% 80%)"/>
+<circle cx="1528" cy="158" r="43.2" fill="none" stroke="hsl(172 55% 38%)" stroke-width="8.4"/><path d="M1504 158 l16.8 16.8 l31.2 -36" fill="none" stroke="hsl(172 55% 38%)" stroke-width="9.6" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="675" cy="883.6" rx="45" ry="9" fill="hsl(172 30% 80%)"/>
+<rect x="630" y="790" width="90" height="63" fill="#ffffff" rx="3.6"/><rect x="630" y="790" width="90" height="63" fill="none" stroke="hsl(172 55% 38%)" stroke-width="4" rx="3.6"/><path d="M630 790 l45 36 l45 -36" fill="none" stroke="hsl(172 55% 38%)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

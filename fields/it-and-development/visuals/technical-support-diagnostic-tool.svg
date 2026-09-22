@@ -1,7 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Technical support diagnostic tool">
-<rect width="1600" height="1000" fill="hsl(189 28% 93%)"/><rect x="820" y="528.06247362867" width="54" height="201.93752637133002" rx="8" fill="hsl(189 55% 38%)"/><rect x="898" y="429.7682132991031" width="54" height="300.2317867008969" rx="8" fill="hsl(189 30% 80%)"/><rect x="976" y="276.09314096160233" width="54" height="453.90685903839767" rx="8" fill="hsl(189 30% 80%)"/><rect x="1054" y="236.31056252401322" width="54" height="493.6894374759868" rx="8" fill="hsl(189 55% 38%)"/><rect x="1132" y="439.9367345124483" width="54" height="290.0632654875517" rx="8" fill="hsl(189 30% 80%)"/><rect x="1210" y="453.86578442994505" width="54" height="276.13421557005495" rx="8" fill="hsl(189 30% 80%)"/><rect x="1288" y="445.6797056924552" width="54" height="284.3202943075448" rx="8" fill="hsl(189 55% 38%)"/><rect x="1366" y="572.9691853513941" width="54" height="157.03081464860588" rx="8" fill="hsl(189 30% 80%)"/>
-<rect x="100" y="160" width="471" height="68" rx="34" fill="#ffffff" fill-opacity="0.72"/>
-<text x="124" y="205" font-family="ui-monospace,Menlo,monospace" font-size="30" letter-spacing="4" fill="hsl(189 55% 38%)">IT AND DEVELOPMENT</text>
-<text x="116" y="340" font-family="Georgia,serif" font-size="96" fill="#33312f">Technical</text><text x="116" y="444" font-family="Georgia,serif" font-size="96" fill="#33312f">support</text><text x="116" y="548" font-family="Georgia,serif" font-size="96" fill="#33312f">diagnostic tool</text>
-<text x="120" y="880" font-family="ui-monospace,Menlo,monospace" font-size="28" letter-spacing="2" fill="#6B655D">Evidence-backed analysis and reporting workspace</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<defs><linearGradient id="gtechnicalsup" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="hsl(189 55% 38%)"/><stop offset="1" stop-color="hsl(339 22% 52%)"/></linearGradient></defs>
+<rect x="0" y="0" width="1600" height="1000" fill="hsl(189 28% 93%)"/>
+<circle cx="1640" cy="-40" r="260" fill="hsl(189 30% 80%)"/>
+<circle cx="1560" cy="60" r="130" fill="hsl(339 22% 52%)"/>
+<rect x="0" y="862" width="1600" height="138" fill="hsl(189 30% 80%)"/>
+<line x1="0" y1="862" x2="1600" y2="862" stroke="hsl(189 55% 38%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="760" y1="862" x2="760" y2="1000" stroke="hsl(189 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="890" y1="862" x2="890" y2="1000" stroke="hsl(189 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1020" y1="862" x2="1020" y2="1000" stroke="hsl(189 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1150" y1="862" x2="1150" y2="1000" stroke="hsl(189 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1280" y1="862" x2="1280" y2="1000" stroke="hsl(189 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1410" y1="862" x2="1410" y2="1000" stroke="hsl(189 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1540" y1="862" x2="1540" y2="1000" stroke="hsl(189 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<ellipse cx="1532.5" cy="966.3" rx="29.9" ry="6.5" fill="hsl(189 28% 93%)"/>
+<rect x="1500" y="913" width="45.5" height="39" fill="#ffffff" rx="5.2"/><rect x="1500" y="913" width="45.5" height="39" fill="none" stroke="hsl(189 55% 38%)" stroke-width="3.2" rx="5.2"/><path d="M1545.5 920.8 q19.5 0 19.5 11.7 q0 11.7 -19.5 11.7" fill="none" stroke="hsl(189 55% 38%)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="210" cy="520" r="5" fill="hsl(189 30% 80%)"/>
+<circle cx="300" cy="360" r="4" fill="hsl(189 30% 80%)"/>
+<circle cx="380" cy="640" r="5" fill="hsl(189 30% 80%)"/>
+<rect x="700" y="220" width="760" height="560" fill="#ffffff" rx="14"/>
+<rect x="700" y="220" width="760" height="56" fill="url(#gtechnicalsup)" rx="14"/>
+<rect x="700" y="262" width="760" height="14" fill="url(#gtechnicalsup)"/>
+<circle cx="722" cy="248" r="5" fill="hsl(189 30% 80%)"/>
+<circle cx="742" cy="248" r="5" fill="hsl(189 30% 80%)"/>
+<circle cx="762" cy="248" r="5" fill="hsl(189 30% 80%)"/>
+<text x="726" y="290" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#33312f" text-anchor="start" font-weight="700">Log timeline</text>
+<rect x="726" y="296" width="155.8" height="30" fill="#ffffff" rx="15"/>
+<rect x="726" y="296" width="155.8" height="30" fill="none" stroke="hsl(189 30% 80%)" stroke-width="1.5" rx="15"/>
+<rect x="903" y="296" width="141.6" height="30" fill="hsl(189 55% 38%)" rx="15"/>
+<rect x="726" y="342" width="439" height="414" fill="#ffffff" rx="8"/>
+<rect x="740" y="550.2" width="39.7" height="191.8" fill="hsl(189 30% 80%)" rx="3"/>
+<rect x="808.5" y="524.9" width="39.7" height="217.1" fill="hsl(189 55% 38%)" rx="3"/>
+<rect x="877" y="499.6" width="39.7" height="242.4" fill="hsl(189 30% 80%)" rx="3"/>
+<rect x="945.5" y="474.3" width="39.7" height="267.7" fill="hsl(189 55% 38%)" rx="3"/>
+<rect x="1014" y="449" width="39.7" height="293" fill="hsl(189 30% 80%)" rx="3"/>
+<rect x="1082.5" y="423.7" width="39.7" height="318.3" fill="hsl(189 55% 38%)" rx="3"/>
+<rect x="1185" y="342" width="249" height="128" fill="hsl(189 28% 93%)" rx="8"/>
+<rect x="1197" y="354" width="99.6" height="8" fill="hsl(189 30% 80%)" rx="4"/>
+<rect x="1197" y="370" width="149.4" height="12" fill="hsl(189 55% 38%)" rx="4"/>
+<rect x="1185" y="480" width="249" height="128" fill="hsl(189 28% 93%)" rx="8"/>
+<rect x="1197" y="492" width="99.6" height="8" fill="hsl(189 30% 80%)" rx="4"/>
+<rect x="1197" y="508" width="149.4" height="12" fill="hsl(189 55% 38%)" rx="4"/>
+<rect x="1185" y="618" width="249" height="128" fill="hsl(189 28% 93%)" rx="8"/>
+<rect x="1197" y="630" width="99.6" height="8" fill="hsl(189 30% 80%)" rx="4"/>
+<rect x="1197" y="646" width="149.4" height="12" fill="hsl(189 55% 38%)" rx="4"/>
+<ellipse cx="1540" cy="234.8" rx="67.2" ry="14.4" fill="hsl(189 30% 80%)"/>
+<rect x="1480" y="110" width="120" height="84" fill="#33312f" rx="6"/><path d="M1494.4 136.4 l16.8 13.2 l-16.8 13.2" fill="none" stroke="#ffffff" stroke-width="5.4" stroke-linecap="round" stroke-linejoin="round"/><line x1="1518.4" y1="165.2" x2="1540" y2="165.2" stroke="#ffffff" stroke-width="5.4" stroke-linecap="round"/>
+<ellipse cx="675" cy="883.6" rx="45" ry="9" fill="hsl(189 30% 80%)"/>
+<circle cx="662.4" cy="822.4" r="27" fill="none" stroke="hsl(189 55% 38%)" stroke-width="6.3"/><line x1="682.2" y1="842.2" x2="712.8" y2="872.8" stroke="hsl(189 55% 38%)" stroke-width="8.1" stroke-linecap="round"/>
 </svg>

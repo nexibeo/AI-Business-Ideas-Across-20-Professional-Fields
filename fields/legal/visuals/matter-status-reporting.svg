@@ -1,7 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Matter status reporting">
-<rect width="1600" height="1000" fill="hsl(207 28% 93%)"/><rect x="820" y="170" width="40" height="40" rx="8" fill="hsl(207 55% 38%)"/><rect x="890" y="176" width="493.5191262932494" height="28" rx="14" fill="hsl(207 30% 80%)"/><rect x="820" y="250" width="40" height="40" rx="8" fill="hsl(207 55% 38%)"/><rect x="890" y="256" width="233.39910068549216" height="28" rx="14" fill="hsl(207 30% 80%)"/><rect x="820" y="330" width="40" height="40" rx="8" fill="hsl(207 55% 38%)"/><rect x="890" y="336" width="507.7743485150859" height="28" rx="14" fill="hsl(207 30% 80%)"/><rect x="820" y="410" width="40" height="40" rx="8" fill="hsl(207 55% 38%)"/><rect x="890" y="416" width="447.16790299862623" height="28" rx="14" fill="hsl(207 30% 80%)"/><rect x="820" y="490" width="40" height="40" rx="8" fill="hsl(207 55% 38%)"/><rect x="890" y="496" width="383.44461800996214" height="28" rx="14" fill="hsl(207 30% 80%)"/><rect x="820" y="570" width="40" height="40" rx="8" fill="hsl(207 55% 38%)"/><rect x="890" y="576" width="402.4988619145006" height="28" rx="14" fill="hsl(207 30% 80%)"/><rect x="820" y="650" width="40" height="40" rx="8" fill="hsl(207 55% 38%)"/><rect x="890" y="656" width="347.8340637823567" height="28" rx="14" fill="hsl(207 30% 80%)"/>
-<rect x="100" y="160" width="166" height="68" rx="34" fill="#ffffff" fill-opacity="0.72"/>
-<text x="124" y="205" font-family="ui-monospace,Menlo,monospace" font-size="30" letter-spacing="4" fill="hsl(207 55% 38%)">LEGAL</text>
-<text x="116" y="340" font-family="Georgia,serif" font-size="96" fill="#33312f">Matter status</text><text x="116" y="444" font-family="Georgia,serif" font-size="96" fill="#33312f">reporting</text>
-<text x="120" y="880" font-family="ui-monospace,Menlo,monospace" font-size="28" letter-spacing="2" fill="#6B655D">Source-based content workspace with editorial delivery</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<defs><linearGradient id="gmatterstatus" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="hsl(207 55% 38%)"/><stop offset="1" stop-color="hsl(357 22% 52%)"/></linearGradient></defs>
+<rect x="0" y="0" width="1600" height="1000" fill="hsl(207 28% 93%)"/>
+<circle cx="1640" cy="-40" r="260" fill="hsl(207 30% 80%)"/>
+<circle cx="1560" cy="60" r="130" fill="hsl(357 22% 52%)"/>
+<rect x="0" y="862" width="1600" height="138" fill="hsl(207 30% 80%)"/>
+<line x1="0" y1="862" x2="1600" y2="862" stroke="hsl(207 55% 38%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="760" y1="862" x2="760" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="890" y1="862" x2="890" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1020" y1="862" x2="1020" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1150" y1="862" x2="1150" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1280" y1="862" x2="1280" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1410" y1="862" x2="1410" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1540" y1="862" x2="1540" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<ellipse cx="1285" cy="971.4" rx="32.2" ry="7" fill="hsl(207 28% 93%)"/>
+<path d="M1257 970 q0 -42 28 -50.4" fill="none" stroke="hsl(207 55% 38%)" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/><path d="M1285 970 q3.5 -49 29.4 -60.2" fill="none" stroke="hsl(207 55% 38%)" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/><path d="M1271 970 q-1.4 -29.4 19.6 -35" fill="none" stroke="hsl(357 22% 52%)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M1250 954.6 h50.4 l-4.2 15.4 h-42z" fill="hsl(207 55% 38%)"/>
+<circle cx="120" cy="210" r="7" fill="hsl(207 30% 80%)"/>
+<circle cx="90" cy="700" r="6" fill="hsl(207 30% 80%)"/>
+<circle cx="170" cy="860" r="6" fill="hsl(207 30% 80%)"/>
+<rect x="780" y="140" width="700" height="600" fill="#ffffff" rx="14"/>
+<rect x="780" y="140" width="700" height="56" fill="url(#gmatterstatus)" rx="14"/>
+<rect x="780" y="182" width="700" height="14" fill="url(#gmatterstatus)"/>
+<circle cx="802" cy="168" r="5" fill="hsl(207 30% 80%)"/>
+<circle cx="822" cy="168" r="5" fill="hsl(207 30% 80%)"/>
+<circle cx="842" cy="168" r="5" fill="hsl(207 30% 80%)"/>
+<rect x="806" y="216" width="142.6" height="500" fill="hsl(207 28% 93%)" rx="8"/>
+<rect x="814" y="226" width="126.6" height="150" fill="hsl(207 55% 38%)" rx="6"/>
+<rect x="814" y="386" width="126.6" height="150" fill="#ffffff" rx="6"/>
+<rect x="814" y="546" width="126.6" height="150" fill="#ffffff" rx="6"/>
+<rect x="968.6" y="216" width="311" height="500" fill="#ffffff" rx="8"/>
+<text x="982.6" y="238" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#33312f" text-anchor="start" font-weight="700">Matter timeline</text>
+<rect x="982.6" y="256" width="283" height="6" fill="hsl(207 30% 80%)" rx="3"/>
+<rect x="982.6" y="276" width="259" height="6" fill="hsl(207 30% 80%)" rx="3"/>
+<rect x="982.6" y="296" width="283" height="6" fill="hsl(207 55% 38%)" rx="3"/>
+<rect x="982.6" y="316" width="283" height="6" fill="hsl(207 30% 80%)" rx="3"/>
+<rect x="982.6" y="336" width="259" height="6" fill="hsl(207 30% 80%)" rx="3"/>
+<rect x="1299.6" y="216" width="154.4" height="500" fill="hsl(207 28% 93%)" rx="8"/>
+<rect x="1307.6" y="226" width="138.4" height="150" fill="#ffffff" rx="6"/>
+<circle cx="1319.6" cy="238" r="5" fill="hsl(207 55% 38%)"/>
+<rect x="1307.6" y="386" width="138.4" height="150" fill="#ffffff" rx="6"/>
+<circle cx="1319.6" cy="398" r="5" fill="hsl(207 55% 38%)"/>
+<rect x="1307.6" y="546" width="138.4" height="150" fill="#ffffff" rx="6"/>
+<circle cx="1319.6" cy="558" r="5" fill="hsl(207 55% 38%)"/>
+<ellipse cx="700" cy="854.8" rx="67.2" ry="14.4" fill="hsl(207 30% 80%)"/>
+<rect x="640" y="730" width="120" height="84" fill="#ffffff" rx="4.8"/><rect x="640" y="730" width="120" height="84" fill="none" stroke="hsl(207 55% 38%)" stroke-width="5.4" rx="4.8"/><path d="M640 730 l60 48 l60 -48" fill="none" stroke="hsl(207 55% 38%)" stroke-width="5.4" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="1550" cy="254" rx="50" ry="10" fill="hsl(207 30% 80%)"/>
+<rect x="1500" y="178" width="100" height="60" fill="hsl(207 55% 38%)" rx="6"/><rect x="1532" y="160" width="36" height="20" fill="#33312f" rx="4"/><rect x="1500" y="202" width="100" height="10" fill="hsl(207 30% 80%)"/>
 </svg>

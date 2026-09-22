@@ -1,7 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Insurance document completeness checker">
-<rect width="1600" height="1000" fill="hsl(172 28% 93%)"/><circle cx="860" cy="210" r="30" fill="hsl(172 55% 38%)"/><rect x="920" y="194" width="420.1093581598252" height="32" rx="16" fill="hsl(172 30% 80%)"/><circle cx="860" cy="302" r="30" fill="hsl(172 30% 80%)"/><rect x="920" y="286" width="240.77519718557596" height="32" rx="16" fill="hsl(172 30% 80%)"/><circle cx="860" cy="394" r="30" fill="hsl(172 55% 38%)"/><rect x="920" y="378" width="533.6144067067653" height="32" rx="16" fill="hsl(172 30% 80%)"/><circle cx="860" cy="486" r="30" fill="hsl(172 55% 38%)"/><rect x="920" y="470" width="399.21732602640986" height="32" rx="16" fill="hsl(172 30% 80%)"/><circle cx="860" cy="578" r="30" fill="hsl(172 55% 38%)"/><rect x="920" y="562" width="445.71006200276315" height="32" rx="16" fill="hsl(172 30% 80%)"/><circle cx="860" cy="670" r="30" fill="hsl(172 55% 38%)"/><rect x="920" y="654" width="464.6608992666006" height="32" rx="16" fill="hsl(172 30% 80%)"/>
-<rect x="100" y="160" width="260" height="68" rx="34" fill="#ffffff" fill-opacity="0.72"/>
-<text x="124" y="205" font-family="ui-monospace,Menlo,monospace" font-size="30" letter-spacing="4" fill="hsl(172 55% 38%)">INSURANCE</text>
-<text x="116" y="340" font-family="Georgia,serif" font-size="96" fill="#33312f">Insurance</text><text x="116" y="444" font-family="Georgia,serif" font-size="96" fill="#33312f">document</text><text x="116" y="548" font-family="Georgia,serif" font-size="96" fill="#33312f">completeness</text><text x="116" y="652" font-family="Georgia,serif" font-size="96" fill="#33312f">checker</text>
-<text x="120" y="880" font-family="ui-monospace,Menlo,monospace" font-size="28" letter-spacing="2" fill="#6B655D">Evidence review and quality assurance workspace</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<defs><linearGradient id="ginsurancedoc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="hsl(172 55% 38%)"/><stop offset="1" stop-color="hsl(322 22% 52%)"/></linearGradient></defs>
+<rect x="0" y="0" width="1600" height="1000" fill="hsl(172 28% 93%)"/>
+<circle cx="1640" cy="-10" r="260" fill="hsl(172 30% 80%)"/>
+<circle cx="1560" cy="60" r="130" fill="hsl(322 22% 52%)"/>
+<rect x="0" y="862" width="1600" height="138" fill="hsl(172 30% 80%)"/>
+<line x1="0" y1="862" x2="1600" y2="862" stroke="hsl(172 55% 38%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="760" y1="862" x2="760" y2="1000" stroke="hsl(172 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="890" y1="862" x2="890" y2="1000" stroke="hsl(172 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1020" y1="862" x2="1020" y2="1000" stroke="hsl(172 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1150" y1="862" x2="1150" y2="1000" stroke="hsl(172 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1280" y1="862" x2="1280" y2="1000" stroke="hsl(172 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1410" y1="862" x2="1410" y2="1000" stroke="hsl(172 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1540" y1="862" x2="1540" y2="1000" stroke="hsl(172 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<ellipse cx="1237.5" cy="986.5" rx="34.5" ry="7.5" fill="hsl(172 28% 93%)"/>
+<path d="M1207.5 985 q0 -45 30 -54" fill="none" stroke="hsl(172 55% 38%)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M1237.5 985 q3.8 -52.5 31.5 -64.5" fill="none" stroke="hsl(172 55% 38%)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M1222.5 985 q-1.5 -31.5 21 -37.5" fill="none" stroke="hsl(322 22% 52%)" stroke-width="3.8" stroke-linecap="round" stroke-linejoin="round"/><path d="M1200 968.5 h54 l-4.5 16.5 h-45z" fill="hsl(172 55% 38%)"/>
+<circle cx="120" cy="210" r="7" fill="hsl(172 30% 80%)"/>
+<circle cx="90" cy="700" r="6" fill="hsl(172 30% 80%)"/>
+<circle cx="170" cy="860" r="6" fill="hsl(172 30% 80%)"/>
+<rect x="820" y="150" width="700" height="590" fill="#ffffff" rx="14"/>
+<rect x="820" y="150" width="700" height="56" fill="url(#ginsurancedoc)" rx="14"/>
+<rect x="820" y="192" width="700" height="14" fill="url(#ginsurancedoc)"/>
+<circle cx="842" cy="178" r="5" fill="hsl(172 30% 80%)"/>
+<circle cx="862" cy="178" r="5" fill="hsl(172 30% 80%)"/>
+<circle cx="882" cy="178" r="5" fill="hsl(172 30% 80%)"/>
+<text x="846" y="220" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#33312f" text-anchor="start" font-weight="700">Submission queue</text>
+<rect x="846" y="238" width="285.1" height="89.5" fill="#ffffff" rx="8"/>
+<circle cx="862" cy="282.8" r="7" fill="hsl(172 55% 38%)"/>
+<rect x="878" y="278.8" width="235.1" height="8" fill="hsl(172 30% 80%)" rx="4"/>
+<rect x="846" y="339.6" width="285.1" height="89.5" fill="#ffffff" rx="8"/>
+<circle cx="862" cy="384.3" r="7" fill="hsl(172 30% 80%)"/>
+<rect x="878" y="380.3" width="235.1" height="8" fill="hsl(172 30% 80%)" rx="4"/>
+<rect x="846" y="441.1" width="285.1" height="89.5" fill="#ffffff" rx="8"/>
+<circle cx="862" cy="485.9" r="7" fill="hsl(322 22% 52%)"/>
+<rect x="878" y="481.9" width="235.1" height="8" fill="hsl(172 30% 80%)" rx="4"/>
+<rect x="846" y="542.6" width="285.1" height="89.5" fill="#ffffff" rx="8"/>
+<circle cx="862" cy="587.4" r="7" fill="hsl(172 30% 80%)"/>
+<rect x="878" y="583.4" width="235.1" height="8" fill="hsl(172 30% 80%)" rx="4"/>
+<rect x="1153.1" y="226" width="340.9" height="323.4" fill="hsl(172 28% 93%)" rx="8"/>
+<text x="1167.1" y="248" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#33312f" text-anchor="start" font-weight="700">missing fields</text>
+<line x1="1167.1" y1="270" x2="1474" y2="270" stroke="hsl(172 30% 80%)" stroke-width="3" stroke-linecap="round"/>
+<line x1="1167.1" y1="290" x2="1474" y2="290" stroke="hsl(172 30% 80%)" stroke-width="3" stroke-linecap="round"/>
+<line x1="1167.1" y1="310" x2="1474" y2="310" stroke="hsl(172 30% 80%)" stroke-width="3" stroke-linecap="round"/>
+<rect x="1153.1" y="565.4" width="105.6" height="117.6" fill="hsl(172 55% 38%)" rx="58.8"/>
+<rect x="1153.1" y="565.4" width="105.6" height="117.6" fill="none" stroke="hsl(172 55% 38%)" stroke-width="1.5" rx="58.8"/>
+<rect x="1270.7" y="565.4" width="105.6" height="117.6" fill="#ffffff" rx="58.8"/>
+<rect x="1270.7" y="565.4" width="105.6" height="117.6" fill="none" stroke="hsl(172 55% 38%)" stroke-width="1.5" rx="58.8"/>
+<rect x="1388.4" y="565.4" width="105.6" height="117.6" fill="#ffffff" rx="58.8"/>
+<rect x="1388.4" y="565.4" width="105.6" height="117.6" fill="none" stroke="hsl(172 55% 38%)" stroke-width="1.5" rx="58.8"/>
+<ellipse cx="710" cy="544.8" rx="67.2" ry="14.4" fill="hsl(172 30% 80%)"/>
+<rect x="650" y="429.6" width="96" height="110.4" fill="#ffffff" rx="6"/><rect x="650" y="429.6" width="96" height="110.4" fill="none" stroke="hsl(172 55% 38%)" stroke-width="4.8" rx="6"/><rect x="678.8" y="420" width="38.4" height="19.2" fill="hsl(172 55% 38%)" rx="3.6"/><line x1="666.8" y1="460.8" x2="729.2" y2="460.8" stroke="hsl(172 30% 80%)" stroke-width="5.4" stroke-linecap="round"/><line x1="666.8" y1="484.8" x2="729.2" y2="484.8" stroke="hsl(172 30% 80%)" stroke-width="5.4" stroke-linecap="round"/><line x1="666.8" y1="508.8" x2="729.2" y2="508.8" stroke="hsl(172 30% 80%)" stroke-width="5.4" stroke-linecap="round"/><circle cx="666.8" cy="456" r="3.6" fill="hsl(322 22% 52%)"/>
+<ellipse cx="1350" cy="884" rx="50" ry="10" fill="hsl(172 30% 80%)"/>
+<circle cx="1340" cy="820" r="36" fill="none" stroke="hsl(172 55% 38%)" stroke-width="7"/><path d="M1320 820 l14 14 l26 -30" fill="none" stroke="hsl(172 55% 38%)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

@@ -1,7 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Contract obligation tracker">
-<rect width="1600" height="1000" fill="hsl(207 28% 93%)"/><line x1="1346" y1="554" x2="1003" y2="205" stroke="hsl(207 55% 38%)" stroke-width="6"/><line x1="1100" y1="460" x2="1217" y2="420" stroke="hsl(207 55% 38%)" stroke-width="6"/><line x1="949" y1="644" x2="891" y2="283" stroke="hsl(207 55% 38%)" stroke-width="6"/><line x1="1003" y1="205" x2="1394" y2="472" stroke="hsl(207 55% 38%)" stroke-width="6"/><line x1="1217" y1="420" x2="1142" y2="564" stroke="hsl(207 55% 38%)" stroke-width="6"/><line x1="891" y1="283" x2="1384" y2="501" stroke="hsl(207 55% 38%)" stroke-width="6"/><line x1="1394" y1="472" x2="1346" y2="554" stroke="hsl(207 55% 38%)" stroke-width="6"/><line x1="1142" y1="564" x2="1100" y2="460" stroke="hsl(207 55% 38%)" stroke-width="6"/><line x1="1384" y1="501" x2="949" y2="644" stroke="hsl(207 55% 38%)" stroke-width="6"/><circle cx="1346" cy="554" r="44" fill="hsl(207 55% 38%)"/><circle cx="1100" cy="460" r="26" fill="hsl(207 30% 80%)"/><circle cx="949" cy="644" r="26" fill="hsl(207 30% 80%)"/><circle cx="1003" cy="205" r="44" fill="hsl(207 55% 38%)"/><circle cx="1217" cy="420" r="26" fill="hsl(207 30% 80%)"/><circle cx="891" cy="283" r="26" fill="hsl(207 30% 80%)"/><circle cx="1394" cy="472" r="44" fill="hsl(207 55% 38%)"/><circle cx="1142" cy="564" r="26" fill="hsl(207 30% 80%)"/><circle cx="1384" cy="501" r="26" fill="hsl(207 30% 80%)"/>
-<rect x="100" y="160" width="166" height="68" rx="34" fill="#ffffff" fill-opacity="0.72"/>
-<text x="124" y="205" font-family="ui-monospace,Menlo,monospace" font-size="30" letter-spacing="4" fill="hsl(207 55% 38%)">LEGAL</text>
-<text x="116" y="340" font-family="Georgia,serif" font-size="96" fill="#33312f">Contract</text><text x="116" y="444" font-family="Georgia,serif" font-size="96" fill="#33312f">obligation</text><text x="116" y="548" font-family="Georgia,serif" font-size="96" fill="#33312f">tracker</text>
-<text x="120" y="880" font-family="ui-monospace,Menlo,monospace" font-size="28" letter-spacing="2" fill="#6B655D">Operational coordination portal</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<defs><linearGradient id="gcontractobli" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="hsl(207 55% 38%)"/><stop offset="1" stop-color="hsl(357 22% 52%)"/></linearGradient></defs>
+<rect x="0" y="0" width="1600" height="1000" fill="hsl(207 28% 93%)"/>
+<circle cx="1640" cy="-10" r="260" fill="hsl(207 30% 80%)"/>
+<circle cx="1560" cy="60" r="130" fill="hsl(357 22% 52%)"/>
+<rect x="0" y="862" width="1600" height="138" fill="hsl(207 30% 80%)"/>
+<line x1="0" y1="862" x2="1600" y2="862" stroke="hsl(207 55% 38%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="760" y1="862" x2="760" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="890" y1="862" x2="890" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1020" y1="862" x2="1020" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1150" y1="862" x2="1150" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1280" y1="862" x2="1280" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1410" y1="862" x2="1410" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<line x1="1540" y1="862" x2="1540" y2="1000" stroke="hsl(207 28% 93%)" stroke-width="2" stroke-linecap="round"/>
+<ellipse cx="1285" cy="971.4" rx="32.2" ry="7" fill="hsl(207 28% 93%)"/>
+<path d="M1257 970 q0 -42 28 -50.4" fill="none" stroke="hsl(207 55% 38%)" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/><path d="M1285 970 q3.5 -49 29.4 -60.2" fill="none" stroke="hsl(207 55% 38%)" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/><path d="M1271 970 q-1.4 -29.4 19.6 -35" fill="none" stroke="hsl(357 22% 52%)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M1250 954.6 h50.4 l-4.2 15.4 h-42z" fill="hsl(207 55% 38%)"/>
+<circle cx="120" cy="210" r="7" fill="hsl(207 30% 80%)"/>
+<circle cx="90" cy="700" r="6" fill="hsl(207 30% 80%)"/>
+<circle cx="170" cy="860" r="6" fill="hsl(207 30% 80%)"/>
+<rect x="780" y="140" width="700" height="600" fill="#ffffff" rx="14"/>
+<rect x="780" y="140" width="700" height="56" fill="url(#gcontractobli)" rx="14"/>
+<rect x="780" y="182" width="700" height="14" fill="url(#gcontractobli)"/>
+<circle cx="802" cy="168" r="5" fill="hsl(207 30% 80%)"/>
+<circle cx="822" cy="168" r="5" fill="hsl(207 30% 80%)"/>
+<circle cx="842" cy="168" r="5" fill="hsl(207 30% 80%)"/>
+<text x="806" y="210" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#33312f" text-anchor="start" font-weight="700">Obligation calendar</text>
+<line x1="806" y1="234" x2="1454" y2="234" stroke="hsl(207 30% 80%)" stroke-width="3" stroke-linecap="round"/>
+<circle cx="806" cy="234" r="8" fill="hsl(207 55% 38%)"/>
+<circle cx="806" cy="234" r="8" fill="none" stroke="hsl(207 55% 38%)" stroke-width="2"/>
+<circle cx="1022" cy="234" r="8" fill="#ffffff"/>
+<circle cx="1022" cy="234" r="8" fill="none" stroke="hsl(207 55% 38%)" stroke-width="2"/>
+<circle cx="1238" cy="234" r="8" fill="#ffffff"/>
+<circle cx="1238" cy="234" r="8" fill="none" stroke="hsl(207 55% 38%)" stroke-width="2"/>
+<circle cx="1454" cy="234" r="8" fill="#ffffff"/>
+<circle cx="1454" cy="234" r="8" fill="none" stroke="hsl(207 55% 38%)" stroke-width="2"/>
+<rect x="806" y="262" width="648" height="142" fill="#ffffff" rx="8"/>
+<circle cx="826" cy="333" r="10" fill="hsl(207 30% 80%)"/>
+<rect x="848" y="328" width="324" height="8" fill="hsl(207 30% 80%)" rx="4"/>
+<rect x="1364" y="323" width="78" height="20" fill="hsl(357 22% 52%)" rx="10"/>
+<rect x="806" y="420" width="648" height="142" fill="#ffffff" rx="8"/>
+<circle cx="826" cy="491" r="10" fill="hsl(207 30% 80%)"/>
+<rect x="848" y="486" width="324" height="8" fill="hsl(207 30% 80%)" rx="4"/>
+<rect x="1364" y="481" width="78" height="20" fill="hsl(207 55% 38%)" rx="10"/>
+<rect x="806" y="578" width="648" height="142" fill="#ffffff" rx="8"/>
+<circle cx="826" cy="649" r="10" fill="hsl(207 30% 80%)"/>
+<rect x="848" y="644" width="324" height="8" fill="hsl(207 30% 80%)" rx="4"/>
+<rect x="1364" y="639" width="78" height="20" fill="hsl(357 22% 52%)" rx="10"/>
+<ellipse cx="700" cy="854.8" rx="67.2" ry="14.4" fill="hsl(207 30% 80%)"/>
+<rect x="640" y="730" width="120" height="102" fill="#ffffff" rx="7.2"/><rect x="640" y="730" width="120" height="102" fill="none" stroke="hsl(207 55% 38%)" stroke-width="5.4" rx="7.2"/><rect x="640" y="730" width="120" height="28.8" fill="hsl(207 55% 38%)" rx="7.2"/><rect x="640" y="748" width="120" height="10.8" fill="hsl(207 55% 38%)"/><rect x="656.8" y="780.4" width="19.2" height="16.8" fill="hsl(207 30% 80%)"/><rect x="656.8" y="806.8" width="19.2" height="16.8" fill="hsl(207 30% 80%)"/><rect x="690.4" y="780.4" width="19.2" height="16.8" fill="hsl(207 30% 80%)"/><rect x="690.4" y="806.8" width="19.2" height="16.8" fill="hsl(207 30% 80%)"/><rect x="724" y="780.4" width="19.2" height="16.8" fill="hsl(207 30% 80%)"/><rect x="724" y="806.8" width="19.2" height="16.8" fill="hsl(207 30% 80%)"/>
+<ellipse cx="1550" cy="254" rx="50" ry="10" fill="hsl(207 30% 80%)"/>
+<rect x="1500" y="150" width="76" height="100" fill="#ffffff" rx="3"/><rect x="1500" y="150" width="76" height="100" fill="none" stroke="hsl(207 55% 38%)" stroke-width="3.5" rx="3"/><rect x="1510" y="162" width="56" height="14" fill="hsl(207 55% 38%)"/><line x1="1510" y1="190" x2="1566" y2="190" stroke="hsl(207 30% 80%)" stroke-width="3.5" stroke-linecap="round"/><line x1="1510" y1="206" x2="1566" y2="206" stroke="hsl(207 30% 80%)" stroke-width="3.5" stroke-linecap="round"/><line x1="1510" y1="222" x2="1566" y2="222" stroke="hsl(207 30% 80%)" stroke-width="3.5" stroke-linecap="round"/>
 </svg>
