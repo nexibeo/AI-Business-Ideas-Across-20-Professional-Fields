@@ -1,6 +1,6 @@
 # Professional development membership
 
-**AI-03-11 · Education** · Also fits: Human Resources; Management
+**Education** · Also fits: Human Resources; Management
 
 ![Professional development membership](visuals/professional-development-membership.svg)
 

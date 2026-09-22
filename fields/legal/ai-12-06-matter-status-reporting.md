@@ -1,6 +1,6 @@
 # Matter status reporting
 
-**AI-12-06 · Legal** · Also fits: Operations; Management; Writers
+**Legal** · Also fits: Operations; Management; Writers
 
 ![Matter status reporting](visuals/matter-status-reporting.svg)
 

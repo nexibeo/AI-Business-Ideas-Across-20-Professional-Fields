@@ -1,6 +1,6 @@
 # Accessibility testing service
 
-**AI-11-10 · IT and Development** · Also fits: Operations; Customer Support
+**IT and Development** · Also fits: Operations; Customer Support
 
 ![Accessibility testing service](visuals/accessibility-testing-service.svg)
 

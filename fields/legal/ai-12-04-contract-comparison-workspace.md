@@ -1,6 +1,6 @@
 # Contract comparison workspace
 
-**AI-12-04 · Legal** · Also fits: Operations; Management
+**Legal** · Also fits: Operations; Management
 
 ![Contract comparison workspace](visuals/contract-comparison-workspace.svg)
 

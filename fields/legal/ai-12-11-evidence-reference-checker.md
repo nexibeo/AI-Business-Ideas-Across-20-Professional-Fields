@@ -1,6 +1,6 @@
 # Evidence reference checker
 
-**AI-12-11 · Legal** · Also fits: Operations; Management
+**Legal** · Also fits: Operations; Management
 
 ![Evidence reference checker](visuals/evidence-reference-checker.svg)
 

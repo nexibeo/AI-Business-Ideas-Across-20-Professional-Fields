@@ -1,6 +1,6 @@
 # Cross-team dependency tracker
 
-**AI-13-08 · Management** · Also fits: Operations; Human Resources
+**Management** · Also fits: Operations; Human Resources
 
 ![Cross-team dependency tracker](visuals/cross-team-dependency-tracker.svg)
 

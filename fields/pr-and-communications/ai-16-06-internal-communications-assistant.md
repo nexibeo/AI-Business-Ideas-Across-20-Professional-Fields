@@ -1,6 +1,6 @@
 # Internal communications assistant
 
-**AI-16-06 · PR and Communications** · Also fits: Writers; Executives and Strategy
+**PR and Communications** · Also fits: Writers; Executives and Strategy
 
 ![Internal communications assistant](visuals/internal-communications-assistant.svg)
 

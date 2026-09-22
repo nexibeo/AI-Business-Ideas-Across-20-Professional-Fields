@@ -1,6 +1,6 @@
 # Document chronology service
 
-**AI-12-03 · Legal** · Also fits: Operations; Management; Science and Research
+**Legal** · Also fits: Operations; Management; Science and Research
 
 ![Document chronology service](visuals/document-chronology-service.svg)
 

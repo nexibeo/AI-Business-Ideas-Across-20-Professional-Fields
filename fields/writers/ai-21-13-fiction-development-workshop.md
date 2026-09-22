@@ -1,6 +1,6 @@
 # Fiction development workshop
 
-**AI-21-13 · Writers** · Also fits: Marketing; Education
+**Writers** · Also fits: Marketing; Education
 
 ![Fiction development workshop](visuals/fiction-development-workshop.svg)
 

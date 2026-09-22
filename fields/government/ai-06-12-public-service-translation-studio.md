@@ -1,6 +1,6 @@
 # Public service translation studio
 
-**AI-06-12 · Government** · Also fits: Operations; Writers; PR and Communications
+**Government** · Also fits: Operations; Writers; PR and Communications
 
 ![Public service translation studio](visuals/public-service-translation-studio.svg)
 

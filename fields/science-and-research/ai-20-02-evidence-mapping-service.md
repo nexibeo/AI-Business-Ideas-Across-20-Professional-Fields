@@ -1,6 +1,6 @@
 # Evidence mapping service
 
-**AI-20-02 · Science and Research** · Also fits: Education; Executives and Strategy
+**Science and Research** · Also fits: Education; Executives and Strategy
 
 ![Evidence mapping service](visuals/evidence-mapping-service.svg)
 

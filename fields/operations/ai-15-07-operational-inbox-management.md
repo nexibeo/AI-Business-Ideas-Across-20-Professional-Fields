@@ -1,6 +1,6 @@
 # Operational inbox management
 
-**AI-15-07 · Operations** · Also fits: Finance; Management; Customer Support
+**Operations** · Also fits: Finance; Management; Customer Support
 
 ![Operational inbox management](visuals/operational-inbox-management.svg)
 

@@ -1,6 +1,6 @@
 # Cash-flow scenario workspace
 
-**AI-05-03 · Finance** · Also fits: Operations; Management
+**Finance** · Also fits: Operations; Management
 
 ![Cash-flow scenario workspace](visuals/cash-flow-scenario-workspace.svg)
 

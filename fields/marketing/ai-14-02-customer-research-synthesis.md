@@ -1,6 +1,6 @@
 # Customer research synthesis
 
-**AI-14-02 · Marketing** · Also fits: Creatives; Sales; Science and Research
+**Marketing** · Also fits: Creatives; Sales; Science and Research
 
 ![Customer research synthesis](visuals/customer-research-synthesis.svg)
 

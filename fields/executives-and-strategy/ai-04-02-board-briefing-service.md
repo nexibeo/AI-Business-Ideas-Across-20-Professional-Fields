@@ -1,6 +1,6 @@
 # Board briefing service
 
-**AI-04-02 · Executives and Strategy** · Also fits: Finance; Science and Research; Writers
+**Executives and Strategy** · Also fits: Finance; Science and Research; Writers
 
 ![Board briefing service](visuals/board-briefing-service.svg)
 

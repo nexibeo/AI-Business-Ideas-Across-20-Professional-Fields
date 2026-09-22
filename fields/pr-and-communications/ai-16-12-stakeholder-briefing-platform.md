@@ -1,6 +1,6 @@
 # Stakeholder briefing platform
 
-**AI-16-12 · PR and Communications** · Also fits: Writers; Executives and Strategy
+**PR and Communications** · Also fits: Writers; Executives and Strategy
 
 ![Stakeholder briefing platform](visuals/stakeholder-briefing-platform.svg)
 

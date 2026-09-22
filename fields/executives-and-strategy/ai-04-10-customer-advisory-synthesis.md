@@ -1,6 +1,6 @@
 # Customer advisory synthesis
 
-**AI-04-10 · Executives and Strategy** · Also fits: Finance; Science and Research
+**Executives and Strategy** · Also fits: Finance; Science and Research
 
 ![Customer advisory synthesis](visuals/customer-advisory-synthesis.svg)
 

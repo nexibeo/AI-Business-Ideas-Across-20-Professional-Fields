@@ -1,6 +1,6 @@
 # Virtual staging service
 
-**AI-18-03 · Real Estate and Construction** · Also fits: Operations; Sales; Creatives
+**Real Estate and Construction** · Also fits: Operations; Sales; Creatives
 
 ![Virtual staging service](visuals/virtual-staging-service.svg)
 

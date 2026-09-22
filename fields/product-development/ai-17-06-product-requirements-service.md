@@ -1,6 +1,6 @@
 # Product requirements service
 
-**AI-17-06 · Product Development** · Also fits: Customer Support; Science and Research; Writers
+**Product Development** · Also fits: Customer Support; Science and Research; Writers
 
 ![Product requirements service](visuals/product-requirements-service.svg)
 

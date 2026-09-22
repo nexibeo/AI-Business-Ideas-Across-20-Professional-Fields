@@ -1,6 +1,6 @@
 # Event operations assistant
 
-**AI-08-15 · Hospitality and Events** · Also fits: Customer Support; Sales; Management
+**Hospitality and Events** · Also fits: Customer Support; Sales; Management
 
 ![Event operations assistant](visuals/event-operations-assistant.svg)
 

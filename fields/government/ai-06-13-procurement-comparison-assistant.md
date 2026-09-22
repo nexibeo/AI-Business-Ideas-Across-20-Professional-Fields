@@ -1,6 +1,6 @@
 # Procurement comparison assistant
 
-**AI-06-13 · Government** · Also fits: Operations; Writers
+**Government** · Also fits: Operations; Writers
 
 ![Procurement comparison assistant](visuals/procurement-comparison-assistant.svg)
 

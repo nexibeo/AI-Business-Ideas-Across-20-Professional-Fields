@@ -1,6 +1,6 @@
 # Demand planning workspace
 
-**AI-15-10 · Operations** · Also fits: Finance; Management
+**Operations** · Also fits: Finance; Management
 
 ![Demand planning workspace](visuals/demand-planning-workspace.svg)
 

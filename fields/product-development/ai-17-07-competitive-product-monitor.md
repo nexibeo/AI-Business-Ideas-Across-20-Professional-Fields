@@ -1,6 +1,6 @@
 # Competitive product monitor
 
-**AI-17-07 · Product Development** · Also fits: Customer Support; Science and Research; Executives and Strategy
+**Product Development** · Also fits: Customer Support; Science and Research; Executives and Strategy
 
 ![Competitive product monitor](visuals/competitive-product-monitor.svg)
 

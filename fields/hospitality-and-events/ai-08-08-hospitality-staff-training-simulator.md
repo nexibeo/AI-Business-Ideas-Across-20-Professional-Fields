@@ -1,6 +1,6 @@
 # Hospitality staff training simulator
 
-**AI-08-08 · Hospitality and Events** · Also fits: Customer Support; Sales; Education
+**Hospitality and Events** · Also fits: Customer Support; Sales; Education
 
 ![Hospitality staff training simulator](visuals/hospitality-staff-training-simulator.svg)
 

@@ -1,6 +1,6 @@
 # Insurance complaint analyzer
 
-**AI-10-10 · Insurance** · Also fits: Operations; Customer Support; Science and Research
+**Insurance** · Also fits: Operations; Customer Support; Science and Research
 
 ![Insurance complaint analyzer](visuals/insurance-complaint-analyzer.svg)
 

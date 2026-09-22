@@ -1,6 +1,6 @@
 # Content refresh subscription
 
-**AI-14-08 · Marketing** · Also fits: Creatives; Sales; Executives and Strategy
+**Marketing** · Also fits: Creatives; Sales; Executives and Strategy
 
 ![Content refresh subscription](visuals/content-refresh-subscription.svg)
 

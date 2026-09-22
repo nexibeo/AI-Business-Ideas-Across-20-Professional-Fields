@@ -1,6 +1,6 @@
 # Quote configuration assistant
 
-**AI-19-15 · Sales** · Also fits: Marketing; Operations; Finance
+**Sales** · Also fits: Marketing; Operations; Finance
 
 ![Quote configuration assistant](visuals/quote-configuration-assistant.svg)
 

@@ -1,6 +1,6 @@
 # Hospitality package designer
 
-**AI-08-14 · Hospitality and Events** · Also fits: Customer Support; Sales; Finance
+**Hospitality and Events** · Also fits: Customer Support; Sales; Finance
 
 ![Hospitality package designer](visuals/hospitality-package-designer.svg)
 

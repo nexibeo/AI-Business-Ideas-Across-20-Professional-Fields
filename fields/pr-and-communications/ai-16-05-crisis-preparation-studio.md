@@ -1,6 +1,6 @@
 # Crisis preparation studio
 
-**AI-16-05 · PR and Communications** · Also fits: Writers; Executives and Strategy; Education
+**PR and Communications** · Also fits: Writers; Executives and Strategy; Education
 
 ![Crisis preparation studio](visuals/crisis-preparation-studio.svg)
 

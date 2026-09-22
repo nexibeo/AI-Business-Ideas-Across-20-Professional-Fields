@@ -1,6 +1,6 @@
 # Project profitability analyst
 
-**AI-05-08 · Finance** · Also fits: Operations; Management; Science and Research
+**Finance** · Also fits: Operations; Management; Science and Research
 
 ![Project profitability analyst](visuals/project-profitability-analyst.svg)
 

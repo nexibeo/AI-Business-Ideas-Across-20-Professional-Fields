@@ -1,6 +1,6 @@
 # Manager conversation simulator
 
-**AI-09-11 · Human Resources** · Also fits: Education; Operations
+**Human Resources** · Also fits: Education; Operations
 
 ![Manager conversation simulator](visuals/manager-conversation-simulator.svg)
 

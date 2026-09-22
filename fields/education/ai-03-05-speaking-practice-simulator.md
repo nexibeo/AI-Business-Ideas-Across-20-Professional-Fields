@@ -1,6 +1,6 @@
 # Speaking practice simulator
 
-**AI-03-05 · Education** · Also fits: Human Resources; Management
+**Education** · Also fits: Human Resources; Management
 
 ![Speaking practice simulator](visuals/speaking-practice-simulator.svg)
 

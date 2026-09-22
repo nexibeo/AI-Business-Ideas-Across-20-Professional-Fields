@@ -1,6 +1,6 @@
 # Internal developer knowledge assistant
 
-**AI-11-07 · IT and Development** · Also fits: Operations; Customer Support
+**IT and Development** · Also fits: Operations; Customer Support
 
 ![Internal developer knowledge assistant](visuals/internal-developer-knowledge-assistant.svg)
 

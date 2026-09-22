@@ -1,6 +1,6 @@
 # Team capacity planner
 
-**AI-13-04 · Management** · Also fits: Operations; Human Resources; Finance
+**Management** · Also fits: Operations; Human Resources; Finance
 
 ![Team capacity planner](visuals/team-capacity-planner.svg)
 

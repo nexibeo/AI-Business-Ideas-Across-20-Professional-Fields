@@ -1,6 +1,6 @@
 # Accounts receivable assistant
 
-**AI-05-01 · Finance** · Also fits: Operations; Management
+**Finance** · Also fits: Operations; Management
 
 ![Accounts receivable assistant](visuals/accounts-receivable-assistant.svg)
 

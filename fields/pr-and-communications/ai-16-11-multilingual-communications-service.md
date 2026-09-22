@@ -1,6 +1,6 @@
 # Multilingual communications service
 
-**AI-16-11 · PR and Communications** · Also fits: Writers; Executives and Strategy
+**PR and Communications** · Also fits: Writers; Executives and Strategy
 
 ![Multilingual communications service](visuals/multilingual-communications-service.svg)
 

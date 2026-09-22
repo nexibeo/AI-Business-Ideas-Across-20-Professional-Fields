@@ -1,6 +1,6 @@
 # Technology commercialization briefs
 
-**AI-20-14 · Science and Research** · Also fits: Education; Executives and Strategy
+**Science and Research** · Also fits: Education; Executives and Strategy
 
 ![Technology commercialization briefs](visuals/technology-commercialization-briefs.svg)
 

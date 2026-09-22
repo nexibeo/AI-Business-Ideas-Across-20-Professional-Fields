@@ -1,6 +1,6 @@
 # Virtual staging studio
 
-**AI-01-08 · Creatives** · Also fits: Marketing; Sales
+**Creatives** · Also fits: Marketing; Sales
 
 ![Virtual staging studio](visuals/virtual-staging-studio.svg)
 

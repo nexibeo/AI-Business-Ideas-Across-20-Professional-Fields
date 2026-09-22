@@ -1,6 +1,6 @@
 # Personal history publishing
 
-**AI-21-15 · Writers** · Also fits: Marketing; Education
+**Writers** · Also fits: Marketing; Education
 
 ![Personal history publishing](visuals/personal-history-publishing.svg)
 

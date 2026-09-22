@@ -1,6 +1,6 @@
 # Workforce planning workspace
 
-**AI-09-14 · Human Resources** · Also fits: Education; Operations; Finance
+**Human Resources** · Also fits: Education; Operations; Finance
 
 ![Workforce planning workspace](visuals/workforce-planning-workspace.svg)
 

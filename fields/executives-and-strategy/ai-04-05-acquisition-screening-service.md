@@ -1,6 +1,6 @@
 # Acquisition screening service
 
-**AI-04-05 · Executives and Strategy** · Also fits: Finance; Science and Research; Sales
+**Executives and Strategy** · Also fits: Finance; Science and Research; Sales
 
 ![Acquisition screening service](visuals/acquisition-screening-service.svg)
 

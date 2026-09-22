@@ -1,6 +1,6 @@
 # Instrument log analyst
 
-**AI-20-11 · Science and Research** · Also fits: Education; Executives and Strategy
+**Science and Research** · Also fits: Education; Executives and Strategy
 
 ![Instrument log analyst](visuals/instrument-log-analyst.svg)
 

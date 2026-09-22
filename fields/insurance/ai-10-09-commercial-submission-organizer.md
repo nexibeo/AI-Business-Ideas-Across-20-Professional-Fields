@@ -1,6 +1,6 @@
 # Commercial submission organizer
 
-**AI-10-09 · Insurance** · Also fits: Operations; Customer Support
+**Insurance** · Also fits: Operations; Customer Support
 
 ![Commercial submission organizer](visuals/commercial-submission-organizer.svg)
 

@@ -1,6 +1,6 @@
 # Property listing studio
 
-**AI-18-01 · Real Estate and Construction** · Also fits: Operations; Sales; Writers
+**Real Estate and Construction** · Also fits: Operations; Sales; Writers
 
 ![Property listing studio](visuals/property-listing-studio.svg)
 

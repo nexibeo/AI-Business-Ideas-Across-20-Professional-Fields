@@ -1,6 +1,6 @@
 # Pricing intelligence service
 
-**AI-04-09 · Executives and Strategy** · Also fits: Finance; Science and Research
+**Executives and Strategy** · Also fits: Finance; Science and Research
 
 ![Pricing intelligence service](visuals/pricing-intelligence-service.svg)
 

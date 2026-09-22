@@ -1,6 +1,6 @@
 # Game asset studio
 
-**AI-01-10 · Creatives** · Also fits: Marketing; Sales
+**Creatives** · Also fits: Marketing; Sales
 
 ![Game asset studio](visuals/game-asset-studio.svg)
 

@@ -1,6 +1,6 @@
 # Hotel guest messaging assistant
 
-**AI-08-01 · Hospitality and Events** · Also fits: Customer Support; Sales; IT and Development
+**Hospitality and Events** · Also fits: Customer Support; Sales; IT and Development
 
 ![Hotel guest messaging assistant](visuals/hotel-guest-messaging-assistant.svg)
 

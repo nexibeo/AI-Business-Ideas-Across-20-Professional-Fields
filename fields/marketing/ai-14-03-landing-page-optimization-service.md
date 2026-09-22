@@ -1,6 +1,6 @@
 # Landing page optimization service
 
-**AI-14-03 · Marketing** · Also fits: Creatives; Sales
+**Marketing** · Also fits: Creatives; Sales
 
 ![Landing page optimization service](visuals/landing-page-optimization-service.svg)
 

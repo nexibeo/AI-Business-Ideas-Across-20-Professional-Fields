@@ -1,6 +1,6 @@
 # Project retrospective analyst
 
-**AI-13-11 · Management** · Also fits: Operations; Human Resources; Science and Research
+**Management** · Also fits: Operations; Human Resources; Science and Research
 
 ![Project retrospective analyst](visuals/project-retrospective-analyst.svg)
 

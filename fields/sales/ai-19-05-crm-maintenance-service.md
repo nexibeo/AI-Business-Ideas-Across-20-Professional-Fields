@@ -1,6 +1,6 @@
 # CRM maintenance service
 
-**AI-19-05 · Sales** · Also fits: Marketing; Operations; IT and Development
+**Sales** · Also fits: Marketing; Operations; IT and Development
 
 ![CRM maintenance service](visuals/crm-maintenance-service.svg)
 

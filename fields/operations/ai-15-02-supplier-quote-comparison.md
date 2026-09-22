@@ -1,6 +1,6 @@
 # Supplier quote comparison
 
-**AI-15-02 · Operations** · Also fits: Finance; Management
+**Operations** · Also fits: Finance; Management
 
 ![Supplier quote comparison](visuals/supplier-quote-comparison.svg)
 

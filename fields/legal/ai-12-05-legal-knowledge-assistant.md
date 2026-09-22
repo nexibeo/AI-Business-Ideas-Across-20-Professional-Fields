@@ -1,6 +1,6 @@
 # Legal knowledge assistant
 
-**AI-12-05 · Legal** · Also fits: Operations; Management; IT and Development
+**Legal** · Also fits: Operations; Management; IT and Development
 
 ![Legal knowledge assistant](visuals/legal-knowledge-assistant.svg)
 

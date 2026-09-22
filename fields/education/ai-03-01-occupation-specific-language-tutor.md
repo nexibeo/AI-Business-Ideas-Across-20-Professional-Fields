@@ -1,6 +1,6 @@
 # Occupation-specific language tutor
 
-**AI-03-01 · Education** · Also fits: Human Resources; Management
+**Education** · Also fits: Human Resources; Management
 
 ![Occupation-specific language tutor](visuals/occupation-specific-language-tutor.svg)
 

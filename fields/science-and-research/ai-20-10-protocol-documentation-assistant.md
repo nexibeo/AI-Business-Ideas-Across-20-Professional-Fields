@@ -1,6 +1,6 @@
 # Protocol documentation assistant
 
-**AI-20-10 · Science and Research** · Also fits: Education; Executives and Strategy; Writers
+**Science and Research** · Also fits: Education; Executives and Strategy; Writers
 
 ![Protocol documentation assistant](visuals/protocol-documentation-assistant.svg)
 

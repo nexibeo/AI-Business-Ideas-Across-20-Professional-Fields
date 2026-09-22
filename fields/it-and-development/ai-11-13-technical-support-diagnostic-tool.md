@@ -1,6 +1,6 @@
 # Technical support diagnostic tool
 
-**AI-11-13 · IT and Development** · Also fits: Operations; Customer Support; Science and Research
+**IT and Development** · Also fits: Operations; Customer Support; Science and Research
 
 ![Technical support diagnostic tool](visuals/technical-support-diagnostic-tool.svg)
 

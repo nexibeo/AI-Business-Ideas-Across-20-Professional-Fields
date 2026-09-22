@@ -1,6 +1,6 @@
 # Customer case study studio
 
-**AI-14-10 · Marketing** · Also fits: Creatives; Sales; Writers
+**Marketing** · Also fits: Creatives; Sales; Writers
 
 ![Customer case study studio](visuals/customer-case-study-studio.svg)
 

@@ -1,6 +1,6 @@
 # Order exception coordinator
 
-**AI-15-04 · Operations** · Also fits: Finance; Management
+**Operations** · Also fits: Finance; Management
 
 ![Order exception coordinator](visuals/order-exception-coordinator.svg)
 

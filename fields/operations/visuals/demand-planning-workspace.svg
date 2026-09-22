@@ -1,6 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Demand planning workspace">
-<rect width="1600" height="1000" fill="hsl(258 28% 93%)"/><rect x="820" y="451.98587065096945" width="54" height="278.01412934903055" rx="8" fill="hsl(258 55% 38%)"/><rect x="898" y="282.19675632193685" width="54" height="447.80324367806315" rx="8" fill="hsl(258 30% 80%)"/><rect x="976" y="476.66822333354503" width="54" height="253.33177666645497" rx="8" fill="hsl(258 30% 80%)"/><rect x="1054" y="275.2957204449922" width="54" height="454.7042795550078" rx="8" fill="hsl(258 55% 38%)"/><rect x="1132" y="529.9251520214602" width="54" height="200.07484797853976" rx="8" fill="hsl(258 30% 80%)"/><rect x="1210" y="464.5199725031853" width="54" height="265.4800274968147" rx="8" fill="hsl(258 30% 80%)"/><rect x="1288" y="528.0823158705607" width="54" height="201.9176841294393" rx="8" fill="hsl(258 55% 38%)"/><rect x="1366" y="277.6758964639157" width="54" height="452.3241035360843" rx="8" fill="hsl(258 30% 80%)"/>
-<text x="120" y="210" font-family="ui-monospace,Menlo,monospace" font-size="34" letter-spacing="4" fill="hsl(258 55% 38%)">AI-15-10 · OPERATIONS</text>
-<text x="116" y="340" font-family="Georgia,serif" font-size="96" fill="#33312f">Demand planning</text><text x="116" y="444" font-family="Georgia,serif" font-size="96" fill="#33312f">workspace</text>
-<text x="120" y="880" font-family="ui-monospace,Menlo,monospace" font-size="28" letter-spacing="2" fill="#6B655D">Assumption-driven planning and decision workspace</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<rect x="0.0" y="0.0" width="1600.0" height="1000.0" rx="0" fill="hsl(258 28% 93%)"/>
+<ellipse cx="1080" cy="930" rx="520" ry="46" fill="hsl(258 30% 80%)" fill-opacity="0.30"/>
+<g transform="translate(630.0,200.0) scale(1.05)"><rect x="-50.0" y="5.0" width="28.0" height="20.0" rx="3" fill="hsl(258 30% 80%)"/><rect x="-14.0" y="-15.0" width="28.0" height="40.0" rx="3" fill="hsl(258 55% 38%)"/><rect x="22.0" y="-5.0" width="28.0" height="30.0" rx="3" fill="hsl(258 30% 80%)"/><path d="M -50 5 L -14 -10 L 22 8" fill="none" stroke="#33312f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect x="560.0" y="130.0" width="940.0" height="740.0" rx="14" fill="#ffffff"/>
+<rect x="560.0" y="130.0" width="940.0" height="64.0" rx="14" fill="hsl(258 55% 38%)"/>
+<rect x="560.0" y="180.0" width="940.0" height="14.0" rx="0" fill="hsl(258 55% 38%)"/>
+<circle cx="586.0" cy="162.0" r="6.0" fill="hsl(258 30% 80%)" fill-opacity="0.9"/>
+<circle cx="608.0" cy="162.0" r="6.0" fill="hsl(258 30% 80%)" fill-opacity="0.9"/>
+<circle cx="630.0" cy="162.0" r="6.0" fill="hsl(258 30% 80%)" fill-opacity="0.9"/>
+<rect x="588.0" y="218.0" width="282.9" height="628.0" rx="10" fill="hsl(258 28% 93%)"/>
+<rect x="604.0" y="238.0" width="250.9" height="6.0" rx="3" fill="hsl(258 30% 80%)"/>
+<circle cx="625.0" cy="241.0" r="9.0" fill="hsl(258 55% 38%)"/>
+<rect x="604.0" y="385.0" width="250.9" height="6.0" rx="3" fill="hsl(258 30% 80%)"/>
+<circle cx="666.0" cy="388.0" r="9.0" fill="hsl(258 55% 38%)"/>
+<rect x="604.0" y="532.0" width="250.9" height="6.0" rx="3" fill="hsl(258 30% 80%)"/>
+<circle cx="637.0" cy="535.0" r="9.0" fill="hsl(258 55% 38%)"/>
+<rect x="604.0" y="679.0" width="250.9" height="6.0" rx="3" fill="hsl(258 30% 80%)"/>
+<circle cx="608.0" cy="682.0" r="9.0" fill="hsl(258 55% 38%)"/>
+<rect x="894.9" y="218.0" width="577.1" height="628.0" rx="10" fill="#ffffff"/>
+<rect x="918.9" y="351.4" width="45.9" height="468.6" rx="3" fill="hsl(258 30% 80%)"/>
+<rect x="964.8" y="538.8" width="45.9" height="281.2" rx="3" fill="hsl(258 55% 38%)"/>
+<rect x="1024.7" y="479.2" width="45.9" height="340.8" rx="3" fill="hsl(258 30% 80%)"/>
+<rect x="1070.6" y="533.7" width="45.9" height="286.3" rx="3" fill="hsl(258 55% 38%)"/>
+<rect x="1130.5" y="607.0" width="45.9" height="213.0" rx="3" fill="hsl(258 30% 80%)"/>
+<rect x="1176.4" y="653.9" width="45.9" height="166.1" rx="3" fill="hsl(258 55% 38%)"/>
+<rect x="1236.4" y="394.0" width="45.9" height="426.0" rx="3" fill="hsl(258 30% 80%)"/>
+<rect x="1282.3" y="513.3" width="45.9" height="306.7" rx="3" fill="hsl(258 55% 38%)"/>
+<rect x="1342.2" y="521.8" width="45.9" height="298.2" rx="3" fill="hsl(258 30% 80%)"/>
+<rect x="1388.1" y="623.2" width="45.9" height="196.8" rx="3" fill="hsl(258 55% 38%)"/>
+<line x1="904.9" y1="820.0" x2="1462.0" y2="820.0" stroke="#33312f" stroke-width="2" stroke-linecap="round" stroke-opacity="0.35"/>
+<text x="604.0" y="232.0" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#33312f" text-anchor="start" font-weight="bold">Drivers</text>
+<rect x="1367.0" y="100.0" width="115.0" height="30.0" rx="15" fill="#ffffff"/>
+<circle cx="1383.0" cy="115.0" r="5.0" fill="hsl(78 22% 55%)"/>
+<text x="1395.0" y="120.0" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#33312f" text-anchor="start" font-weight="normal">In review</text>
 </svg>

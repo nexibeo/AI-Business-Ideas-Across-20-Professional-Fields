@@ -1,6 +1,6 @@
 # Sales roleplay simulator
 
-**AI-19-06 · Sales** · Also fits: Marketing; Operations; Education
+**Sales** · Also fits: Marketing; Operations; Education
 
 ![Sales roleplay simulator](visuals/sales-roleplay-simulator.svg)
 

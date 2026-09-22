@@ -1,6 +1,6 @@
 # Demo preparation assistant
 
-**AI-19-07 · Sales** · Also fits: Marketing; Operations; Writers
+**Sales** · Also fits: Marketing; Operations; Writers
 
 ![Demo preparation assistant](visuals/demo-preparation-assistant.svg)
 

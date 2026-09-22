@@ -1,6 +1,6 @@
 # Service scheduling coordinator
 
-**AI-15-12 · Operations** · Also fits: Finance; Management
+**Operations** · Also fits: Finance; Management
 
 ![Service scheduling coordinator](visuals/service-scheduling-coordinator.svg)
 

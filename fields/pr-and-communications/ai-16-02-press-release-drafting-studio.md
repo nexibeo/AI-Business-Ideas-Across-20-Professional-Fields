@@ -1,6 +1,6 @@
 # Press release drafting studio
 
-**AI-16-02 · PR and Communications** · Also fits: Writers; Executives and Strategy
+**PR and Communications** · Also fits: Writers; Executives and Strategy
 
 ![Press release drafting studio](visuals/press-release-drafting-studio.svg)
 

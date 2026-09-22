@@ -1,6 +1,6 @@
 # Restaurant menu localization
 
-**AI-08-06 · Hospitality and Events** · Also fits: Customer Support; Sales; PR and Communications
+**Hospitality and Events** · Also fits: Customer Support; Sales; PR and Communications
 
 ![Restaurant menu localization](visuals/restaurant-menu-localization.svg)
 

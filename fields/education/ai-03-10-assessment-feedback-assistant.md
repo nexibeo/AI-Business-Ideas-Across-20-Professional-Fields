@@ -1,6 +1,6 @@
 # Assessment feedback assistant
 
-**AI-03-10 · Education** · Also fits: Human Resources; Management; Operations
+**Education** · Also fits: Human Resources; Management; Operations
 
 ![Assessment feedback assistant](visuals/assessment-feedback-assistant.svg)
 

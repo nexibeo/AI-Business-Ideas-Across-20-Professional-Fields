@@ -1,6 +1,6 @@
 # Purchase order matching assistant
 
-**AI-05-13 · Finance** · Also fits: Operations; Management
+**Finance** · Also fits: Operations; Management
 
 ![Purchase order matching assistant](visuals/purchase-order-matching-assistant.svg)
 

@@ -1,6 +1,6 @@
 # Product taxonomy cleanup
 
-**AI-17-13 · Product Development** · Also fits: Customer Support; Science and Research; IT and Development
+**Product Development** · Also fits: Customer Support; Science and Research; IT and Development
 
 ![Product taxonomy cleanup](visuals/product-taxonomy-cleanup.svg)
 

@@ -1,6 +1,6 @@
 # Grant opportunity matching
 
-**AI-20-04 · Science and Research** · Also fits: Education; Executives and Strategy; Sales
+**Science and Research** · Also fits: Education; Executives and Strategy; Sales
 
 ![Grant opportunity matching](visuals/grant-opportunity-matching.svg)
 

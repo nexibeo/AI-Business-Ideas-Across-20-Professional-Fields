@@ -1,6 +1,6 @@
 # Vendor performance reporting
 
-**AI-15-14 · Operations** · Also fits: Finance; Management; Science and Research
+**Operations** · Also fits: Finance; Management; Science and Research
 
 ![Vendor performance reporting](visuals/vendor-performance-reporting.svg)
 

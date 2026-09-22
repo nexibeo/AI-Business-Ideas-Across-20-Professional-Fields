@@ -1,6 +1,6 @@
 # Legal operations reporting
 
-**AI-12-12 · Legal** · Also fits: Operations; Management; Science and Research
+**Legal** · Also fits: Operations; Management; Science and Research
 
 ![Legal operations reporting](visuals/legal-operations-reporting.svg)
 

@@ -1,6 +1,6 @@
 # RFP response workspace
 
-**AI-19-08 · Sales** · Also fits: Marketing; Operations; Writers
+**Sales** · Also fits: Marketing; Operations; Writers
 
 ![RFP response workspace](visuals/rfp-response-workspace.svg)
 

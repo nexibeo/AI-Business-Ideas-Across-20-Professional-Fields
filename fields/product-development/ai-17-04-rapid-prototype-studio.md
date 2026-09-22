@@ -1,6 +1,6 @@
 # Rapid prototype studio
 
-**AI-17-04 · Product Development** · Also fits: Customer Support; Science and Research; Creatives
+**Product Development** · Also fits: Customer Support; Science and Research; Creatives
 
 ![Rapid prototype studio](visuals/rapid-prototype-studio.svg)
 

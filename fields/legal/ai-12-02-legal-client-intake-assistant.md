@@ -1,6 +1,6 @@
 # Legal client intake assistant
 
-**AI-12-02 · Legal** · Also fits: Operations; Management; Customer Support
+**Legal** · Also fits: Operations; Management; Customer Support
 
 ![Legal client intake assistant](visuals/legal-client-intake-assistant.svg)
 

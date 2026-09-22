@@ -1,6 +1,6 @@
 # Specialist insurance content subscription
 
-**AI-10-15 · Insurance** · Also fits: Operations; Customer Support; Writers
+**Insurance** · Also fits: Operations; Customer Support; Writers
 
 ![Specialist insurance content subscription](visuals/specialist-insurance-content-subscription.svg)
 

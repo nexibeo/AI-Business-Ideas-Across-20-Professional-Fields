@@ -1,6 +1,6 @@
 # Churn research service
 
-**AI-17-12 · Product Development** · Also fits: Customer Support; Science and Research
+**Product Development** · Also fits: Customer Support; Science and Research
 
 ![Churn research service](visuals/churn-research-service.svg)
 

@@ -1,6 +1,6 @@
 # Personalized illustration shop
 
-**AI-01-12 · Creatives** · Also fits: Marketing; Sales
+**Creatives** · Also fits: Marketing; Sales
 
 ![Personalized illustration shop](visuals/personalized-illustration-shop.svg)
 

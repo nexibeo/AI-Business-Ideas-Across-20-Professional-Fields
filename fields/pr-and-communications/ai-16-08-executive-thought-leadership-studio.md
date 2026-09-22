@@ -1,6 +1,6 @@
 # Executive thought leadership studio
 
-**AI-16-08 · PR and Communications** · Also fits: Writers; Executives and Strategy
+**PR and Communications** · Also fits: Writers; Executives and Strategy
 
 ![Executive thought leadership studio](visuals/executive-thought-leadership-studio.svg)
 

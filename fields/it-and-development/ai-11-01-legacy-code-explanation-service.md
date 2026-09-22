@@ -1,6 +1,6 @@
 # Legacy code explanation service
 
-**AI-11-01 · IT and Development** · Also fits: Operations; Customer Support
+**IT and Development** · Also fits: Operations; Customer Support
 
 ![Legacy code explanation service](visuals/legacy-code-explanation-service.svg)
 

@@ -1,6 +1,6 @@
 # Inventory planning service
 
-**AI-15-05 · Operations** · Also fits: Finance; Management
+**Operations** · Also fits: Finance; Management
 
 ![Inventory planning service](visuals/inventory-planning-service.svg)
 

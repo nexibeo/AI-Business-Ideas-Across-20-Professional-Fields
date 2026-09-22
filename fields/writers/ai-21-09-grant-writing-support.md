@@ -1,6 +1,6 @@
 # Grant writing support
 
-**AI-21-09 · Writers** · Also fits: Marketing; Education
+**Writers** · Also fits: Marketing; Education
 
 ![Grant writing support](visuals/grant-writing-support.svg)
 

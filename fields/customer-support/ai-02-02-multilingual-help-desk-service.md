@@ -1,6 +1,6 @@
 # Multilingual help desk service
 
-**AI-02-02 · Customer Support** · Also fits: Operations; Product Development; PR and Communications
+**Customer Support** · Also fits: Operations; Product Development; PR and Communications
 
 ![Multilingual help desk service](visuals/multilingual-help-desk-service.svg)
 

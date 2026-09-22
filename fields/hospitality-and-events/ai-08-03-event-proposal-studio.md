@@ -1,6 +1,6 @@
 # Event proposal studio
 
-**AI-08-03 · Hospitality and Events** · Also fits: Customer Support; Sales; Writers
+**Hospitality and Events** · Also fits: Customer Support; Sales; Writers
 
 ![Event proposal studio](visuals/event-proposal-studio.svg)
 

@@ -1,6 +1,6 @@
 # Scientific figure studio
 
-**AI-20-08 · Science and Research** · Also fits: Education; Executives and Strategy; Creatives
+**Science and Research** · Also fits: Education; Executives and Strategy; Creatives
 
 ![Scientific figure studio](visuals/scientific-figure-studio.svg)
 

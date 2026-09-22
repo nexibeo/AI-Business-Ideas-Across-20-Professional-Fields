@@ -1,6 +1,6 @@
 # Quality issue analyzer
 
-**AI-15-08 · Operations** · Also fits: Finance; Management; Science and Research
+**Operations** · Also fits: Finance; Management; Science and Research
 
 ![Quality issue analyzer](visuals/quality-issue-analyzer.svg)
 

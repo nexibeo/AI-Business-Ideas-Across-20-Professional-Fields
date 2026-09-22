@@ -1,6 +1,6 @@
 # Agency delivery dashboard
 
-**AI-13-13 · Management** · Also fits: Operations; Human Resources; Science and Research
+**Management** · Also fits: Operations; Human Resources; Science and Research
 
 ![Agency delivery dashboard](visuals/agency-delivery-dashboard.svg)
 

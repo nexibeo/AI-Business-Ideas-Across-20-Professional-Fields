@@ -1,6 +1,6 @@
 # Weekly management briefing
 
-**AI-13-02 · Management** · Also fits: Operations; Human Resources; Science and Research
+**Management** · Also fits: Operations; Human Resources; Science and Research
 
 ![Weekly management briefing](visuals/weekly-management-briefing.svg)
 

@@ -1,6 +1,6 @@
 # Appointment preparation service
 
-**AI-07-02 · Healthcare** · Also fits: Education; Operations; Management
+**Healthcare** · Also fits: Education; Operations; Management
 
 ![Appointment preparation service](visuals/appointment-preparation-service.svg)
 

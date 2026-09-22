@@ -1,6 +1,6 @@
 # Accessibility remediation service
 
-**AI-06-09 · Government** · Also fits: Operations; Writers
+**Government** · Also fits: Operations; Writers
 
 ![Accessibility remediation service](visuals/accessibility-remediation-service.svg)
 

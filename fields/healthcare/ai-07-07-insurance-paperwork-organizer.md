@@ -1,6 +1,6 @@
 # Insurance paperwork organizer
 
-**AI-07-07 · Healthcare** · Also fits: Education; Operations; Customer Support
+**Healthcare** · Also fits: Education; Operations; Customer Support
 
 ![Insurance paperwork organizer](visuals/insurance-paperwork-organizer.svg)
 

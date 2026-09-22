@@ -1,6 +1,6 @@
 # Sales enablement librarian
 
-**AI-19-10 · Sales** · Also fits: Marketing; Operations; IT and Development
+**Sales** · Also fits: Marketing; Operations; IT and Development
 
 ![Sales enablement librarian](visuals/sales-enablement-librarian.svg)
 

@@ -1,6 +1,6 @@
 # Monthly reporting service
 
-**AI-05-04 · Finance** · Also fits: Operations; Management; Writers
+**Finance** · Also fits: Operations; Management; Writers
 
 ![Monthly reporting service](visuals/monthly-reporting-service.svg)
 

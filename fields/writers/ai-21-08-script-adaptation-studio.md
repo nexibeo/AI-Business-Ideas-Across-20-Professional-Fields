@@ -1,6 +1,6 @@
 # Script adaptation studio
 
-**AI-21-08 · Writers** · Also fits: Marketing; Education
+**Writers** · Also fits: Marketing; Education
 
 ![Script adaptation studio](visuals/script-adaptation-studio.svg)
 

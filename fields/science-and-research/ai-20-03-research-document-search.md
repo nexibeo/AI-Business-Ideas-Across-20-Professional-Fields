@@ -1,6 +1,6 @@
 # Research document search
 
-**AI-20-03 · Science and Research** · Also fits: Education; Executives and Strategy; IT and Development
+**Science and Research** · Also fits: Education; Executives and Strategy; IT and Development
 
 ![Research document search](visuals/research-document-search.svg)
 

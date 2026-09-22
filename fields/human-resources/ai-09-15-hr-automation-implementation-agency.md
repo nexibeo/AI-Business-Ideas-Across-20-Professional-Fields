@@ -1,6 +1,6 @@
 # HR automation implementation agency
 
-**AI-09-15 · Human Resources** · Also fits: Education; Operations; IT and Development
+**Human Resources** · Also fits: Education; Operations; IT and Development
 
 ![HR automation implementation agency](visuals/hr-automation-implementation-agency.svg)
 

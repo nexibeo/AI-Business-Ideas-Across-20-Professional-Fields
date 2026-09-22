@@ -1,6 +1,6 @@
 # Legal translation coordination
 
-**AI-12-10 · Legal** · Also fits: Operations; Management; PR and Communications
+**Legal** · Also fits: Operations; Management; PR and Communications
 
 ![Legal translation coordination](visuals/legal-translation-coordination.svg)
 

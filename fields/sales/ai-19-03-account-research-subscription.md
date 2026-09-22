@@ -1,6 +1,6 @@
 # Account research subscription
 
-**AI-19-03 · Sales** · Also fits: Marketing; Operations; Science and Research
+**Sales** · Also fits: Marketing; Operations; Science and Research
 
 ![Account research subscription](visuals/account-research-subscription.svg)
 

@@ -1,6 +1,6 @@
 # Packaging concept studio
 
-**AI-01-05 · Creatives** · Also fits: Marketing; Sales
+**Creatives** · Also fits: Marketing; Sales
 
 ![Packaging concept studio](visuals/packaging-concept-studio.svg)
 

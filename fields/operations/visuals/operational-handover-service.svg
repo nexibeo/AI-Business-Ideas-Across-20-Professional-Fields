@@ -1,6 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Operational handover service">
-<rect width="1600" height="1000" fill="hsl(258 28% 93%)"/><line x1="1122" y1="252" x2="1193" y2="525" stroke="hsl(258 55% 38%)" stroke-width="6"/><line x1="1118" y1="171" x2="1335" y2="554" stroke="hsl(258 55% 38%)" stroke-width="6"/><line x1="1002" y1="553" x2="1400" y2="460" stroke="hsl(258 55% 38%)" stroke-width="6"/><line x1="1193" y1="525" x2="917" y2="587" stroke="hsl(258 55% 38%)" stroke-width="6"/><line x1="1335" y1="554" x2="998" y2="401" stroke="hsl(258 55% 38%)" stroke-width="6"/><line x1="1400" y1="460" x2="1323" y2="500" stroke="hsl(258 55% 38%)" stroke-width="6"/><line x1="917" y1="587" x2="1122" y2="252" stroke="hsl(258 55% 38%)" stroke-width="6"/><line x1="998" y1="401" x2="1118" y2="171" stroke="hsl(258 55% 38%)" stroke-width="6"/><line x1="1323" y1="500" x2="1002" y2="553" stroke="hsl(258 55% 38%)" stroke-width="6"/><circle cx="1122" cy="252" r="44" fill="hsl(258 55% 38%)"/><circle cx="1118" cy="171" r="26" fill="hsl(258 30% 80%)"/><circle cx="1002" cy="553" r="26" fill="hsl(258 30% 80%)"/><circle cx="1193" cy="525" r="44" fill="hsl(258 55% 38%)"/><circle cx="1335" cy="554" r="26" fill="hsl(258 30% 80%)"/><circle cx="1400" cy="460" r="26" fill="hsl(258 30% 80%)"/><circle cx="917" cy="587" r="44" fill="hsl(258 55% 38%)"/><circle cx="998" cy="401" r="26" fill="hsl(258 30% 80%)"/><circle cx="1323" cy="500" r="26" fill="hsl(258 30% 80%)"/>
-<text x="120" y="210" font-family="ui-monospace,Menlo,monospace" font-size="34" letter-spacing="4" fill="hsl(258 55% 38%)">AI-15-13 · OPERATIONS</text>
-<text x="116" y="340" font-family="Georgia,serif" font-size="96" fill="#33312f">Operational</text><text x="116" y="444" font-family="Georgia,serif" font-size="96" fill="#33312f">handover service</text>
-<text x="120" y="880" font-family="ui-monospace,Menlo,monospace" font-size="28" letter-spacing="2" fill="#6B655D">Operational coordination portal</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<rect x="0.0" y="0.0" width="1600.0" height="1000.0" rx="0" fill="hsl(258 28% 93%)"/>
+<ellipse cx="1080" cy="930" rx="520" ry="46" fill="hsl(258 30% 80%)" fill-opacity="0.30"/>
+<g transform="translate(630.0,200.0) scale(1.00)"><path d="M -10 -30 A 26 26 0 1 0 20 20 A 32 32 0 0 1 -10 -30 Z" fill="hsl(78 22% 55%)"/><rect x="20.0" y="-10.0" width="40.0" height="60.0" rx="6" fill="#ffffff"/><rect x="28.0" y="2.0" width="24.0" height="6.0" rx="2" fill="hsl(258 30% 80%)"/><rect x="28.0" y="18.0" width="24.0" height="6.0" rx="2" fill="hsl(258 30% 80%)"/><rect x="28.0" y="34.0" width="24.0" height="6.0" rx="2" fill="hsl(258 30% 80%)"/></g>
+<rect x="560.0" y="130.0" width="940.0" height="740.0" rx="14" fill="#ffffff"/>
+<rect x="560.0" y="130.0" width="940.0" height="64.0" rx="14" fill="hsl(258 55% 38%)"/>
+<rect x="560.0" y="180.0" width="940.0" height="14.0" rx="0" fill="hsl(258 55% 38%)"/>
+<circle cx="586.0" cy="162.0" r="6.0" fill="hsl(258 30% 80%)" fill-opacity="0.9"/>
+<circle cx="608.0" cy="162.0" r="6.0" fill="hsl(258 30% 80%)" fill-opacity="0.9"/>
+<circle cx="630.0" cy="162.0" r="6.0" fill="hsl(258 30% 80%)" fill-opacity="0.9"/>
+<rect x="588.0" y="218.0" width="371.3" height="64.0" rx="10" fill="#ffffff"/>
+<circle cx="610.0" cy="250.0" r="8.0" fill="hsl(258 55% 38%)"/>
+<rect x="632.0" y="240.0" width="293.3" height="8.0" rx="4" fill="hsl(258 30% 80%)"/>
+<rect x="632.0" y="254.0" width="261.3" height="6.0" rx="3" fill="hsl(258 30% 80%)"/>
+<rect x="588.0" y="294.0" width="371.3" height="64.0" rx="10" fill="hsl(258 30% 80%)"/>
+<circle cx="610.0" cy="326.0" r="8.0" fill="hsl(258 55% 38%)"/>
+<rect x="632.0" y="316.0" width="293.3" height="8.0" rx="4" fill="hsl(258 55% 38%)"/>
+<rect x="632.0" y="330.0" width="261.3" height="6.0" rx="3" fill="hsl(258 30% 80%)"/>
+<rect x="588.0" y="370.0" width="371.3" height="64.0" rx="10" fill="#ffffff"/>
+<circle cx="610.0" cy="402.0" r="8.0" fill="hsl(258 55% 38%)"/>
+<rect x="632.0" y="392.0" width="293.3" height="8.0" rx="4" fill="hsl(258 30% 80%)"/>
+<rect x="632.0" y="406.0" width="261.3" height="6.0" rx="3" fill="hsl(258 30% 80%)"/>
+<rect x="588.0" y="446.0" width="371.3" height="64.0" rx="10" fill="#ffffff"/>
+<circle cx="610.0" cy="478.0" r="8.0" fill="hsl(258 55% 38%)"/>
+<rect x="632.0" y="468.0" width="293.3" height="8.0" rx="4" fill="hsl(258 30% 80%)"/>
+<rect x="632.0" y="482.0" width="261.3" height="6.0" rx="3" fill="hsl(258 30% 80%)"/>
+<rect x="983.3" y="218.0" width="488.7" height="628.0" rx="10" fill="hsl(258 28% 93%)"/>
+<rect x="1003.3" y="238.0" width="448.7" height="14.0" rx="4" fill="hsl(258 55% 38%)"/>
+<rect x="1003.3" y="272.0" width="428.7" height="8.0" rx="4" fill="hsl(258 30% 80%)"/>
+<rect x="1003.3" y="298.0" width="398.7" height="8.0" rx="4" fill="hsl(258 30% 80%)"/>
+<rect x="1003.3" y="324.0" width="368.7" height="8.0" rx="4" fill="hsl(258 30% 80%)"/>
+<rect x="1003.3" y="800.0" width="90.0" height="26.0" rx="13" fill="hsl(258 55% 38%)"/>
+<text x="1003.3" y="818.0" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#ffffff" text-anchor="start" font-weight="bold">Shift</text>
+<rect x="1367.0" y="100.0" width="115.0" height="30.0" rx="15" fill="#ffffff"/>
+<circle cx="1383.0" cy="115.0" r="5.0" fill="hsl(78 22% 55%)"/>
+<text x="1395.0" y="120.0" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#33312f" text-anchor="start" font-weight="normal">In review</text>
 </svg>

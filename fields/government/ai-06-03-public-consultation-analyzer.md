@@ -1,6 +1,6 @@
 # Public consultation analyzer
 
-**AI-06-03 · Government** · Also fits: Operations; Writers; Science and Research
+**Government** · Also fits: Operations; Writers; Science and Research
 
 ![Public consultation analyzer](visuals/public-consultation-analyzer.svg)
 

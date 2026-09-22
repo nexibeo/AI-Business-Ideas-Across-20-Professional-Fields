@@ -1,6 +1,6 @@
 # Adaptive exam practice platform
 
-**AI-03-02 · Education** · Also fits: Human Resources; Management
+**Education** · Also fits: Human Resources; Management
 
 ![Adaptive exam practice platform](visuals/adaptive-exam-practice-platform.svg)
 

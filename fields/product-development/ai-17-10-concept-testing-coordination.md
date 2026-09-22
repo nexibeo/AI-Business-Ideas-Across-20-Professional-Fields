@@ -1,6 +1,6 @@
 # Concept testing coordination
 
-**AI-17-10 · Product Development** · Also fits: Customer Support; Science and Research
+**Product Development** · Also fits: Customer Support; Science and Research
 
 ![Concept testing coordination](visuals/concept-testing-coordination.svg)
 

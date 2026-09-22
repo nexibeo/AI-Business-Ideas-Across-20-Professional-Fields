@@ -1,6 +1,6 @@
 # Case study writing service
 
-**AI-21-04 · Writers** · Also fits: Marketing; Education
+**Writers** · Also fits: Marketing; Education
 
 ![Case study writing service](visuals/case-study-writing-service.svg)
 

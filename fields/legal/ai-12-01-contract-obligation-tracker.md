@@ -1,6 +1,6 @@
 # Contract obligation tracker
 
-**AI-12-01 · Legal** · Also fits: Operations; Management
+**Legal** · Also fits: Operations; Management
 
 ![Contract obligation tracker](visuals/contract-obligation-tracker.svg)
 

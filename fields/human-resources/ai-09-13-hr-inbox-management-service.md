@@ -1,6 +1,6 @@
 # HR inbox management service
 
-**AI-09-13 · Human Resources** · Also fits: Education; Operations; Customer Support
+**Human Resources** · Also fits: Education; Operations; Customer Support
 
 ![HR inbox management service](visuals/hr-inbox-management-service.svg)
 

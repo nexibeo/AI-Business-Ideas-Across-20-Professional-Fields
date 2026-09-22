@@ -1,6 +1,6 @@
 # AI workflow evaluation service
 
-**AI-11-14 · IT and Development** · Also fits: Operations; Customer Support
+**IT and Development** · Also fits: Operations; Customer Support
 
 ![AI workflow evaluation service](visuals/ai-workflow-evaluation-service.svg)
 

@@ -1,6 +1,6 @@
 # Cohort learning assistant
 
-**AI-03-14 · Education** · Also fits: Human Resources; Management; IT and Development
+**Education** · Also fits: Human Resources; Management; IT and Development
 
 ![Cohort learning assistant](visuals/cohort-learning-assistant.svg)
 

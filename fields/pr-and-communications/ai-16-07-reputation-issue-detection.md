@@ -1,6 +1,6 @@
 # Reputation issue detection
 
-**AI-16-07 · PR and Communications** · Also fits: Writers; Executives and Strategy
+**PR and Communications** · Also fits: Writers; Executives and Strategy
 
 ![Reputation issue detection](visuals/reputation-issue-detection.svg)
 

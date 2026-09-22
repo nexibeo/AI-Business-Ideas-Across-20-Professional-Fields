@@ -1,6 +1,6 @@
 # Certificate request coordinator
 
-**AI-10-13 · Insurance** · Also fits: Operations; Customer Support; Management
+**Insurance** · Also fits: Operations; Customer Support; Management
 
 ![Certificate request coordinator](visuals/certificate-request-coordinator.svg)
 

@@ -1,6 +1,6 @@
 # Project handover builder
 
-**AI-13-05 · Management** · Also fits: Operations; Human Resources; Writers
+**Management** · Also fits: Operations; Human Resources; Writers
 
 ![Project handover builder](visuals/project-handover-builder.svg)
 

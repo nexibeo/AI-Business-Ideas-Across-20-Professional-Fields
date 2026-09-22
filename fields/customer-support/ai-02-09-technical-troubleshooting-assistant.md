@@ -1,6 +1,6 @@
 # Technical troubleshooting assistant
 
-**AI-02-09 · Customer Support** · Also fits: Operations; Product Development; IT and Development
+**Customer Support** · Also fits: Operations; Product Development; IT and Development
 
 ![Technical troubleshooting assistant](visuals/technical-troubleshooting-assistant.svg)
 

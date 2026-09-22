@@ -1,6 +1,6 @@
 # School communication service
 
-**AI-03-12 · Education** · Also fits: Human Resources; Management; PR and Communications
+**Education** · Also fits: Human Resources; Management; PR and Communications
 
 ![School communication service](visuals/school-communication-service.svg)
 

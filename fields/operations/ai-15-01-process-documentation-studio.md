@@ -1,6 +1,6 @@
 # Process documentation studio
 
-**AI-15-01 · Operations** · Also fits: Finance; Management; Writers
+**Operations** · Also fits: Finance; Management; Writers
 
 ![Process documentation studio](visuals/process-documentation-studio.svg)
 

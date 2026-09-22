@@ -1,6 +1,6 @@
 # Healthcare directory maintenance
 
-**AI-07-14 · Healthcare** · Also fits: Education; Operations; IT and Development
+**Healthcare** · Also fits: Education; Operations; IT and Development
 
 ![Healthcare directory maintenance](visuals/healthcare-directory-maintenance.svg)
 

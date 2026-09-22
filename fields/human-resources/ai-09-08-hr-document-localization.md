@@ -1,6 +1,6 @@
 # HR document localization
 
-**AI-09-08 · Human Resources** · Also fits: Education; Operations; PR and Communications
+**Human Resources** · Also fits: Education; Operations; PR and Communications
 
 ![HR document localization](visuals/hr-document-localization.svg)
 

@@ -1,6 +1,6 @@
 # Remote team onboarding service
 
-**AI-13-14 · Management** · Also fits: Operations; Human Resources
+**Management** · Also fits: Operations; Human Resources
 
 ![Remote team onboarding service](visuals/remote-team-onboarding-service.svg)
 

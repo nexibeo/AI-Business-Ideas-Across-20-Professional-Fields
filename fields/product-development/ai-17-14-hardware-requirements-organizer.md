@@ -1,6 +1,6 @@
 # Hardware requirements organizer
 
-**AI-17-14 · Product Development** · Also fits: Customer Support; Science and Research; Writers
+**Product Development** · Also fits: Customer Support; Science and Research; Writers
 
 ![Hardware requirements organizer](visuals/hardware-requirements-organizer.svg)
 

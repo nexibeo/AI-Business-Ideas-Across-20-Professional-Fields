@@ -1,6 +1,6 @@
 # Meeting action coordinator
 
-**AI-13-01 · Management** · Also fits: Operations; Human Resources
+**Management** · Also fits: Operations; Human Resources
 
 ![Meeting action coordinator](visuals/meeting-action-coordinator.svg)
 

@@ -1,6 +1,6 @@
 # Medical practice knowledge assistant
 
-**AI-07-05 · Healthcare** · Also fits: Education; Operations; IT and Development
+**Healthcare** · Also fits: Education; Operations; IT and Development
 
 ![Medical practice knowledge assistant](visuals/medical-practice-knowledge-assistant.svg)
 

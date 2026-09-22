@@ -1,6 +1,6 @@
 # Video localization service
 
-**AI-01-04 · Creatives** · Also fits: Marketing; Sales; PR and Communications
+**Creatives** · Also fits: Marketing; Sales; PR and Communications
 
 ![Video localization service](visuals/video-localization-service.svg)
 

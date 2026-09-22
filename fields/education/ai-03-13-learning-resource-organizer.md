@@ -1,6 +1,6 @@
 # Learning resource organizer
 
-**AI-03-13 · Education** · Also fits: Human Resources; Management; IT and Development
+**Education** · Also fits: Human Resources; Management; IT and Development
 
 ![Learning resource organizer](visuals/learning-resource-organizer.svg)
 

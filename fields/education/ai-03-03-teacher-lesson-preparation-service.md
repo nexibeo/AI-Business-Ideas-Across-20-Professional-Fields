@@ -1,6 +1,6 @@
 # Teacher lesson preparation service
 
-**AI-03-03 · Education** · Also fits: Human Resources; Management; Writers
+**Education** · Also fits: Human Resources; Management; Writers
 
 ![Teacher lesson preparation service](visuals/teacher-lesson-preparation-service.svg)
 

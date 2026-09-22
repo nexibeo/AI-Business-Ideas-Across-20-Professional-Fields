@@ -1,6 +1,6 @@
 # Inbound lead assistant
 
-**AI-19-02 · Sales** · Also fits: Marketing; Operations; IT and Development
+**Sales** · Also fits: Marketing; Operations; IT and Development
 
 ![Inbound lead assistant](visuals/inbound-lead-assistant.svg)
 

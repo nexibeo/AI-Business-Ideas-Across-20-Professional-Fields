@@ -1,6 +1,6 @@
 # Support quality auditor
 
-**AI-02-03 · Customer Support** · Also fits: Operations; Product Development
+**Customer Support** · Also fits: Operations; Product Development
 
 ![Support quality auditor](visuals/support-quality-auditor.svg)
 

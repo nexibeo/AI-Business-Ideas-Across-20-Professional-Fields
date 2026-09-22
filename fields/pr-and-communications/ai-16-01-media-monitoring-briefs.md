@@ -1,6 +1,6 @@
 # Media monitoring briefs
 
-**AI-16-01 · PR and Communications** · Also fits: Writers; Executives and Strategy
+**PR and Communications** · Also fits: Writers; Executives and Strategy
 
 ![Media monitoring briefs](visuals/media-monitoring-briefs.svg)
 

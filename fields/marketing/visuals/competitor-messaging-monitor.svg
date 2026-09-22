@@ -1,6 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Competitor messaging monitor">
-<rect width="1600" height="1000" fill="hsl(241 28% 93%)"/><circle cx="1413" cy="674" r="20" fill="hsl(241 30% 80%)"/><circle cx="1410" cy="664" r="8" fill="hsl(241 30% 80%)"/><circle cx="925" cy="271" r="17" fill="hsl(241 30% 80%)"/><circle cx="1141" cy="279" r="27" fill="hsl(241 30% 80%)"/><circle cx="830" cy="585" r="14" fill="hsl(241 30% 80%)"/><circle cx="1336" cy="727" r="24" fill="hsl(241 55% 38%)"/><circle cx="1379" cy="282" r="24" fill="hsl(241 30% 80%)"/><circle cx="856" cy="488" r="10" fill="hsl(241 30% 80%)"/><circle cx="965" cy="716" r="6" fill="hsl(241 55% 38%)"/><circle cx="936" cy="385" r="17" fill="hsl(241 30% 80%)"/><circle cx="1436" cy="214" r="25" fill="hsl(241 30% 80%)"/><circle cx="1154" cy="266" r="11" fill="hsl(241 30% 80%)"/><circle cx="1439" cy="704" r="7" fill="hsl(241 30% 80%)"/><circle cx="1349" cy="191" r="12" fill="hsl(241 30% 80%)"/><circle cx="843" cy="387" r="22" fill="hsl(241 30% 80%)"/><circle cx="1199" cy="540" r="20" fill="hsl(241 30% 80%)"/><circle cx="890" cy="439" r="13" fill="hsl(241 30% 80%)"/><circle cx="1257" cy="472" r="18" fill="hsl(241 30% 80%)"/><circle cx="1337" cy="550" r="22" fill="hsl(241 30% 80%)"/><circle cx="1001" cy="346" r="20" fill="hsl(241 55% 38%)"/><circle cx="1008" cy="660" r="25" fill="hsl(241 30% 80%)"/><circle cx="923" cy="245" r="22" fill="hsl(241 30% 80%)"/><circle cx="1091" cy="483" r="15" fill="hsl(241 55% 38%)"/><circle cx="970" cy="227" r="22" fill="hsl(241 30% 80%)"/><circle cx="976" cy="193" r="24" fill="hsl(241 55% 38%)"/><circle cx="1115" cy="606" r="7" fill="hsl(241 30% 80%)"/><circle cx="1309" cy="584" r="9" fill="hsl(241 30% 80%)"/><circle cx="840" cy="586" r="25" fill="hsl(241 30% 80%)"/><circle cx="870" cy="460" r="10" fill="hsl(241 55% 38%)"/><circle cx="1384" cy="293" r="16" fill="hsl(241 55% 38%)"/><circle cx="1310" cy="229" r="8" fill="hsl(241 30% 80%)"/><circle cx="1149" cy="601" r="27" fill="hsl(241 55% 38%)"/><circle cx="1220" cy="480" r="16" fill="hsl(241 30% 80%)"/><circle cx="905" cy="195" r="14" fill="hsl(241 30% 80%)"/><circle cx="1283" cy="608" r="7" fill="hsl(241 30% 80%)"/><circle cx="878" cy="502" r="25" fill="hsl(241 30% 80%)"/><circle cx="1289" cy="260" r="22" fill="hsl(241 55% 38%)"/><circle cx="1234" cy="588" r="17" fill="hsl(241 30% 80%)"/><circle cx="1213" cy="273" r="7" fill="hsl(241 55% 38%)"/><circle cx="849" cy="482" r="9" fill="hsl(241 30% 80%)"/><circle cx="1192" cy="271" r="14" fill="hsl(241 30% 80%)"/><circle cx="1392" cy="615" r="22" fill="hsl(241 30% 80%)"/><circle cx="1077" cy="224" r="15" fill="hsl(241 30% 80%)"/><circle cx="1370" cy="177" r="24" fill="hsl(241 30% 80%)"/><circle cx="1458" cy="364" r="24" fill="hsl(241 55% 38%)"/><circle cx="1261" cy="552" r="21" fill="hsl(241 30% 80%)"/><circle cx="1047" cy="572" r="15" fill="hsl(241 55% 38%)"/><circle cx="1151" cy="378" r="13" fill="hsl(241 30% 80%)"/><circle cx="1308" cy="363" r="14" fill="hsl(241 30% 80%)"/><circle cx="1148" cy="172" r="27" fill="hsl(241 30% 80%)"/><circle cx="1044" cy="583" r="9" fill="hsl(241 30% 80%)"/><circle cx="1345" cy="266" r="8" fill="hsl(241 55% 38%)"/><circle cx="1418" cy="663" r="9" fill="hsl(241 55% 38%)"/><circle cx="1344" cy="454" r="16" fill="hsl(241 55% 38%)"/><circle cx="946" cy="389" r="12" fill="hsl(241 30% 80%)"/><circle cx="1267" cy="247" r="20" fill="hsl(241 55% 38%)"/><circle cx="917" cy="584" r="20" fill="hsl(241 55% 38%)"/><circle cx="1040" cy="262" r="19" fill="hsl(241 55% 38%)"/><circle cx="1423" cy="465" r="7" fill="hsl(241 30% 80%)"/><circle cx="1157" cy="308" r="9" fill="hsl(241 55% 38%)"/>
-<text x="120" y="210" font-family="ui-monospace,Menlo,monospace" font-size="34" letter-spacing="4" fill="hsl(241 55% 38%)">AI-14-12 · MARKETING</text>
-<text x="116" y="340" font-family="Georgia,serif" font-size="96" fill="#33312f">Competitor</text><text x="116" y="444" font-family="Georgia,serif" font-size="96" fill="#33312f">messaging</text><text x="116" y="548" font-family="Georgia,serif" font-size="96" fill="#33312f">monitor</text>
-<text x="120" y="880" font-family="ui-monospace,Menlo,monospace" font-size="28" letter-spacing="2" fill="#6B655D">Watchlist, change detection and briefing subscription</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<rect x="0.0" y="0.0" width="1600.0" height="1000.0" rx="0" fill="hsl(241 28% 93%)"/>
+<ellipse cx="1080" cy="930" rx="520" ry="46" fill="hsl(241 30% 80%)" fill-opacity="0.30"/>
+<g transform="translate(630.0,200.0) scale(1.05)"><path d="M -50 0 Q 0 -34 50 0 Q 0 34 -50 0 Z" fill="hsl(241 30% 80%)"/><circle cx="0.0" cy="0.0" r="16.0" fill="hsl(241 55% 38%)"/><circle cx="0.0" cy="0.0" r="6.0" fill="#33312f"/></g>
+<rect x="560.0" y="130.0" width="940.0" height="740.0" rx="14" fill="#ffffff"/>
+<rect x="560.0" y="130.0" width="940.0" height="64.0" rx="14" fill="hsl(241 55% 38%)"/>
+<rect x="560.0" y="180.0" width="940.0" height="14.0" rx="0" fill="hsl(241 55% 38%)"/>
+<circle cx="586.0" cy="162.0" r="6.0" fill="hsl(241 30% 80%)" fill-opacity="0.9"/>
+<circle cx="608.0" cy="162.0" r="6.0" fill="hsl(241 30% 80%)" fill-opacity="0.9"/>
+<circle cx="630.0" cy="162.0" r="6.0" fill="hsl(241 30% 80%)" fill-opacity="0.9"/>
+<rect x="588.0" y="218.0" width="353.6" height="628.0" rx="10" fill="#ffffff"/>
+<circle cx="612.0" cy="246.0" r="6.0" fill="hsl(241 30% 80%)"/>
+<rect x="630.0" y="240.0" width="283.6" height="10.0" rx="4" fill="hsl(241 30% 80%)"/>
+<circle cx="612.0" cy="396.0" r="6.0" fill="hsl(241 30% 80%)"/>
+<rect x="630.0" y="390.0" width="283.6" height="10.0" rx="4" fill="hsl(241 30% 80%)"/>
+<circle cx="612.0" cy="546.0" r="6.0" fill="hsl(241 55% 38%)"/>
+<rect x="630.0" y="540.0" width="283.6" height="10.0" rx="4" fill="hsl(241 30% 80%)"/>
+<circle cx="612.0" cy="696.0" r="6.0" fill="hsl(241 30% 80%)"/>
+<rect x="630.0" y="690.0" width="283.6" height="10.0" rx="4" fill="hsl(241 30% 80%)"/>
+<rect x="963.6" y="218.0" width="508.4" height="628.0" rx="10" fill="hsl(241 28% 93%)"/>
+<rect x="981.6" y="236.0" width="472.4" height="251.2" rx="8" fill="#ffffff"/>
+<path d="M 993.6 424.4 L 1083.3 403.5 L 1173.0 382.5 L 1262.6 361.6 L 1352.3 340.7 L 1442.0 319.7" fill="none" stroke="hsl(241 55% 38%)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="981.6" y="532.0" width="472.4" height="18.0" rx="6" fill="#ffffff"/>
+<rect x="981.6" y="562.0" width="472.4" height="18.0" rx="6" fill="#ffffff"/>
+<rect x="981.6" y="592.0" width="472.4" height="18.0" rx="6" fill="#ffffff"/>
+<text x="981.6" y="509.2" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="hsl(241 55% 38%)" text-anchor="start" font-weight="bold">Changes</text>
+<rect x="1412.0" y="100.0" width="70.0" height="30.0" rx="15" fill="#ffffff"/>
+<circle cx="1428.0" cy="115.0" r="5.0" fill="hsl(61 22% 55%)"/>
+<text x="1440.0" y="120.0" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#33312f" text-anchor="start" font-weight="normal">Live</text>
 </svg>

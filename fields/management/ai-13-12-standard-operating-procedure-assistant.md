@@ -1,6 +1,6 @@
 # Standard operating procedure assistant
 
-**AI-13-12 · Management** · Also fits: Operations; Human Resources; IT and Development
+**Management** · Also fits: Operations; Human Resources; IT and Development
 
 ![Standard operating procedure assistant](visuals/standard-operating-procedure-assistant.svg)
 

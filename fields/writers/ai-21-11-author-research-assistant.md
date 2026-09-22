@@ -1,6 +1,6 @@
 # Author research assistant
 
-**AI-21-11 · Writers** · Also fits: Marketing; Education; Science and Research
+**Writers** · Also fits: Marketing; Education; Science and Research
 
 ![Author research assistant](visuals/author-research-assistant.svg)
 

@@ -1,6 +1,6 @@
 # Competitor intelligence subscription
 
-**AI-04-01 · Executives and Strategy** · Also fits: Finance; Science and Research
+**Executives and Strategy** · Also fits: Finance; Science and Research
 
 ![Competitor intelligence subscription](visuals/competitor-intelligence-subscription.svg)
 

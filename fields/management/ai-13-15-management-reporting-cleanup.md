@@ -1,6 +1,6 @@
 # Management reporting cleanup
 
-**AI-13-15 · Management** · Also fits: Operations; Human Resources; IT and Development
+**Management** · Also fits: Operations; Human Resources; IT and Development
 
 ![Management reporting cleanup](visuals/management-reporting-cleanup.svg)
 

@@ -1,6 +1,6 @@
 # Subscription spending monitor
 
-**AI-05-07 · Finance** · Also fits: Operations; Management; Executives and Strategy
+**Finance** · Also fits: Operations; Management; Executives and Strategy
 
 ![Subscription spending monitor](visuals/subscription-spending-monitor.svg)
 

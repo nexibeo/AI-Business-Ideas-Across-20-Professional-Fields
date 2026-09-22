@@ -1,6 +1,6 @@
 # Advertising variation service
 
-**AI-01-02 · Creatives** · Also fits: Marketing; Sales
+**Creatives** · Also fits: Marketing; Sales
 
 ![Advertising variation service](visuals/advertising-variation-service.svg)
 

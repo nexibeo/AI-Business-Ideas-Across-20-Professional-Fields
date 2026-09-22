@@ -1,6 +1,6 @@
 # Speechwriting subscription
 
-**AI-16-14 · PR and Communications** · Also fits: Writers; Executives and Strategy
+**PR and Communications** · Also fits: Writers; Executives and Strategy
 
 ![Speechwriting subscription](visuals/speechwriting-subscription.svg)
 

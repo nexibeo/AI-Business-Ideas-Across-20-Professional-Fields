@@ -1,6 +1,6 @@
 # Marketing attribution reporting
 
-**AI-14-11 · Marketing** · Also fits: Creatives; Sales; Science and Research
+**Marketing** · Also fits: Creatives; Sales; Science and Research
 
 ![Marketing attribution reporting](visuals/marketing-attribution-reporting.svg)
 

@@ -1,6 +1,6 @@
 # Insurance training simulator
 
-**AI-10-12 · Insurance** · Also fits: Operations; Customer Support; Education
+**Insurance** · Also fits: Operations; Customer Support; Education
 
 ![Insurance training simulator](visuals/insurance-training-simulator.svg)
 

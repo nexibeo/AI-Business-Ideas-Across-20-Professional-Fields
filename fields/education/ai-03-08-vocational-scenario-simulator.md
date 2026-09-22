@@ -1,6 +1,6 @@
 # Vocational scenario simulator
 
-**AI-03-08 · Education** · Also fits: Human Resources; Management
+**Education** · Also fits: Human Resources; Management
 
 ![Vocational scenario simulator](visuals/vocational-scenario-simulator.svg)
 

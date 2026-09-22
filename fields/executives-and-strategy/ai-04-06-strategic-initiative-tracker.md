@@ -1,6 +1,6 @@
 # Strategic initiative tracker
 
-**AI-04-06 · Executives and Strategy** · Also fits: Finance; Science and Research; Management
+**Executives and Strategy** · Also fits: Finance; Science and Research; Management
 
 ![Strategic initiative tracker](visuals/strategic-initiative-tracker.svg)
 

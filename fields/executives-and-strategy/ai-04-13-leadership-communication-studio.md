@@ -1,6 +1,6 @@
 # Leadership communication studio
 
-**AI-04-13 · Executives and Strategy** · Also fits: Finance; Science and Research; Writers
+**Executives and Strategy** · Also fits: Finance; Science and Research; Writers
 
 ![Leadership communication studio](visuals/leadership-communication-studio.svg)
 

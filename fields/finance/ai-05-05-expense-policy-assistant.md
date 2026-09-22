@@ -1,6 +1,6 @@
 # Expense policy assistant
 
-**AI-05-05 · Finance** · Also fits: Operations; Management
+**Finance** · Also fits: Operations; Management
 
 ![Expense policy assistant](visuals/expense-policy-assistant.svg)
 

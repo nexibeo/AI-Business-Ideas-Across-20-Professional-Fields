@@ -1,6 +1,6 @@
 # Agency quality assurance service
 
-**AI-10-11 · Insurance** · Also fits: Operations; Customer Support
+**Insurance** · Also fits: Operations; Customer Support
 
 ![Agency quality assurance service](visuals/agency-quality-assurance-service.svg)
 

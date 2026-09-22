@@ -1,6 +1,6 @@
 # Customer feedback intelligence
 
-**AI-17-01 · Product Development** · Also fits: Customer Support; Science and Research
+**Product Development** · Also fits: Customer Support; Science and Research
 
 ![Customer feedback intelligence](visuals/customer-feedback-intelligence.svg)
 

@@ -1,6 +1,6 @@
 # Communications knowledge library
 
-**AI-16-15 · PR and Communications** · Also fits: Writers; Executives and Strategy; IT and Development
+**PR and Communications** · Also fits: Writers; Executives and Strategy; IT and Development
 
 ![Communications knowledge library](visuals/communications-knowledge-library.svg)
 

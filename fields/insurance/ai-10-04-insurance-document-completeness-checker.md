@@ -1,6 +1,6 @@
 # Insurance document completeness checker
 
-**AI-10-04 · Insurance** · Also fits: Operations; Customer Support
+**Insurance** · Also fits: Operations; Customer Support
 
 ![Insurance document completeness checker](visuals/insurance-document-completeness-checker.svg)
 

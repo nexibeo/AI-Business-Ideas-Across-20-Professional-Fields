@@ -1,6 +1,6 @@
 # Podcast-to-publication service
 
-**AI-21-06 · Writers** · Also fits: Marketing; Education
+**Writers** · Also fits: Marketing; Education
 
 ![Podcast-to-publication service](visuals/podcast-to-publication-service.svg)
 

@@ -1,6 +1,6 @@
 # Change order documentation
 
-**AI-18-06 · Real Estate and Construction** · Also fits: Operations; Sales; Writers
+**Real Estate and Construction** · Also fits: Operations; Sales; Writers
 
 ![Change order documentation](visuals/change-order-documentation.svg)
 

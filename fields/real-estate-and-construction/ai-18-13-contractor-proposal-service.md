@@ -1,6 +1,6 @@
 # Contractor proposal service
 
-**AI-18-13 · Real Estate and Construction** · Also fits: Operations; Sales; Writers
+**Real Estate and Construction** · Also fits: Operations; Sales; Writers
 
 ![Contractor proposal service](visuals/contractor-proposal-service.svg)
 

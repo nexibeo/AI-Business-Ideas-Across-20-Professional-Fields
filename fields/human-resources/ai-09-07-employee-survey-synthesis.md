@@ -1,6 +1,6 @@
 # Employee survey synthesis
 
-**AI-09-07 · Human Resources** · Also fits: Education; Operations; Science and Research
+**Human Resources** · Also fits: Education; Operations; Science and Research
 
 ![Employee survey synthesis](visuals/employee-survey-synthesis.svg)
 

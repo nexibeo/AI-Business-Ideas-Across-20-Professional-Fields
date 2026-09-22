@@ -1,6 +1,6 @@
 # Construction quote comparison
 
-**AI-18-04 · Real Estate and Construction** · Also fits: Operations; Sales
+**Real Estate and Construction** · Also fits: Operations; Sales
 
 ![Construction quote comparison](visuals/construction-quote-comparison.svg)
 

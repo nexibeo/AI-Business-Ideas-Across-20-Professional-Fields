@@ -1,6 +1,6 @@
 # Research collaboration discovery
 
-**AI-20-13 · Science and Research** · Also fits: Education; Executives and Strategy; Sales
+**Science and Research** · Also fits: Education; Executives and Strategy; Sales
 
 ![Research collaboration discovery](visuals/research-collaboration-discovery.svg)
 

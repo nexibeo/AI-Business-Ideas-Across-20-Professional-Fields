@@ -1,6 +1,6 @@
 # API integration studio
 
-**AI-11-08 · IT and Development** · Also fits: Operations; Customer Support
+**IT and Development** · Also fits: Operations; Customer Support
 
 ![API integration studio](visuals/api-integration-studio.svg)
 

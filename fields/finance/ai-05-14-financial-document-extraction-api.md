@@ -1,6 +1,6 @@
 # Financial document extraction API
 
-**AI-05-14 · Finance** · Also fits: Operations; Management; Customer Support
+**Finance** · Also fits: Operations; Management; Customer Support
 
 ![Financial document extraction API](visuals/financial-document-extraction-api.svg)
 

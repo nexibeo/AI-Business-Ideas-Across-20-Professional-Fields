@@ -1,6 +1,6 @@
 # Healthcare translation service
 
-**AI-07-10 · Healthcare** · Also fits: Education; Operations; PR and Communications
+**Healthcare** · Also fits: Education; Operations; PR and Communications
 
 ![Healthcare translation service](visuals/healthcare-translation-service.svg)
 

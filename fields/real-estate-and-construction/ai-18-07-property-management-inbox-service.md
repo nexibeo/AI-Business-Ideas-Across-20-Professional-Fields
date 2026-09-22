@@ -1,6 +1,6 @@
 # Property management inbox service
 
-**AI-18-07 · Real Estate and Construction** · Also fits: Operations; Sales; Customer Support
+**Real Estate and Construction** · Also fits: Operations; Sales; Customer Support
 
 ![Property management inbox service](visuals/property-management-inbox-service.svg)
 

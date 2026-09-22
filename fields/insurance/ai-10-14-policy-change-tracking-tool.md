@@ -1,6 +1,6 @@
 # Policy change tracking tool
 
-**AI-10-14 · Insurance** · Also fits: Operations; Customer Support
+**Insurance** · Also fits: Operations; Customer Support
 
 ![Policy change tracking tool](visuals/policy-change-tracking-tool.svg)
 

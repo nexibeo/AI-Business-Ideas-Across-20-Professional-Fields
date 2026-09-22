@@ -1,6 +1,6 @@
 # Group booking coordinator
 
-**AI-08-09 · Hospitality and Events** · Also fits: Customer Support; Sales; Management
+**Hospitality and Events** · Also fits: Customer Support; Sales; Management
 
 ![Group booking coordinator](visuals/group-booking-coordinator.svg)
 

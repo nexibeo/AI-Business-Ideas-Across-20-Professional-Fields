@@ -1,6 +1,6 @@
 # Claims status communication service
 
-**AI-10-07 · Insurance** · Also fits: Operations; Customer Support; Writers
+**Insurance** · Also fits: Operations; Customer Support; Writers
 
 ![Claims status communication service](visuals/claims-status-communication-service.svg)
 

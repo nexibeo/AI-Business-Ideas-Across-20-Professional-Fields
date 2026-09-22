@@ -1,6 +1,6 @@
 # Journalist relevance research
 
-**AI-16-03 · PR and Communications** · Also fits: Writers; Executives and Strategy; Sales
+**PR and Communications** · Also fits: Writers; Executives and Strategy; Sales
 
 ![Journalist relevance research](visuals/journalist-relevance-research.svg)
 

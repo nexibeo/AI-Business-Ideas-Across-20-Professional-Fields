@@ -1,6 +1,6 @@
 # Public meeting summary service
 
-**AI-06-08 · Government** · Also fits: Operations; Writers
+**Government** · Also fits: Operations; Writers
 
 ![Public meeting summary service](visuals/public-meeting-summary-service.svg)
 

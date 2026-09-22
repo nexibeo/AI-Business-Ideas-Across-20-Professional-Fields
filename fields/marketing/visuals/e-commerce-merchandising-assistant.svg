@@ -1,6 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="E-commerce merchandising assistant">
-<rect width="1600" height="1000" fill="hsl(241 28% 93%)"/><circle cx="1405" cy="321" r="23" fill="hsl(241 30% 80%)"/><circle cx="1200" cy="281" r="19" fill="hsl(241 30% 80%)"/><circle cx="1083" cy="458" r="13" fill="hsl(241 55% 38%)"/><circle cx="931" cy="501" r="13" fill="hsl(241 55% 38%)"/><circle cx="1188" cy="338" r="21" fill="hsl(241 30% 80%)"/><circle cx="1309" cy="547" r="14" fill="hsl(241 30% 80%)"/><circle cx="1120" cy="387" r="16" fill="hsl(241 30% 80%)"/><circle cx="1185" cy="542" r="9" fill="hsl(241 30% 80%)"/><circle cx="1006" cy="389" r="17" fill="hsl(241 30% 80%)"/><circle cx="1038" cy="475" r="16" fill="hsl(241 55% 38%)"/><circle cx="1281" cy="327" r="20" fill="hsl(241 30% 80%)"/><circle cx="825" cy="280" r="22" fill="hsl(241 55% 38%)"/><circle cx="1030" cy="554" r="16" fill="hsl(241 30% 80%)"/><circle cx="1053" cy="377" r="13" fill="hsl(241 30% 80%)"/><circle cx="849" cy="179" r="25" fill="hsl(241 55% 38%)"/><circle cx="1351" cy="426" r="21" fill="hsl(241 55% 38%)"/><circle cx="1265" cy="389" r="11" fill="hsl(241 55% 38%)"/><circle cx="981" cy="219" r="6" fill="hsl(241 30% 80%)"/><circle cx="1198" cy="385" r="7" fill="hsl(241 55% 38%)"/><circle cx="1326" cy="457" r="15" fill="hsl(241 55% 38%)"/><circle cx="943" cy="497" r="11" fill="hsl(241 55% 38%)"/><circle cx="1369" cy="639" r="21" fill="hsl(241 55% 38%)"/><circle cx="1351" cy="706" r="23" fill="hsl(241 30% 80%)"/><circle cx="893" cy="189" r="20" fill="hsl(241 55% 38%)"/><circle cx="1129" cy="186" r="12" fill="hsl(241 55% 38%)"/><circle cx="1164" cy="606" r="9" fill="hsl(241 55% 38%)"/><circle cx="1223" cy="668" r="23" fill="hsl(241 30% 80%)"/><circle cx="1174" cy="232" r="10" fill="hsl(241 30% 80%)"/><circle cx="917" cy="722" r="11" fill="hsl(241 30% 80%)"/><circle cx="957" cy="667" r="15" fill="hsl(241 30% 80%)"/><circle cx="1018" cy="588" r="18" fill="hsl(241 55% 38%)"/><circle cx="1114" cy="206" r="11" fill="hsl(241 30% 80%)"/><circle cx="1313" cy="181" r="13" fill="hsl(241 55% 38%)"/><circle cx="1095" cy="607" r="13" fill="hsl(241 30% 80%)"/><circle cx="1272" cy="342" r="26" fill="hsl(241 30% 80%)"/><circle cx="1357" cy="316" r="8" fill="hsl(241 30% 80%)"/><circle cx="1432" cy="632" r="8" fill="hsl(241 30% 80%)"/><circle cx="1089" cy="465" r="8" fill="hsl(241 30% 80%)"/><circle cx="972" cy="381" r="17" fill="hsl(241 30% 80%)"/><circle cx="1089" cy="687" r="22" fill="hsl(241 30% 80%)"/><circle cx="1101" cy="186" r="17" fill="hsl(241 55% 38%)"/><circle cx="929" cy="425" r="24" fill="hsl(241 30% 80%)"/><circle cx="1434" cy="508" r="16" fill="hsl(241 55% 38%)"/><circle cx="1274" cy="698" r="12" fill="hsl(241 30% 80%)"/><circle cx="897" cy="729" r="25" fill="hsl(241 30% 80%)"/><circle cx="1126" cy="715" r="6" fill="hsl(241 30% 80%)"/><circle cx="1226" cy="332" r="25" fill="hsl(241 55% 38%)"/><circle cx="861" cy="556" r="19" fill="hsl(241 55% 38%)"/><circle cx="909" cy="546" r="11" fill="hsl(241 55% 38%)"/><circle cx="832" cy="378" r="13" fill="hsl(241 30% 80%)"/><circle cx="1326" cy="282" r="13" fill="hsl(241 30% 80%)"/><circle cx="1294" cy="636" r="27" fill="hsl(241 30% 80%)"/><circle cx="1414" cy="366" r="6" fill="hsl(241 55% 38%)"/><circle cx="1080" cy="530" r="27" fill="hsl(241 55% 38%)"/><circle cx="1323" cy="383" r="20" fill="hsl(241 55% 38%)"/><circle cx="1444" cy="250" r="15" fill="hsl(241 30% 80%)"/><circle cx="1001" cy="463" r="16" fill="hsl(241 55% 38%)"/><circle cx="982" cy="335" r="12" fill="hsl(241 30% 80%)"/><circle cx="1375" cy="712" r="12" fill="hsl(241 30% 80%)"/><circle cx="836" cy="346" r="18" fill="hsl(241 55% 38%)"/>
-<text x="120" y="210" font-family="ui-monospace,Menlo,monospace" font-size="34" letter-spacing="4" fill="hsl(241 55% 38%)">AI-14-04 · MARKETING</text>
-<text x="116" y="340" font-family="Georgia,serif" font-size="96" fill="#33312f">E-commerce</text><text x="116" y="444" font-family="Georgia,serif" font-size="96" fill="#33312f">merchandising</text><text x="116" y="548" font-family="Georgia,serif" font-size="96" fill="#33312f">assistant</text>
-<text x="120" y="880" font-family="ui-monospace,Menlo,monospace" font-size="28" letter-spacing="2" fill="#6B655D">Searchable structured library and data stewardship console</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<rect x="0.0" y="0.0" width="1600.0" height="1000.0" rx="0" fill="hsl(241 28% 93%)"/>
+<ellipse cx="1080" cy="930" rx="520" ry="46" fill="hsl(241 30% 80%)" fill-opacity="0.30"/>
+<g transform="translate(1460.0,200.0) scale(1.05)"><polygon points="-45.0,-20.0 35.0,-20.0 25.0,20.0 -30.0,20.0" fill="hsl(241 30% 80%)"/><circle cx="-18.0" cy="32.0" r="8.0" fill="hsl(241 55% 38%)"/><circle cx="15.0" cy="32.0" r="8.0" fill="hsl(241 55% 38%)"/><rect x="-40.0" y="-45.0" width="3.0" height="16.0" rx="0" fill="#33312f" fill-opacity="0.7"/><rect x="-34.0" y="-45.0" width="3.0" height="16.0" rx="0" fill="#33312f" fill-opacity="0.7"/><rect x="-28.0" y="-45.0" width="3.0" height="16.0" rx="0" fill="#33312f" fill-opacity="0.7"/><rect x="-22.0" y="-45.0" width="3.0" height="16.0" rx="0" fill="#33312f" fill-opacity="0.7"/><rect x="-16.0" y="-45.0" width="3.0" height="16.0" rx="0" fill="#33312f" fill-opacity="0.7"/><rect x="-10.0" y="-45.0" width="3.0" height="16.0" rx="0" fill="#33312f" fill-opacity="0.7"/></g>
+<rect x="560.0" y="130.0" width="940.0" height="740.0" rx="14" fill="#ffffff"/>
+<rect x="560.0" y="130.0" width="940.0" height="64.0" rx="14" fill="hsl(241 55% 38%)"/>
+<rect x="560.0" y="180.0" width="940.0" height="14.0" rx="0" fill="hsl(241 55% 38%)"/>
+<circle cx="586.0" cy="162.0" r="6.0" fill="hsl(241 30% 80%)" fill-opacity="0.9"/>
+<circle cx="608.0" cy="162.0" r="6.0" fill="hsl(241 30% 80%)" fill-opacity="0.9"/>
+<circle cx="630.0" cy="162.0" r="6.0" fill="hsl(241 30% 80%)" fill-opacity="0.9"/>
+<rect x="588.0" y="218.0" width="884.0" height="628.0" rx="10" fill="#ffffff"/>
+<rect x="608.0" y="234.0" width="197.0" height="10.0" rx="4" fill="hsl(241 55% 38%)"/>
+<rect x="819.0" y="234.0" width="197.0" height="10.0" rx="4" fill="hsl(241 55% 38%)"/>
+<rect x="1030.0" y="234.0" width="197.0" height="10.0" rx="4" fill="hsl(241 55% 38%)"/>
+<rect x="1241.0" y="234.0" width="197.0" height="10.0" rx="4" fill="hsl(241 55% 38%)"/>
+<rect x="604.0" y="262.0" width="852.0" height="134.0" rx="6" fill="hsl(241 28% 93%)"/>
+<rect x="608.0" y="272.0" width="187.0" height="8.0" rx="3" fill="#ffffff" fill-opacity="0.9"/>
+<rect x="819.0" y="272.0" width="187.0" height="8.0" rx="3" fill="#ffffff" fill-opacity="0.9"/>
+<rect x="1030.0" y="272.0" width="187.0" height="8.0" rx="3" fill="#ffffff" fill-opacity="0.9"/>
+<rect x="1241.0" y="272.0" width="187.0" height="8.0" rx="3" fill="#ffffff" fill-opacity="0.9"/>
+<rect x="604.0" y="404.0" width="852.0" height="134.0" rx="6" fill="hsl(241 30% 80%)"/>
+<rect x="608.0" y="414.0" width="187.0" height="8.0" rx="3" fill="#ffffff" fill-opacity="0.9"/>
+<rect x="819.0" y="414.0" width="187.0" height="8.0" rx="3" fill="#ffffff" fill-opacity="0.9"/>
+<rect x="1030.0" y="414.0" width="187.0" height="8.0" rx="3" fill="#ffffff" fill-opacity="0.9"/>
+<rect x="1241.0" y="414.0" width="187.0" height="8.0" rx="3" fill="#ffffff" fill-opacity="0.9"/>
+<rect x="604.0" y="546.0" width="852.0" height="134.0" rx="6" fill="hsl(241 28% 93%)"/>
+<rect x="608.0" y="556.0" width="187.0" height="8.0" rx="3" fill="#ffffff" fill-opacity="0.9"/>
+<rect x="819.0" y="556.0" width="187.0" height="8.0" rx="3" fill="#ffffff" fill-opacity="0.9"/>
+<rect x="1030.0" y="556.0" width="187.0" height="8.0" rx="3" fill="#ffffff" fill-opacity="0.9"/>
+<rect x="1241.0" y="556.0" width="187.0" height="8.0" rx="3" fill="#ffffff" fill-opacity="0.9"/>
+<rect x="604.0" y="688.0" width="852.0" height="134.0" rx="6" fill="hsl(241 28% 93%)"/>
+<rect x="608.0" y="698.0" width="187.0" height="8.0" rx="3" fill="#ffffff" fill-opacity="0.9"/>
+<rect x="819.0" y="698.0" width="187.0" height="8.0" rx="3" fill="#ffffff" fill-opacity="0.9"/>
+<rect x="1030.0" y="698.0" width="187.0" height="8.0" rx="3" fill="#ffffff" fill-opacity="0.9"/>
+<rect x="1241.0" y="698.0" width="187.0" height="8.0" rx="3" fill="#ffffff" fill-opacity="0.9"/>
+<text x="604.0" y="208.0" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#33312f" text-anchor="start" font-weight="bold">Attributes</text>
+<rect x="1367.0" y="100.0" width="115.0" height="30.0" rx="15" fill="#ffffff"/>
+<circle cx="1383.0" cy="115.0" r="5.0" fill="hsl(61 22% 55%)"/>
+<text x="1395.0" y="120.0" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#33312f" text-anchor="start" font-weight="normal">In review</text>
 </svg>

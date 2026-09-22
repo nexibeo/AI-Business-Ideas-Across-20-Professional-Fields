@@ -1,6 +1,6 @@
 # Delegation assistant
 
-**AI-13-03 · Management** · Also fits: Operations; Human Resources; Writers
+**Management** · Also fits: Operations; Human Resources; Writers
 
 ![Delegation assistant](visuals/delegation-assistant.svg)
 

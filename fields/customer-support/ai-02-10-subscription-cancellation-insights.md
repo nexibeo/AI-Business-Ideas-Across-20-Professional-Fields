@@ -1,6 +1,6 @@
 # Subscription cancellation insights
 
-**AI-02-10 · Customer Support** · Also fits: Operations; Product Development; Science and Research
+**Customer Support** · Also fits: Operations; Product Development; Science and Research
 
 ![Subscription cancellation insights](visuals/subscription-cancellation-insights.svg)
 

@@ -1,6 +1,6 @@
 # Research update subscription
 
-**AI-07-12 · Healthcare** · Also fits: Education; Operations; Science and Research
+**Healthcare** · Also fits: Education; Operations; Science and Research
 
 ![Research update subscription](visuals/research-update-subscription.svg)
 

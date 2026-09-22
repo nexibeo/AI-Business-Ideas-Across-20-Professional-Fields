@@ -1,6 +1,6 @@
 # Change communication planner
 
-**AI-13-10 · Management** · Also fits: Operations; Human Resources; Writers
+**Management** · Also fits: Operations; Human Resources; Writers
 
 ![Change communication planner](visuals/change-communication-planner.svg)
 

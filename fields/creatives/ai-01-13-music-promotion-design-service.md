@@ -1,6 +1,6 @@
 # Music promotion design service
 
-**AI-01-13 · Creatives** · Also fits: Marketing; Sales
+**Creatives** · Also fits: Marketing; Sales
 
 ![Music promotion design service](visuals/music-promotion-design-service.svg)
 

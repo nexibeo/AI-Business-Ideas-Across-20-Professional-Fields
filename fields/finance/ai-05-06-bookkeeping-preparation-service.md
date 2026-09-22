@@ -1,6 +1,6 @@
 # Bookkeeping preparation service
 
-**AI-05-06 · Finance** · Also fits: Operations; Management; Customer Support
+**Finance** · Also fits: Operations; Management; Customer Support
 
 ![Bookkeeping preparation service](visuals/bookkeeping-preparation-service.svg)
 

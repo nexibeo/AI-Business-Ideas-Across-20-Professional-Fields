@@ -1,6 +1,6 @@
 # Customer complaint analyst
 
-**AI-02-08 · Customer Support** · Also fits: Operations; Product Development; Science and Research
+**Customer Support** · Also fits: Operations; Product Development; Science and Research
 
 ![Customer complaint analyst](visuals/customer-complaint-analyst.svg)
 

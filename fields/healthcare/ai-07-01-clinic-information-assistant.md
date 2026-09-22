@@ -1,6 +1,6 @@
 # Clinic information assistant
 
-**AI-07-01 · Healthcare** · Also fits: Education; Operations; IT and Development
+**Healthcare** · Also fits: Education; Operations; IT and Development
 
 ![Clinic information assistant](visuals/clinic-information-assistant.svg)
 

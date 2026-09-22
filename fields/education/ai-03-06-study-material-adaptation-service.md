@@ -1,6 +1,6 @@
 # Study material adaptation service
 
-**AI-03-06 · Education** · Also fits: Human Resources; Management; Writers
+**Education** · Also fits: Human Resources; Management; Writers
 
 ![Study material adaptation service](visuals/study-material-adaptation-service.svg)
 

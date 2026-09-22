@@ -1,6 +1,6 @@
 # Storyboard subscription
 
-**AI-01-06 · Creatives** · Also fits: Marketing; Sales
+**Creatives** · Also fits: Marketing; Sales
 
 ![Storyboard subscription](visuals/storyboard-subscription.svg)
 

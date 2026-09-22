@@ -1,6 +1,6 @@
 # Editorial verification service
 
-**AI-21-14 · Writers** · Also fits: Marketing; Education; Operations
+**Writers** · Also fits: Marketing; Education; Operations
 
 ![Editorial verification service](visuals/editorial-verification-service.svg)
 

@@ -1,6 +1,6 @@
 # Plain-language editing service
 
-**AI-21-10 · Writers** · Also fits: Marketing; Education
+**Writers** · Also fits: Marketing; Education
 
 ![Plain-language editing service](visuals/plain-language-editing-service.svg)
 

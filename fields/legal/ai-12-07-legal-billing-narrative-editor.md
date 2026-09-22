@@ -1,6 +1,6 @@
 # Legal billing narrative editor
 
-**AI-12-07 · Legal** · Also fits: Operations; Management; Writers
+**Legal** · Also fits: Operations; Management; Writers
 
 ![Legal billing narrative editor](visuals/legal-billing-narrative-editor.svg)
 

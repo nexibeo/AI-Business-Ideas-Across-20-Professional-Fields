@@ -1,6 +1,6 @@
 # Client risk questionnaire assistant
 
-**AI-10-06 · Insurance** · Also fits: Operations; Customer Support
+**Insurance** · Also fits: Operations; Customer Support
 
 ![Client risk questionnaire assistant](visuals/client-risk-questionnaire-assistant.svg)
 

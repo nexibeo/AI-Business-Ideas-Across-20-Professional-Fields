@@ -1,6 +1,6 @@
 # Test scenario generation service
 
-**AI-11-03 · IT and Development** · Also fits: Operations; Customer Support
+**IT and Development** · Also fits: Operations; Customer Support
 
 ![Test scenario generation service](visuals/test-scenario-generation-service.svg)
 

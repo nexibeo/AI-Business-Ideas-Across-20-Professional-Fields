@@ -1,6 +1,6 @@
 # Company knowledge briefing assistant
 
-**AI-04-14 · Executives and Strategy** · Also fits: Finance; Science and Research; IT and Development
+**Executives and Strategy** · Also fits: Finance; Science and Research; IT and Development
 
 ![Company knowledge briefing assistant](visuals/company-knowledge-briefing-assistant.svg)
 

@@ -1,6 +1,6 @@
 # Onboarding journey builder
 
-**AI-09-02 · Human Resources** · Also fits: Education; Operations; Management
+**Human Resources** · Also fits: Education; Operations; Management
 
 ![Onboarding journey builder](visuals/onboarding-journey-builder.svg)
 

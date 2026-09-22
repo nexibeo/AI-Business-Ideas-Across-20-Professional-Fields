@@ -1,6 +1,6 @@
 # Finance team training simulator
 
-**AI-05-15 · Finance** · Also fits: Operations; Management; Education
+**Finance** · Also fits: Operations; Management; Education
 
 ![Finance team training simulator](visuals/finance-team-training-simulator.svg)
 

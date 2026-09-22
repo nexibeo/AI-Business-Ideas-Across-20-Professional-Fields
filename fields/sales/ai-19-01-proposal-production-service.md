@@ -1,6 +1,6 @@
 # Proposal production service
 
-**AI-19-01 · Sales** · Also fits: Marketing; Operations; Writers
+**Sales** · Also fits: Marketing; Operations; Writers
 
 ![Proposal production service](visuals/proposal-production-service.svg)
 

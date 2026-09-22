@@ -1,6 +1,6 @@
 # Brand voice implementation
 
-**AI-14-09 · Marketing** · Also fits: Creatives; Sales; IT and Development
+**Marketing** · Also fits: Creatives; Sales; IT and Development
 
 ![Brand voice implementation](visuals/brand-voice-implementation.svg)
 

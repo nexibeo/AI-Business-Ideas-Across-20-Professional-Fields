@@ -1,6 +1,6 @@
 # Purchase request assistant
 
-**AI-15-03 · Operations** · Also fits: Finance; Management; Customer Support
+**Operations** · Also fits: Finance; Management; Customer Support
 
 ![Purchase request assistant](visuals/purchase-request-assistant.svg)
 

@@ -1,6 +1,6 @@
 # Grant application workspace
 
-**AI-06-07 · Government** · Also fits: Operations; Writers
+**Government** · Also fits: Operations; Writers
 
 ![Grant application workspace](visuals/grant-application-workspace.svg)
 

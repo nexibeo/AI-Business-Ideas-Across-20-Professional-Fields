@@ -1,6 +1,6 @@
 # AI search presence audit
 
-**AI-14-15 · Marketing** · Also fits: Creatives; Sales; Operations
+**Marketing** · Also fits: Creatives; Sales; Operations
 
 ![AI search presence audit](visuals/ai-search-presence-audit.svg)
 

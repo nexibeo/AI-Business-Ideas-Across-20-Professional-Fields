@@ -1,6 +1,6 @@
 # Policy comparison workspace
 
-**AI-10-03 · Insurance** · Also fits: Operations; Customer Support
+**Insurance** · Also fits: Operations; Customer Support
 
 ![Policy comparison workspace](visuals/policy-comparison-workspace.svg)
 

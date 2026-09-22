@@ -1,6 +1,6 @@
 # Advertising creative testing service
 
-**AI-14-07 · Marketing** · Also fits: Creatives; Sales
+**Marketing** · Also fits: Creatives; Sales
 
 ![Advertising creative testing service](visuals/advertising-creative-testing-service.svg)
 

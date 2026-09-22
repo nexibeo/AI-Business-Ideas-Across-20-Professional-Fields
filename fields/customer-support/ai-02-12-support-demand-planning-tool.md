@@ -1,6 +1,6 @@
 # Support demand planning tool
 
-**AI-02-12 · Customer Support** · Also fits: Operations; Product Development; Finance
+**Customer Support** · Also fits: Operations; Product Development; Finance
 
 ![Support demand planning tool](visuals/support-demand-planning-tool.svg)
 

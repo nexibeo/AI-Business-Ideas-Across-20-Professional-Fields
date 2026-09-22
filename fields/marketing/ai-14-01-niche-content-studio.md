@@ -1,6 +1,6 @@
 # Niche content studio
 
-**AI-14-01 · Marketing** · Also fits: Creatives; Sales; Writers
+**Marketing** · Also fits: Creatives; Sales; Writers
 
 ![Niche content studio](visuals/niche-content-studio.svg)
 

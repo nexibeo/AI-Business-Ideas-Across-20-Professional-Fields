@@ -1,6 +1,6 @@
 # Industry disruption monitor
 
-**AI-04-08 · Executives and Strategy** · Also fits: Finance; Science and Research
+**Executives and Strategy** · Also fits: Finance; Science and Research
 
 ![Industry disruption monitor](visuals/industry-disruption-monitor.svg)
 

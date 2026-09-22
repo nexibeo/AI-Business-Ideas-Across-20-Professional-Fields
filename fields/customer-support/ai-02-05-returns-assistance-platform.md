@@ -1,6 +1,6 @@
 # Returns assistance platform
 
-**AI-02-05 · Customer Support** · Also fits: Operations; Product Development
+**Customer Support** · Also fits: Operations; Product Development
 
 ![Returns assistance platform](visuals/returns-assistance-platform.svg)
 

@@ -1,6 +1,6 @@
 # PR campaign reporting
 
-**AI-16-10 · PR and Communications** · Also fits: Writers; Executives and Strategy; Science and Research
+**PR and Communications** · Also fits: Writers; Executives and Strategy; Science and Research
 
 ![PR campaign reporting](visuals/pr-campaign-reporting.svg)
 

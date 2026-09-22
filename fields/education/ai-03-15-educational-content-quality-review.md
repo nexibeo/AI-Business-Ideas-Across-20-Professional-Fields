@@ -1,6 +1,6 @@
 # Educational content quality review
 
-**AI-03-15 · Education** · Also fits: Human Resources; Management; Operations
+**Education** · Also fits: Human Resources; Management; Operations
 
 ![Educational content quality review](visuals/educational-content-quality-review.svg)
 

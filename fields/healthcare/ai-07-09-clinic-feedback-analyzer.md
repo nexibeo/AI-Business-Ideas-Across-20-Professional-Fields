@@ -1,6 +1,6 @@
 # Clinic feedback analyzer
 
-**AI-07-09 · Healthcare** · Also fits: Education; Operations; Science and Research
+**Healthcare** · Also fits: Education; Operations; Science and Research
 
 ![Clinic feedback analyzer](visuals/clinic-feedback-analyzer.svg)
 

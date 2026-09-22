@@ -1,6 +1,6 @@
 # Research data cleaning
 
-**AI-20-06 · Science and Research** · Also fits: Education; Executives and Strategy; IT and Development
+**Science and Research** · Also fits: Education; Executives and Strategy; IT and Development
 
 ![Research data cleaning](visuals/research-data-cleaning.svg)
 

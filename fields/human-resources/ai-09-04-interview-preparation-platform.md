@@ -1,6 +1,6 @@
 # Interview preparation platform
 
-**AI-09-04 · Human Resources** · Also fits: Education; Operations; Writers
+**Human Resources** · Also fits: Education; Operations; Writers
 
 ![Interview preparation platform](visuals/interview-preparation-platform.svg)
 

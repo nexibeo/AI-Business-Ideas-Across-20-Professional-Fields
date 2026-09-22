@@ -1,6 +1,6 @@
 # Automation monitoring subscription
 
-**AI-15-15 · Operations** · Also fits: Finance; Management; IT and Development
+**Operations** · Also fits: Finance; Management; IT and Development
 
 ![Automation monitoring subscription](visuals/automation-monitoring-subscription.svg)
 

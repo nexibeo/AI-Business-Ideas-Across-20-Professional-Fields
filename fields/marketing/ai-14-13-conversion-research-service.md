@@ -1,6 +1,6 @@
 # Conversion research service
 
-**AI-14-13 · Marketing** · Also fits: Creatives; Sales; Science and Research
+**Marketing** · Also fits: Creatives; Sales; Science and Research
 
 ![Conversion research service](visuals/conversion-research-service.svg)
 

@@ -1,6 +1,6 @@
 # Feature request organizer
 
-**AI-17-03 · Product Development** · Also fits: Customer Support; Science and Research; IT and Development
+**Product Development** · Also fits: Customer Support; Science and Research; IT and Development
 
 ![Feature request organizer](visuals/feature-request-organizer.svg)
 

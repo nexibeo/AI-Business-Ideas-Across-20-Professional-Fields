@@ -1,6 +1,6 @@
 # Offboarding coordinator
 
-**AI-09-12 · Human Resources** · Also fits: Education; Operations; Management
+**Human Resources** · Also fits: Education; Operations; Management
 
 ![Offboarding coordinator](visuals/offboarding-coordinator.svg)
 

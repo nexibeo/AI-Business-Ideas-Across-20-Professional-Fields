@@ -1,6 +1,6 @@
 # Operational handover service
 
-**AI-15-13 · Operations** · Also fits: Finance; Management
+**Operations** · Also fits: Finance; Management
 
 ![Operational handover service](visuals/operational-handover-service.svg)
 

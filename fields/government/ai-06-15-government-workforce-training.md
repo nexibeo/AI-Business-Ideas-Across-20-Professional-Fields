@@ -1,6 +1,6 @@
 # Government workforce training
 
-**AI-06-15 · Government** · Also fits: Operations; Writers; Education
+**Government** · Also fits: Operations; Writers; Education
 
 ![Government workforce training](visuals/government-workforce-training.svg)
 

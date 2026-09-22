@@ -1,6 +1,6 @@
 # Tutor administration assistant
 
-**AI-03-07 · Education** · Also fits: Human Resources; Management
+**Education** · Also fits: Human Resources; Management
 
 ![Tutor administration assistant](visuals/tutor-administration-assistant.svg)
 

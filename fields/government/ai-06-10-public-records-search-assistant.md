@@ -1,6 +1,6 @@
 # Public records search assistant
 
-**AI-06-10 · Government** · Also fits: Operations; Writers; IT and Development
+**Government** · Also fits: Operations; Writers; IT and Development
 
 ![Public records search assistant](visuals/public-records-search-assistant.svg)
 

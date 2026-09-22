@@ -1,6 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Process documentation studio">
-<rect width="1600" height="1000" fill="hsl(258 28% 93%)"/><rect x="820" y="170" width="40" height="40" rx="8" fill="hsl(258 55% 38%)"/><rect x="890" y="176" width="354.73754317034036" height="28" rx="14" fill="hsl(258 30% 80%)"/><rect x="820" y="250" width="40" height="40" rx="8" fill="hsl(258 55% 38%)"/><rect x="890" y="256" width="238.75144046731293" height="28" rx="14" fill="hsl(258 30% 80%)"/><rect x="820" y="330" width="40" height="40" rx="8" fill="hsl(258 55% 38%)"/><rect x="890" y="336" width="511.1496837390587" height="28" rx="14" fill="hsl(258 30% 80%)"/><rect x="820" y="410" width="40" height="40" rx="8" fill="hsl(258 55% 38%)"/><rect x="890" y="416" width="477.03158631920815" height="28" rx="14" fill="hsl(258 30% 80%)"/><rect x="820" y="490" width="40" height="40" rx="8" fill="hsl(258 55% 38%)"/><rect x="890" y="496" width="290.9238096186891" height="28" rx="14" fill="hsl(258 30% 80%)"/><rect x="820" y="570" width="40" height="40" rx="8" fill="hsl(258 55% 38%)"/><rect x="890" y="576" width="183.91137818805873" height="28" rx="14" fill="hsl(258 30% 80%)"/><rect x="820" y="650" width="40" height="40" rx="8" fill="hsl(258 55% 38%)"/><rect x="890" y="656" width="316.484308145009" height="28" rx="14" fill="hsl(258 30% 80%)"/>
-<text x="120" y="210" font-family="ui-monospace,Menlo,monospace" font-size="34" letter-spacing="4" fill="hsl(258 55% 38%)">AI-15-01 · OPERATIONS</text>
-<text x="116" y="340" font-family="Georgia,serif" font-size="96" fill="#33312f">Process</text><text x="116" y="444" font-family="Georgia,serif" font-size="96" fill="#33312f">documentation</text><text x="116" y="548" font-family="Georgia,serif" font-size="96" fill="#33312f">studio</text>
-<text x="120" y="880" font-family="ui-monospace,Menlo,monospace" font-size="28" letter-spacing="2" fill="#6B655D">Source-based content workspace with editorial delivery</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<rect x="0.0" y="0.0" width="1600.0" height="1000.0" rx="0" fill="hsl(258 28% 93%)"/>
+<ellipse cx="1080" cy="930" rx="520" ry="46" fill="hsl(258 30% 80%)" fill-opacity="0.30"/>
+<g transform="translate(630.0,200.0) scale(1.05)"><circle cx="-25.0" cy="5.0" r="26.0" fill="hsl(258 30% 80%)"/><circle cx="-25.0" cy="5.0" r="10.0" fill="hsl(258 28% 93%)"/><rect x="15.0" y="-35.0" width="46.0" height="62.0" rx="5" fill="#ffffff"/><rect x="23.0" y="-22.0" width="30.0" height="6.0" rx="2" fill="hsl(258 55% 38%)"/><rect x="23.0" y="-4.0" width="30.0" height="6.0" rx="2" fill="hsl(258 55% 38%)"/><rect x="23.0" y="14.0" width="30.0" height="6.0" rx="2" fill="hsl(258 55% 38%)"/></g>
+<rect x="560.0" y="130.0" width="940.0" height="740.0" rx="14" fill="#ffffff"/>
+<rect x="560.0" y="130.0" width="940.0" height="64.0" rx="14" fill="hsl(258 55% 38%)"/>
+<rect x="560.0" y="180.0" width="940.0" height="14.0" rx="0" fill="hsl(258 55% 38%)"/>
+<circle cx="586.0" cy="162.0" r="6.0" fill="hsl(258 30% 80%)" fill-opacity="0.9"/>
+<circle cx="608.0" cy="162.0" r="6.0" fill="hsl(258 30% 80%)" fill-opacity="0.9"/>
+<circle cx="630.0" cy="162.0" r="6.0" fill="hsl(258 30% 80%)" fill-opacity="0.9"/>
+<rect x="588.0" y="218.0" width="229.8" height="628.0" rx="10" fill="hsl(258 28% 93%)"/>
+<rect x="602.0" y="234.0" width="201.8" height="109.2" rx="6" fill="hsl(258 55% 38%)"/>
+<rect x="602.0" y="353.2" width="201.8" height="109.2" rx="6" fill="#ffffff"/>
+<rect x="602.0" y="472.4" width="201.8" height="109.2" rx="6" fill="#ffffff"/>
+<rect x="602.0" y="591.6" width="201.8" height="109.2" rx="6" fill="#ffffff"/>
+<rect x="602.0" y="710.8" width="201.8" height="109.2" rx="6" fill="#ffffff"/>
+<rect x="839.8" y="218.0" width="442.0" height="628.0" rx="10" fill="#ffffff"/>
+<rect x="859.8" y="240.0" width="372.0" height="8.0" rx="4" fill="hsl(258 30% 80%)"/>
+<rect x="859.8" y="264.0" width="402.0" height="8.0" rx="4" fill="hsl(258 30% 80%)"/>
+<rect x="859.8" y="288.0" width="402.0" height="8.0" rx="4" fill="hsl(258 30% 80%)"/>
+<rect x="859.8" y="312.0" width="372.0" height="8.0" rx="4" fill="hsl(258 30% 80%)"/>
+<rect x="859.8" y="336.0" width="402.0" height="8.0" rx="4" fill="hsl(258 30% 80%)"/>
+<rect x="859.8" y="360.0" width="402.0" height="8.0" rx="4" fill="hsl(258 30% 80%)"/>
+<rect x="1303.8" y="218.0" width="168.2" height="628.0" rx="10" fill="hsl(258 28% 93%)"/>
+<rect x="1317.8" y="236.0" width="140.2" height="185.3" rx="8" fill="#ffffff"/>
+<circle cx="1333.8" cy="252.0" r="7.0" fill="hsl(258 55% 38%)"/>
+<rect x="1317.8" y="433.3" width="140.2" height="185.3" rx="8" fill="#ffffff"/>
+<circle cx="1333.8" cy="449.3" r="7.0" fill="hsl(258 55% 38%)"/>
+<rect x="1317.8" y="630.7" width="140.2" height="185.3" rx="8" fill="#ffffff"/>
+<circle cx="1333.8" cy="646.7" r="7.0" fill="hsl(258 55% 38%)"/>
+<text x="859.8" y="210.0" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#33312f" text-anchor="start" font-weight="bold">Inventory</text>
+<rect x="1403.0" y="100.0" width="79.0" height="30.0" rx="15" fill="#ffffff"/>
+<circle cx="1419.0" cy="115.0" r="5.0" fill="hsl(78 22% 55%)"/>
+<text x="1431.0" y="120.0" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#33312f" text-anchor="start" font-weight="normal">Draft</text>
 </svg>

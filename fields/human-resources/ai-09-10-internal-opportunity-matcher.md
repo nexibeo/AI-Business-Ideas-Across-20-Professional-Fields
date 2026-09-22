@@ -1,6 +1,6 @@
 # Internal opportunity matcher
 
-**AI-09-10 · Human Resources** · Also fits: Education; Operations; Sales
+**Human Resources** · Also fits: Education; Operations; Sales
 
 ![Internal opportunity matcher](visuals/internal-opportunity-matcher.svg)
 

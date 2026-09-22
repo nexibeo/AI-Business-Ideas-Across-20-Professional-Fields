@@ -1,6 +1,6 @@
 # Benefits information navigator
 
-**AI-09-09 · Human Resources** · Also fits: Education; Operations; IT and Development
+**Human Resources** · Also fits: Education; Operations; IT and Development
 
 ![Benefits information navigator](visuals/benefits-information-navigator.svg)
 

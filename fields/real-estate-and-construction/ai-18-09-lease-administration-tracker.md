@@ -1,6 +1,6 @@
 # Lease administration tracker
 
-**AI-18-09 · Real Estate and Construction** · Also fits: Operations; Sales; Management
+**Real Estate and Construction** · Also fits: Operations; Sales; Management
 
 ![Lease administration tracker](visuals/lease-administration-tracker.svg)
 

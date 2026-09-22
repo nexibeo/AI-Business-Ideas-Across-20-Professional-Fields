@@ -1,6 +1,6 @@
 # Accountant client intake portal
 
-**AI-05-11 · Finance** · Also fits: Operations; Management; Customer Support
+**Finance** · Also fits: Operations; Management; Customer Support
 
 ![Accountant client intake portal](visuals/accountant-client-intake-portal.svg)
 

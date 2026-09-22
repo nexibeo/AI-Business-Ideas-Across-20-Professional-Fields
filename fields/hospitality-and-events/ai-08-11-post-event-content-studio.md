@@ -1,6 +1,6 @@
 # Post-event content studio
 
-**AI-08-11 · Hospitality and Events** · Also fits: Customer Support; Sales; Writers
+**Hospitality and Events** · Also fits: Customer Support; Sales; Writers
 
 ![Post-event content studio](visuals/post-event-content-studio.svg)
 

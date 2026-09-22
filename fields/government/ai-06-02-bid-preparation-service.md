@@ -1,6 +1,6 @@
 # Bid preparation service
 
-**AI-06-02 · Government** · Also fits: Operations; Writers
+**Government** · Also fits: Operations; Writers
 
 ![Bid preparation service](visuals/bid-preparation-service.svg)
 

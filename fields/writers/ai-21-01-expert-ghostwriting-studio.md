@@ -1,6 +1,6 @@
 # Expert ghostwriting studio
 
-**AI-21-01 · Writers** · Also fits: Marketing; Education
+**Writers** · Also fits: Marketing; Education
 
 ![Expert ghostwriting studio](visuals/expert-ghostwriting-studio.svg)
 

@@ -1,6 +1,6 @@
 # Clinic capacity reporting
 
-**AI-07-15 · Healthcare** · Also fits: Education; Operations; Science and Research
+**Healthcare** · Also fits: Education; Operations; Science and Research
 
 ![Clinic capacity reporting](visuals/clinic-capacity-reporting.svg)
 

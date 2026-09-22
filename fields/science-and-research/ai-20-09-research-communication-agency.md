@@ -1,6 +1,6 @@
 # Research communication agency
 
-**AI-20-09 · Science and Research** · Also fits: Education; Executives and Strategy; Writers
+**Science and Research** · Also fits: Education; Executives and Strategy; Writers
 
 ![Research communication agency](visuals/research-communication-agency.svg)
 

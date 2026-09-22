@@ -1,6 +1,6 @@
 # Learning needs analyzer
 
-**AI-09-06 · Human Resources** · Also fits: Education; Operations; Science and Research
+**Human Resources** · Also fits: Education; Operations; Science and Research
 
 ![Learning needs analyzer](visuals/learning-needs-analyzer.svg)
 

@@ -1,6 +1,6 @@
 # Spokesperson training simulator
 
-**AI-16-04 · PR and Communications** · Also fits: Writers; Executives and Strategy; Education
+**PR and Communications** · Also fits: Writers; Executives and Strategy; Education
 
 ![Spokesperson training simulator](visuals/spokesperson-training-simulator.svg)
 

@@ -1,6 +1,6 @@
 # Management training simulator
 
-**AI-13-06 · Management** · Also fits: Operations; Human Resources; Education
+**Management** · Also fits: Operations; Human Resources; Education
 
 ![Management training simulator](visuals/management-training-simulator.svg)
 

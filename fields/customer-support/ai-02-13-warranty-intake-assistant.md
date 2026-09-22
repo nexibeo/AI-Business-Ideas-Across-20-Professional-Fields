@@ -1,6 +1,6 @@
 # Warranty intake assistant
 
-**AI-02-13 · Customer Support** · Also fits: Operations; Product Development
+**Customer Support** · Also fits: Operations; Product Development
 
 ![Warranty intake assistant](visuals/warranty-intake-assistant.svg)
 

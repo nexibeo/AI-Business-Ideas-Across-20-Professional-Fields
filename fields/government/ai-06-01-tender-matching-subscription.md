@@ -1,6 +1,6 @@
 # Tender matching subscription
 
-**AI-06-01 · Government** · Also fits: Operations; Writers; Sales
+**Government** · Also fits: Operations; Writers; Sales
 
 ![Tender matching subscription](visuals/tender-matching-subscription.svg)
 

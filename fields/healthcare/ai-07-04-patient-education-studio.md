@@ -1,6 +1,6 @@
 # Patient education studio
 
-**AI-07-04 · Healthcare** · Also fits: Education; Operations; Writers
+**Healthcare** · Also fits: Education; Operations; Writers
 
 ![Patient education studio](visuals/patient-education-studio.svg)
 

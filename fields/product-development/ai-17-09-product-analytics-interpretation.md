@@ -1,6 +1,6 @@
 # Product analytics interpretation
 
-**AI-17-09 · Product Development** · Also fits: Customer Support; Science and Research
+**Product Development** · Also fits: Customer Support; Science and Research
 
 ![Product analytics interpretation](visuals/product-analytics-interpretation.svg)
 

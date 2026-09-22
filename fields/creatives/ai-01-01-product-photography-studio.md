@@ -1,6 +1,6 @@
 # Product photography studio
 
-**AI-01-01 · Creatives** · Also fits: Marketing; Sales
+**Creatives** · Also fits: Marketing; Sales
 
 ![Product photography studio](visuals/product-photography-studio.svg)
 

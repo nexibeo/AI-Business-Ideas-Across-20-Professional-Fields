@@ -1,6 +1,6 @@
 # Communications consistency checker
 
-**AI-16-09 · PR and Communications** · Also fits: Writers; Executives and Strategy; Operations
+**PR and Communications** · Also fits: Writers; Executives and Strategy; Operations
 
 ![Communications consistency checker](visuals/communications-consistency-checker.svg)
 

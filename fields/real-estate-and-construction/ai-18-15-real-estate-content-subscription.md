@@ -1,6 +1,6 @@
 # Real estate content subscription
 
-**AI-18-15 · Real Estate and Construction** · Also fits: Operations; Sales; Writers
+**Real Estate and Construction** · Also fits: Operations; Sales; Writers
 
 ![Real estate content subscription](visuals/real-estate-content-subscription.svg)
 

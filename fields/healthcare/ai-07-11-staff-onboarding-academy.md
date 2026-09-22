@@ -1,6 +1,6 @@
 # Staff onboarding academy
 
-**AI-07-11 · Healthcare** · Also fits: Education; Operations
+**Healthcare** · Also fits: Education; Operations
 
 ![Staff onboarding academy](visuals/staff-onboarding-academy.svg)
 

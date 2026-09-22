@@ -1,6 +1,6 @@
 # Franchise operations assistant
 
-**AI-15-11 · Operations** · Also fits: Finance; Management; IT and Development
+**Operations** · Also fits: Finance; Management; IT and Development
 
 ![Franchise operations assistant](visuals/franchise-operations-assistant.svg)
 

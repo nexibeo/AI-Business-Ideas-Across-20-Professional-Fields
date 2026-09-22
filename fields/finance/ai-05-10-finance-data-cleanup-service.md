@@ -1,6 +1,6 @@
 # Finance data cleanup service
 
-**AI-05-10 · Finance** · Also fits: Operations; Management; IT and Development
+**Finance** · Also fits: Operations; Management; IT and Development
 
 ![Finance data cleanup service](visuals/finance-data-cleanup-service.svg)
 

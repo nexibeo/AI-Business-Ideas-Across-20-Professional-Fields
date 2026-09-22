@@ -1,6 +1,6 @@
 # Corporate training converter
 
-**AI-03-04 · Education** · Also fits: Human Resources; Management
+**Education** · Also fits: Human Resources; Management
 
 ![Corporate training converter](visuals/corporate-training-converter.svg)
 

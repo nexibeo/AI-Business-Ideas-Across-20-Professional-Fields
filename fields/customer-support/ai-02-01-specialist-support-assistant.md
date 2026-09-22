@@ -1,6 +1,6 @@
 # Specialist support assistant
 
-**AI-02-01 · Customer Support** · Also fits: Operations; Product Development; IT and Development
+**Customer Support** · Also fits: Operations; Product Development; IT and Development
 
 ![Specialist support assistant](visuals/specialist-support-assistant.svg)
 

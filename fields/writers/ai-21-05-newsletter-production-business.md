@@ -1,6 +1,6 @@
 # Newsletter production business
 
-**AI-21-05 · Writers** · Also fits: Marketing; Education
+**Writers** · Also fits: Marketing; Education
 
 ![Newsletter production business](visuals/newsletter-production-business.svg)
 

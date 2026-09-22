@@ -1,6 +1,6 @@
 # Brand identity studio
 
-**AI-01-03 · Creatives** · Also fits: Marketing; Sales
+**Creatives** · Also fits: Marketing; Sales
 
 ![Brand identity studio](visuals/brand-identity-studio.svg)
 

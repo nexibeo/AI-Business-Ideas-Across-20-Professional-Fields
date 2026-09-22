@@ -1,6 +1,6 @@
 # Book development service
 
-**AI-21-02 · Writers** · Also fits: Marketing; Education
+**Writers** · Also fits: Marketing; Education
 
 ![Book development service](visuals/book-development-service.svg)
 

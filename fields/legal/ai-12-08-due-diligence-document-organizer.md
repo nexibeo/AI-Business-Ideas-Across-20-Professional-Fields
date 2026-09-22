@@ -1,6 +1,6 @@
 # Due diligence document organizer
 
-**AI-12-08 · Legal** · Also fits: Operations; Management; Customer Support
+**Legal** · Also fits: Operations; Management; Customer Support
 
 ![Due diligence document organizer](visuals/due-diligence-document-organizer.svg)
 

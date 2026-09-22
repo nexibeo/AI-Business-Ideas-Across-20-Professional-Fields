@@ -1,6 +1,6 @@
 # Experiment design assistant
 
-**AI-17-08 · Product Development** · Also fits: Customer Support; Science and Research; Finance
+**Product Development** · Also fits: Customer Support; Science and Research; Finance
 
 ![Experiment design assistant](visuals/experiment-design-assistant.svg)
 

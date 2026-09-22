@@ -1,6 +1,6 @@
 # Software documentation maintenance
 
-**AI-11-02 · IT and Development** · Also fits: Operations; Customer Support; Writers
+**IT and Development** · Also fits: Operations; Customer Support; Writers
 
 ![Software documentation maintenance](visuals/software-documentation-maintenance.svg)
 

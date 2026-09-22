@@ -1,6 +1,6 @@
 # Strategy workshop business
 
-**AI-04-15 · Executives and Strategy** · Also fits: Finance; Science and Research; Education
+**Executives and Strategy** · Also fits: Finance; Science and Research; Education
 
 ![Strategy workshop business](visuals/strategy-workshop-business.svg)
 

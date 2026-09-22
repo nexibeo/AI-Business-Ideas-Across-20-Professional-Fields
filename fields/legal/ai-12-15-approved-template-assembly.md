@@ -1,6 +1,6 @@
 # Approved template assembly
 
-**AI-12-15 · Legal** · Also fits: Operations; Management; Writers
+**Legal** · Also fits: Operations; Management; Writers
 
 ![Approved template assembly](visuals/approved-template-assembly.svg)
 

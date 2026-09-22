@@ -1,6 +1,6 @@
 # E-commerce merchandising assistant
 
-**AI-14-04 · Marketing** · Also fits: Creatives; Sales; IT and Development
+**Marketing** · Also fits: Creatives; Sales; IT and Development
 
 ![E-commerce merchandising assistant](visuals/e-commerce-merchandising-assistant.svg)
 

@@ -1,6 +1,6 @@
 # Villa inquiry conversion service
 
-**AI-08-02 · Hospitality and Events** · Also fits: Customer Support; Sales; Management
+**Hospitality and Events** · Also fits: Customer Support; Sales; Management
 
 ![Villa inquiry conversion service](visuals/villa-inquiry-conversion-service.svg)
 

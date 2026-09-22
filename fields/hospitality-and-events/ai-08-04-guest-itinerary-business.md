@@ -1,6 +1,6 @@
 # Guest itinerary business
 
-**AI-08-04 · Hospitality and Events** · Also fits: Customer Support; Sales; Science and Research
+**Hospitality and Events** · Also fits: Customer Support; Sales; Science and Research
 
 ![Guest itinerary business](visuals/guest-itinerary-business.svg)
 

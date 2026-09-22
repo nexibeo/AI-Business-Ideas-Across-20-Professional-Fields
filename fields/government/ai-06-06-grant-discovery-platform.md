@@ -1,6 +1,6 @@
 # Grant discovery platform
 
-**AI-06-06 · Government** · Also fits: Operations; Writers; Sales
+**Government** · Also fits: Operations; Writers; Sales
 
 ![Grant discovery platform](visuals/grant-discovery-platform.svg)
 

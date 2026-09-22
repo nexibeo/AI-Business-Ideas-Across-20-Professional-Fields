@@ -1,6 +1,6 @@
 # Management reporting white-label service
 
-**AI-05-12 · Finance** · Also fits: Operations; Management; Writers
+**Finance** · Also fits: Operations; Management; Writers
 
 ![Management reporting white-label service](visuals/management-reporting-white-label-service.svg)
 

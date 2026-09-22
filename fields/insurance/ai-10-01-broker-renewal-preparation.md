@@ -1,6 +1,6 @@
 # Broker renewal preparation
 
-**AI-10-01 · Insurance** · Also fits: Operations; Customer Support
+**Insurance** · Also fits: Operations; Customer Support
 
 ![Broker renewal preparation](visuals/broker-renewal-preparation.svg)
 

@@ -1,6 +1,6 @@
 # Tender package organizer
 
-**AI-18-05 · Real Estate and Construction** · Also fits: Operations; Sales; Customer Support
+**Real Estate and Construction** · Also fits: Operations; Sales; Customer Support
 
 ![Tender package organizer](visuals/tender-package-organizer.svg)
 

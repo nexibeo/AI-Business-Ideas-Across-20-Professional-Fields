@@ -1,6 +1,6 @@
 # Course localization studio
 
-**AI-03-09 · Education** · Also fits: Human Resources; Management; PR and Communications
+**Education** · Also fits: Human Resources; Management; PR and Communications
 
 ![Course localization studio](visuals/course-localization-studio.svg)
 

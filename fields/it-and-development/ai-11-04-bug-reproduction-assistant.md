@@ -1,6 +1,6 @@
 # Bug reproduction assistant
 
-**AI-11-04 · IT and Development** · Also fits: Operations; Customer Support
+**IT and Development** · Also fits: Operations; Customer Support
 
 ![Bug reproduction assistant](visuals/bug-reproduction-assistant.svg)
 

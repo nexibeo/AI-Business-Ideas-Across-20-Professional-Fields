@@ -1,6 +1,6 @@
 # Construction progress reporting
 
-**AI-18-10 · Real Estate and Construction** · Also fits: Operations; Sales; Writers
+**Real Estate and Construction** · Also fits: Operations; Sales; Writers
 
 ![Construction progress reporting](visuals/construction-progress-reporting.svg)
 

@@ -1,6 +1,6 @@
 # Technical writing subscription
 
-**AI-21-03 · Writers** · Also fits: Marketing; Education
+**Writers** · Also fits: Marketing; Education
 
 ![Technical writing subscription](visuals/technical-writing-subscription.svg)
 

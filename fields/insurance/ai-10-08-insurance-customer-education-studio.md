@@ -1,6 +1,6 @@
 # Insurance customer education studio
 
-**AI-10-08 · Insurance** · Also fits: Operations; Customer Support; Writers
+**Insurance** · Also fits: Operations; Customer Support; Writers
 
 ![Insurance customer education studio](visuals/insurance-customer-education-studio.svg)
 

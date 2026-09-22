@@ -1,6 +1,6 @@
 # Executive decision journal
 
-**AI-04-07 · Executives and Strategy** · Also fits: Finance; Science and Research; Management
+**Executives and Strategy** · Also fits: Finance; Science and Research; Management
 
 ![Executive decision journal](visuals/executive-decision-journal.svg)
 

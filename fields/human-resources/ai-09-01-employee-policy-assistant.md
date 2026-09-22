@@ -1,6 +1,6 @@
 # Employee policy assistant
 
-**AI-09-01 · Human Resources** · Also fits: Education; Operations; IT and Development
+**Human Resources** · Also fits: Education; Operations; IT and Development
 
 ![Employee policy assistant](visuals/employee-policy-assistant.svg)
 

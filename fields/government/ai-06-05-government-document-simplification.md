@@ -1,6 +1,6 @@
 # Government document simplification
 
-**AI-06-05 · Government** · Also fits: Operations; Writers
+**Government** · Also fits: Operations; Writers
 
 ![Government document simplification](visuals/government-document-simplification.svg)
 

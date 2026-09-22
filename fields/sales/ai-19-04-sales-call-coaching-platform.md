@@ -1,6 +1,6 @@
 # Sales call coaching platform
 
-**AI-19-04 · Sales** · Also fits: Marketing; Operations
+**Sales** · Also fits: Marketing; Operations
 
 ![Sales call coaching platform](visuals/sales-call-coaching-platform.svg)
 

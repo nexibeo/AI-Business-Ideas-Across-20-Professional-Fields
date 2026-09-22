@@ -1,6 +1,6 @@
 # Manuscript consistency review
 
-**AI-21-07 · Writers** · Also fits: Marketing; Education; Operations
+**Writers** · Also fits: Marketing; Education; Operations
 
 ![Manuscript consistency review](visuals/manuscript-consistency-review.svg)
 

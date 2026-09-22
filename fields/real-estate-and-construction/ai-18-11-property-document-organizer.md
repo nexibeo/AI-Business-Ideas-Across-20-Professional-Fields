@@ -1,6 +1,6 @@
 # Property document organizer
 
-**AI-18-11 · Real Estate and Construction** · Also fits: Operations; Sales; Customer Support
+**Real Estate and Construction** · Also fits: Operations; Sales; Customer Support
 
 ![Property document organizer](visuals/property-document-organizer.svg)
 

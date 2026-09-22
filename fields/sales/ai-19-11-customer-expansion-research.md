@@ -1,6 +1,6 @@
 # Customer expansion research
 
-**AI-19-11 · Sales** · Also fits: Marketing; Operations; Science and Research
+**Sales** · Also fits: Marketing; Operations; Science and Research
 
 ![Customer expansion research](visuals/customer-expansion-research.svg)
 

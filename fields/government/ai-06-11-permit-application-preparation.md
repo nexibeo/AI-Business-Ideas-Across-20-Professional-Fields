@@ -1,6 +1,6 @@
 # Permit application preparation
 
-**AI-06-11 · Government** · Also fits: Operations; Writers; Customer Support
+**Government** · Also fits: Operations; Writers; Customer Support
 
 ![Permit application preparation](visuals/permit-application-preparation.svg)
 

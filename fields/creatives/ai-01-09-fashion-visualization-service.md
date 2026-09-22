@@ -1,6 +1,6 @@
 # Fashion visualization service
 
-**AI-01-09 · Creatives** · Also fits: Marketing; Sales
+**Creatives** · Also fits: Marketing; Sales
 
 ![Fashion visualization service](visuals/fashion-visualization-service.svg)
 

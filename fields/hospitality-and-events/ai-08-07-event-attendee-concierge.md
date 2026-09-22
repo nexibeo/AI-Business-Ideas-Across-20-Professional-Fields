@@ -1,6 +1,6 @@
 # Event attendee concierge
 
-**AI-08-07 · Hospitality and Events** · Also fits: Customer Support; Sales; IT and Development
+**Hospitality and Events** · Also fits: Customer Support; Sales; IT and Development
 
 ![Event attendee concierge](visuals/event-attendee-concierge.svg)
 

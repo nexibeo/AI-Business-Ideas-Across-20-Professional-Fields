@@ -1,6 +1,6 @@
 # Product launch readiness tool
 
-**AI-17-11 · Product Development** · Also fits: Customer Support; Science and Research; Management
+**Product Development** · Also fits: Customer Support; Science and Research; Management
 
 ![Product launch readiness tool](visuals/product-launch-readiness-tool.svg)
 

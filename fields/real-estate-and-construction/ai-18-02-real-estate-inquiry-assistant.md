@@ -1,6 +1,6 @@
 # Real estate inquiry assistant
 
-**AI-18-02 · Real Estate and Construction** · Also fits: Operations; Sales; IT and Development
+**Real Estate and Construction** · Also fits: Operations; Sales; IT and Development
 
 ![Real estate inquiry assistant](visuals/real-estate-inquiry-assistant.svg)
 

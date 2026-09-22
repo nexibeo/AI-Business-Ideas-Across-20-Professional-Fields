@@ -1,6 +1,6 @@
 # Medical transcription review service
 
-**AI-07-13 · Healthcare** · Also fits: Education; Operations; Writers
+**Healthcare** · Also fits: Education; Operations; Writers
 
 ![Medical transcription review service](visuals/medical-transcription-review-service.svg)
 

@@ -1,6 +1,6 @@
 # Reproducibility review service
 
-**AI-20-07 · Science and Research** · Also fits: Education; Executives and Strategy; Operations
+**Science and Research** · Also fits: Education; Executives and Strategy; Operations
 
 ![Reproducibility review service](visuals/reproducibility-review-service.svg)
 

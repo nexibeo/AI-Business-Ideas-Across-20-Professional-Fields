@@ -1,6 +1,6 @@
 # Release communication platform
 
-**AI-11-05 · IT and Development** · Also fits: Operations; Customer Support; Writers
+**IT and Development** · Also fits: Operations; Customer Support; Writers
 
 ![Release communication platform](visuals/release-communication-platform.svg)
 

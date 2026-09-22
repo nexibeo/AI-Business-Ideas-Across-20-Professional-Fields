@@ -1,6 +1,6 @@
 # Regulatory update briefing
 
-**AI-12-14 · Legal** · Also fits: Operations; Management; Executives and Strategy
+**Legal** · Also fits: Operations; Management; Executives and Strategy
 
 ![Regulatory update briefing](visuals/regulatory-update-briefing.svg)
 

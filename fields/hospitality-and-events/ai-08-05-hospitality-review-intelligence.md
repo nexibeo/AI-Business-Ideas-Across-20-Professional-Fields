@@ -1,6 +1,6 @@
 # Hospitality review intelligence
 
-**AI-08-05 · Hospitality and Events** · Also fits: Customer Support; Sales; Science and Research
+**Hospitality and Events** · Also fits: Customer Support; Sales; Science and Research
 
 ![Hospitality review intelligence](visuals/hospitality-review-intelligence.svg)
 

@@ -1,6 +1,6 @@
 # Scenario planning platform
 
-**AI-04-04 · Executives and Strategy** · Also fits: Finance; Science and Research
+**Executives and Strategy** · Also fits: Finance; Science and Research
 
 ![Scenario planning platform](visuals/scenario-planning-platform.svg)
 

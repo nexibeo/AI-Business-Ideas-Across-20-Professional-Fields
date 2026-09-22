@@ -1,6 +1,6 @@
 # Roadmap communication studio
 
-**AI-17-15 · Product Development** · Also fits: Customer Support; Science and Research; Writers
+**Product Development** · Also fits: Customer Support; Science and Research; Writers
 
 ![Roadmap communication studio](visuals/roadmap-communication-studio.svg)
 

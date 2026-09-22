@@ -1,6 +1,6 @@
 # Citizen information assistant
 
-**AI-06-04 · Government** · Also fits: Operations; Writers; IT and Development
+**Government** · Also fits: Operations; Writers; IT and Development
 
 ![Citizen information assistant](visuals/citizen-information-assistant.svg)
 

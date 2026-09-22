@@ -1,6 +1,6 @@
 # Outsourced support optimization service
 
-**AI-02-15 · Customer Support** · Also fits: Operations; Product Development
+**Customer Support** · Also fits: Operations; Product Development
 
 ![Outsourced support optimization service](visuals/outsourced-support-optimization-service.svg)
 

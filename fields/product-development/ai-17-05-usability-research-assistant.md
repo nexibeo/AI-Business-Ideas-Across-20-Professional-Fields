@@ -1,6 +1,6 @@
 # Usability research assistant
 
-**AI-17-05 · Product Development** · Also fits: Customer Support; Science and Research
+**Product Development** · Also fits: Customer Support; Science and Research
 
 ![Usability research assistant](visuals/usability-research-assistant.svg)
 

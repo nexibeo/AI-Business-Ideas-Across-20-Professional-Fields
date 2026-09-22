@@ -1,6 +1,6 @@
 # Cloud spending analyst
 
-**AI-11-06 · IT and Development** · Also fits: Operations; Customer Support; Science and Research
+**IT and Development** · Also fits: Operations; Customer Support; Science and Research
 
 ![Cloud spending analyst](visuals/cloud-spending-analyst.svg)
 

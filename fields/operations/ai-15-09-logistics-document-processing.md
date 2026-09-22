@@ -1,6 +1,6 @@
 # Logistics document processing
 
-**AI-15-09 · Operations** · Also fits: Finance; Management; Customer Support
+**Operations** · Also fits: Finance; Management; Customer Support
 
 ![Logistics document processing](visuals/logistics-document-processing.svg)
 

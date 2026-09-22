@@ -1,6 +1,6 @@
 # Appointment scheduling coordinator
 
-**AI-07-06 · Healthcare** · Also fits: Education; Operations; Management
+**Healthcare** · Also fits: Education; Operations; Management
 
 ![Appointment scheduling coordinator](visuals/appointment-scheduling-coordinator.svg)
 

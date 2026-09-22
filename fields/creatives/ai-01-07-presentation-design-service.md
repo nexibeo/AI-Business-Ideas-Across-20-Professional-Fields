@@ -1,6 +1,6 @@
 # Presentation design service
 
-**AI-01-07 · Creatives** · Also fits: Marketing; Sales
+**Creatives** · Also fits: Marketing; Sales
 
 ![Presentation design service](visuals/presentation-design-service.svg)
 

@@ -1,6 +1,6 @@
 # Reference verification service
 
-**AI-20-12 · Science and Research** · Also fits: Education; Executives and Strategy; Operations
+**Science and Research** · Also fits: Education; Executives and Strategy; Operations
 
 ![Reference verification service](visuals/reference-verification-service.svg)
 

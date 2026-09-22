@@ -1,6 +1,6 @@
 # Creative asset librarian
 
-**AI-01-15 · Creatives** · Also fits: Marketing; Sales; IT and Development
+**Creatives** · Also fits: Marketing; Sales; IT and Development
 
 ![Creative asset librarian](visuals/creative-asset-librarian.svg)
 

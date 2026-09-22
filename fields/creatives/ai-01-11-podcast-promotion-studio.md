@@ -1,6 +1,6 @@
 # Podcast promotion studio
 
-**AI-01-11 · Creatives** · Also fits: Marketing; Sales
+**Creatives** · Also fits: Marketing; Sales
 
 ![Podcast promotion studio](visuals/podcast-promotion-studio.svg)
 

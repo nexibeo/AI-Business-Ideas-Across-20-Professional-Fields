@@ -1,6 +1,6 @@
 # Open data reporting service
 
-**AI-06-14 · Government** · Also fits: Operations; Writers; Science and Research
+**Government** · Also fits: Operations; Writers; Science and Research
 
 ![Open data reporting service](visuals/open-data-reporting-service.svg)
 

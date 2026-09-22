@@ -1,6 +1,6 @@
 # Specialist literature monitoring
 
-**AI-20-01 · Science and Research** · Also fits: Education; Executives and Strategy
+**Science and Research** · Also fits: Education; Executives and Strategy
 
 ![Specialist literature monitoring](visuals/specialist-literature-monitoring.svg)
 

@@ -1,6 +1,6 @@
 # Distributor sales portal
 
-**AI-19-12 · Sales** · Also fits: Marketing; Operations; IT and Development
+**Sales** · Also fits: Marketing; Operations; IT and Development
 
 ![Distributor sales portal](visuals/distributor-sales-portal.svg)
 

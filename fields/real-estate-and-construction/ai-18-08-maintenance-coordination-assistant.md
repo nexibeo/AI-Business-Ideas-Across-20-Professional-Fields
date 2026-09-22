@@ -1,6 +1,6 @@
 # Maintenance coordination assistant
 
-**AI-18-08 · Real Estate and Construction** · Also fits: Operations; Sales; Management
+**Real Estate and Construction** · Also fits: Operations; Sales; Management
 
 ![Maintenance coordination assistant](visuals/maintenance-coordination-assistant.svg)
 

@@ -1,6 +1,6 @@
 # Building handover library
 
-**AI-18-14 · Real Estate and Construction** · Also fits: Operations; Sales; IT and Development
+**Real Estate and Construction** · Also fits: Operations; Sales; IT and Development
 
 ![Building handover library](visuals/building-handover-library.svg)
 

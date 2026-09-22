@@ -1,6 +1,6 @@
 # Partnership discovery service
 
-**AI-04-12 · Executives and Strategy** · Also fits: Finance; Science and Research; Sales
+**Executives and Strategy** · Also fits: Finance; Science and Research; Sales
 
 ![Partnership discovery service](visuals/partnership-discovery-service.svg)
 

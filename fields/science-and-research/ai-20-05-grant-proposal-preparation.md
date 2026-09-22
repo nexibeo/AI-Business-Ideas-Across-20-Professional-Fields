@@ -1,6 +1,6 @@
 # Grant proposal preparation
 
-**AI-20-05 · Science and Research** · Also fits: Education; Executives and Strategy; Writers
+**Science and Research** · Also fits: Education; Executives and Strategy; Writers
 
 ![Grant proposal preparation](visuals/grant-proposal-preparation.svg)
 

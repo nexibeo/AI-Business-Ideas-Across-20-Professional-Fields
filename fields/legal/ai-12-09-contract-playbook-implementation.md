@@ -1,6 +1,6 @@
 # Contract playbook implementation
 
-**AI-12-09 · Legal** · Also fits: Operations; Management; IT and Development
+**Legal** · Also fits: Operations; Management; IT and Development
 
 ![Contract playbook implementation](visuals/contract-playbook-implementation.svg)
 

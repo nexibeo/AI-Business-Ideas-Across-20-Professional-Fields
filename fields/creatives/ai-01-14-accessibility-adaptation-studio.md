@@ -1,6 +1,6 @@
 # Accessibility adaptation studio
 
-**AI-01-14 · Creatives** · Also fits: Marketing; Sales; Operations
+**Creatives** · Also fits: Marketing; Sales; Operations
 
 ![Accessibility adaptation studio](visuals/accessibility-adaptation-studio.svg)
 

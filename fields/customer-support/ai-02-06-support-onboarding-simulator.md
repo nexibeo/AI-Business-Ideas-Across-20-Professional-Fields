@@ -1,6 +1,6 @@
 # Support onboarding simulator
 
-**AI-02-06 · Customer Support** · Also fits: Operations; Product Development; Education
+**Customer Support** · Also fits: Operations; Product Development; Education
 
 ![Support onboarding simulator](visuals/support-onboarding-simulator.svg)
 

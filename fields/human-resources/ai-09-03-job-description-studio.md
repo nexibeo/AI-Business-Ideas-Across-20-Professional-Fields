@@ -1,6 +1,6 @@
 # Job description studio
 
-**AI-09-03 · Human Resources** · Also fits: Education; Operations; Writers
+**Human Resources** · Also fits: Education; Operations; Writers
 
 ![Job description studio](visuals/job-description-studio.svg)
 

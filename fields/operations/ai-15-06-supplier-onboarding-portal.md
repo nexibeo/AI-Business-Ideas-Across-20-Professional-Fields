@@ -1,6 +1,6 @@
 # Supplier onboarding portal
 
-**AI-15-06 · Operations** · Also fits: Finance; Management; Customer Support
+**Operations** · Also fits: Finance; Management; Customer Support
 
 ![Supplier onboarding portal](visuals/supplier-onboarding-portal.svg)
 

@@ -1,6 +1,6 @@
 # Claims intake assistant
 
-**AI-10-02 · Insurance** · Also fits: Operations; Customer Support
+**Insurance** · Also fits: Operations; Customer Support
 
 ![Claims intake assistant](visuals/claims-intake-assistant.svg)
 

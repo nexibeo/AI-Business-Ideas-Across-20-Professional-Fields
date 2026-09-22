@@ -1,6 +1,6 @@
 # Renovation concept studio
 
-**AI-18-12 · Real Estate and Construction** · Also fits: Operations; Sales; Creatives
+**Real Estate and Construction** · Also fits: Operations; Sales; Creatives
 
 ![Renovation concept studio](visuals/renovation-concept-studio.svg)
 

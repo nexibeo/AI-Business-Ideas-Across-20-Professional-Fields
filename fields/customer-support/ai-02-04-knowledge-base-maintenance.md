@@ -1,6 +1,6 @@
 # Knowledge base maintenance
 
-**AI-02-04 · Customer Support** · Also fits: Operations; Product Development; Writers
+**Customer Support** · Also fits: Operations; Product Development; Writers
 
 ![Knowledge base maintenance](visuals/knowledge-base-maintenance.svg)
 

@@ -1,6 +1,6 @@
 # Law firm training simulator
 
-**AI-12-13 · Legal** · Also fits: Operations; Management; Education
+**Legal** · Also fits: Operations; Management; Education
 
 ![Law firm training simulator](visuals/law-firm-training-simulator.svg)
 

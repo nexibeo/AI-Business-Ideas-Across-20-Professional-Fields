@@ -1,6 +1,6 @@
 # AI opportunity assessment service
 
-**AI-04-11 · Executives and Strategy** · Also fits: Finance; Science and Research; Operations
+**Executives and Strategy** · Also fits: Finance; Science and Research; Operations
 
 ![AI opportunity assessment service](visuals/ai-opportunity-assessment-service.svg)
 

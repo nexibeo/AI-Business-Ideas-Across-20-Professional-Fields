@@ -1,6 +1,6 @@
 # Win-loss research studio
 
-**AI-19-14 · Sales** · Also fits: Marketing; Operations; Science and Research
+**Sales** · Also fits: Marketing; Operations; Science and Research
 
 ![Win-loss research studio](visuals/win-loss-research-studio.svg)
 

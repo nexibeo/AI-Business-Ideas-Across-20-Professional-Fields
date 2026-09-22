@@ -1,6 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Project retrospective analyst">
-<rect width="1600" height="1000" fill="hsl(224 28% 93%)"/><rect x="820" y="490.1055581495166" width="54" height="239.89444185048342" rx="8" fill="hsl(224 55% 38%)"/><rect x="898" y="375.03027549479157" width="54" height="354.96972450520843" rx="8" fill="hsl(224 30% 80%)"/><rect x="976" y="310.1694193389267" width="54" height="419.8305806610733" rx="8" fill="hsl(224 30% 80%)"/><rect x="1054" y="473.576578325592" width="54" height="256.423421674408" rx="8" fill="hsl(224 55% 38%)"/><rect x="1132" y="414.88885739818215" width="54" height="315.11114260181785" rx="8" fill="hsl(224 30% 80%)"/><rect x="1210" y="616.2121605547145" width="54" height="113.7878394452855" rx="8" fill="hsl(224 30% 80%)"/><rect x="1288" y="367.3987875599414" width="54" height="362.6012124400586" rx="8" fill="hsl(224 55% 38%)"/><rect x="1366" y="407.7146628824994" width="54" height="322.2853371175006" rx="8" fill="hsl(224 30% 80%)"/>
-<text x="120" y="210" font-family="ui-monospace,Menlo,monospace" font-size="34" letter-spacing="4" fill="hsl(224 55% 38%)">AI-13-11 · MANAGEMENT</text>
-<text x="116" y="340" font-family="Georgia,serif" font-size="96" fill="#33312f">Project</text><text x="116" y="444" font-family="Georgia,serif" font-size="96" fill="#33312f">retrospective</text><text x="116" y="548" font-family="Georgia,serif" font-size="96" fill="#33312f">analyst</text>
-<text x="120" y="880" font-family="ui-monospace,Menlo,monospace" font-size="28" letter-spacing="2" fill="#6B655D">Evidence-backed analysis and reporting workspace</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<rect x="0.0" y="0.0" width="1600.0" height="1000.0" rx="0" fill="hsl(224 28% 93%)"/>
+<ellipse cx="1080" cy="930" rx="520" ry="46" fill="hsl(224 30% 80%)" fill-opacity="0.30"/>
+<g transform="translate(630.0,820.0) scale(1.05)"><rect x="-45.0" y="-35.0" width="40.0" height="40.0" rx="4" fill="hsl(224 30% 80%)"/><rect x="0.0" y="-20.0" width="40.0" height="40.0" rx="4" fill="hsl(224 55% 38%)"/><rect x="-22.0" y="10.0" width="40.0" height="40.0" rx="4" fill="#ffffff"/></g>
+<rect x="560.0" y="130.0" width="940.0" height="740.0" rx="14" fill="#ffffff"/>
+<rect x="560.0" y="130.0" width="940.0" height="64.0" rx="14" fill="hsl(224 55% 38%)"/>
+<rect x="560.0" y="180.0" width="940.0" height="14.0" rx="0" fill="hsl(224 55% 38%)"/>
+<circle cx="586.0" cy="162.0" r="6.0" fill="hsl(224 30% 80%)" fill-opacity="0.9"/>
+<circle cx="608.0" cy="162.0" r="6.0" fill="hsl(224 30% 80%)" fill-opacity="0.9"/>
+<circle cx="630.0" cy="162.0" r="6.0" fill="hsl(224 30% 80%)" fill-opacity="0.9"/>
+<rect x="588.0" y="218.0" width="281.3" height="70.0" rx="10" fill="#ffffff"/>
+<rect x="604.0" y="234.0" width="140.7" height="10.0" rx="4" fill="hsl(224 30% 80%)"/>
+<rect x="604.0" y="254.0" width="84.4" height="16.0" rx="4" fill="hsl(224 55% 38%)"/>
+<rect x="889.3" y="218.0" width="281.3" height="70.0" rx="10" fill="#ffffff"/>
+<rect x="905.3" y="234.0" width="140.7" height="10.0" rx="4" fill="hsl(224 30% 80%)"/>
+<rect x="905.3" y="254.0" width="84.4" height="16.0" rx="4" fill="hsl(224 55% 38%)"/>
+<rect x="1190.7" y="218.0" width="281.3" height="70.0" rx="10" fill="#ffffff"/>
+<rect x="1206.7" y="234.0" width="140.7" height="10.0" rx="4" fill="hsl(224 30% 80%)"/>
+<rect x="1206.7" y="254.0" width="84.4" height="16.0" rx="4" fill="hsl(224 55% 38%)"/>
+<rect x="588.0" y="318.0" width="884.0" height="528.0" rx="10" fill="#ffffff"/>
+<rect x="612.0" y="690.0" width="82.4" height="132.0" rx="4" fill="hsl(224 30% 80%)"/>
+<rect x="749.3" y="657.7" width="82.4" height="164.3" rx="4" fill="hsl(224 55% 38%)"/>
+<rect x="886.7" y="625.5" width="82.4" height="196.5" rx="4" fill="hsl(224 55% 38%)"/>
+<rect x="1024.0" y="593.2" width="82.4" height="228.8" rx="4" fill="hsl(224 30% 80%)"/>
+<rect x="1161.3" y="560.9" width="82.4" height="261.1" rx="4" fill="hsl(224 55% 38%)"/>
+<rect x="1298.7" y="528.7" width="82.4" height="293.3" rx="4" fill="hsl(224 55% 38%)"/>
+<text x="604.0" y="278.0" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#33312f" text-anchor="start" font-weight="bold">Themes</text>
+<rect x="1403.0" y="100.0" width="79.0" height="30.0" rx="15" fill="#ffffff"/>
+<circle cx="1419.0" cy="115.0" r="5.0" fill="hsl(44 22% 55%)"/>
+<text x="1431.0" y="120.0" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#33312f" text-anchor="start" font-weight="normal">Draft</text>
 </svg>

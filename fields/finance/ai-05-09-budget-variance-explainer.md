@@ -1,6 +1,6 @@
 # Budget variance explainer
 
-**AI-05-09 · Finance** · Also fits: Operations; Management; Science and Research
+**Finance** · Also fits: Operations; Management; Science and Research
 
 ![Budget variance explainer](visuals/budget-variance-explainer.svg)
 

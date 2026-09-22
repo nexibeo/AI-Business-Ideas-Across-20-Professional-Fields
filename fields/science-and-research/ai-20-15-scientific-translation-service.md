@@ -1,6 +1,6 @@
 # Scientific translation service
 
-**AI-20-15 · Science and Research** · Also fits: Education; Executives and Strategy; PR and Communications
+**Science and Research** · Also fits: Education; Executives and Strategy; PR and Communications
 
 ![Scientific translation service](visuals/scientific-translation-service.svg)
 

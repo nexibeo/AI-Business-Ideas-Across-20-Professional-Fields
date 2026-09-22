@@ -1,6 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Service scheduling coordinator">
-<rect width="1600" height="1000" fill="hsl(258 28% 93%)"/><rect x="820" y="451.66032661218196" width="54" height="278.33967338781804" rx="8" fill="hsl(258 55% 38%)"/><rect x="898" y="626.0055935848504" width="54" height="103.99440641514957" rx="8" fill="hsl(258 30% 80%)"/><rect x="976" y="321.51327456813306" width="54" height="408.48672543186694" rx="8" fill="hsl(258 30% 80%)"/><rect x="1054" y="244.20197308063507" width="54" height="485.79802691936493" rx="8" fill="hsl(258 55% 38%)"/><rect x="1132" y="390.0934954965487" width="54" height="339.9065045034513" rx="8" fill="hsl(258 30% 80%)"/><rect x="1210" y="256.4428441505879" width="54" height="473.5571558494121" rx="8" fill="hsl(258 30% 80%)"/><rect x="1288" y="586.0112087568268" width="54" height="143.98879124317318" rx="8" fill="hsl(258 55% 38%)"/><rect x="1366" y="348.10740856453776" width="54" height="381.89259143546224" rx="8" fill="hsl(258 30% 80%)"/>
-<text x="120" y="210" font-family="ui-monospace,Menlo,monospace" font-size="34" letter-spacing="4" fill="hsl(258 55% 38%)">AI-15-12 · OPERATIONS</text>
-<text x="116" y="340" font-family="Georgia,serif" font-size="96" fill="#33312f">Service</text><text x="116" y="444" font-family="Georgia,serif" font-size="96" fill="#33312f">scheduling</text><text x="116" y="548" font-family="Georgia,serif" font-size="96" fill="#33312f">coordinator</text>
-<text x="120" y="880" font-family="ui-monospace,Menlo,monospace" font-size="28" letter-spacing="2" fill="#6B655D">Assumption-driven planning and decision workspace</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<rect x="0.0" y="0.0" width="1600.0" height="1000.0" rx="0" fill="hsl(258 28% 93%)"/>
+<ellipse cx="1080" cy="930" rx="520" ry="46" fill="hsl(258 30% 80%)" fill-opacity="0.30"/>
+<g transform="translate(1460.0,200.0) scale(1.05)"><path d="M 0 -30 C 25 -30 25 5 0 30 C -25 5 -25 -30 0 -30 Z" fill="hsl(258 30% 80%)"/><circle cx="0.0" cy="-8.0" r="9.0" fill="#ffffff"/><path d="M 25 20 l 10 10 l -6 6 l -10 -10 a 10 10 0 1 1 6 -6 Z" fill="hsl(258 55% 38%)"/></g>
+<rect x="560.0" y="130.0" width="940.0" height="740.0" rx="14" fill="#ffffff"/>
+<rect x="560.0" y="130.0" width="940.0" height="64.0" rx="14" fill="hsl(258 55% 38%)"/>
+<rect x="560.0" y="180.0" width="940.0" height="14.0" rx="0" fill="hsl(258 55% 38%)"/>
+<circle cx="586.0" cy="162.0" r="6.0" fill="hsl(258 30% 80%)" fill-opacity="0.9"/>
+<circle cx="608.0" cy="162.0" r="6.0" fill="hsl(258 30% 80%)" fill-opacity="0.9"/>
+<circle cx="630.0" cy="162.0" r="6.0" fill="hsl(258 30% 80%)" fill-opacity="0.9"/>
+<rect x="588.0" y="218.0" width="282.9" height="628.0" rx="10" fill="hsl(258 28% 93%)"/>
+<rect x="604.0" y="238.0" width="250.9" height="6.0" rx="3" fill="hsl(258 30% 80%)"/>
+<circle cx="659.0" cy="241.0" r="9.0" fill="hsl(258 55% 38%)"/>
+<rect x="604.0" y="385.0" width="250.9" height="6.0" rx="3" fill="hsl(258 30% 80%)"/>
+<circle cx="630.0" cy="388.0" r="9.0" fill="hsl(258 55% 38%)"/>
+<rect x="604.0" y="532.0" width="250.9" height="6.0" rx="3" fill="hsl(258 30% 80%)"/>
+<circle cx="671.0" cy="535.0" r="9.0" fill="hsl(258 55% 38%)"/>
+<rect x="604.0" y="679.0" width="250.9" height="6.0" rx="3" fill="hsl(258 30% 80%)"/>
+<circle cx="642.0" cy="682.0" r="9.0" fill="hsl(258 55% 38%)"/>
+<rect x="894.9" y="218.0" width="577.1" height="628.0" rx="10" fill="#ffffff"/>
+<rect x="918.9" y="436.6" width="45.9" height="383.4" rx="3" fill="hsl(258 30% 80%)"/>
+<rect x="964.8" y="590.0" width="45.9" height="230.0" rx="3" fill="hsl(258 55% 38%)"/>
+<rect x="1024.7" y="564.4" width="45.9" height="255.6" rx="3" fill="hsl(258 30% 80%)"/>
+<rect x="1070.6" y="605.3" width="45.9" height="214.7" rx="3" fill="hsl(258 55% 38%)"/>
+<rect x="1130.5" y="351.4" width="45.9" height="468.6" rx="3" fill="hsl(258 30% 80%)"/>
+<rect x="1176.4" y="454.5" width="45.9" height="365.5" rx="3" fill="hsl(258 55% 38%)"/>
+<rect x="1236.4" y="479.2" width="45.9" height="340.8" rx="3" fill="hsl(258 30% 80%)"/>
+<rect x="1282.3" y="574.6" width="45.9" height="245.4" rx="3" fill="hsl(258 55% 38%)"/>
+<rect x="1342.2" y="607.0" width="45.9" height="213.0" rx="3" fill="hsl(258 30% 80%)"/>
+<rect x="1388.1" y="679.4" width="45.9" height="140.6" rx="3" fill="hsl(258 55% 38%)"/>
+<line x1="904.9" y1="820.0" x2="1462.0" y2="820.0" stroke="#33312f" stroke-width="2" stroke-linecap="round" stroke-opacity="0.35"/>
+<text x="604.0" y="232.0" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#33312f" text-anchor="start" font-weight="bold">Dispatch</text>
+<rect x="1394.0" y="100.0" width="88.0" height="30.0" rx="15" fill="#ffffff"/>
+<circle cx="1410.0" cy="115.0" r="5.0" fill="hsl(78 22% 55%)"/>
+<text x="1422.0" y="120.0" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#33312f" text-anchor="start" font-weight="normal">Synced</text>
 </svg>

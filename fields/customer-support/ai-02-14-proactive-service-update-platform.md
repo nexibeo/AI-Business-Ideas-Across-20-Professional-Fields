@@ -1,6 +1,6 @@
 # Proactive service update platform
 
-**AI-02-14 · Customer Support** · Also fits: Operations; Product Development; Writers
+**Customer Support** · Also fits: Operations; Product Development; Writers
 
 ![Proactive service update platform](visuals/proactive-service-update-platform.svg)
 

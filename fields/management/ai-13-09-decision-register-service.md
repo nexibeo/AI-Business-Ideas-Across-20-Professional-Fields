@@ -1,6 +1,6 @@
 # Decision register service
 
-**AI-13-09 · Management** · Also fits: Operations; Human Resources
+**Management** · Also fits: Operations; Human Resources
 
 ![Decision register service](visuals/decision-register-service.svg)
 

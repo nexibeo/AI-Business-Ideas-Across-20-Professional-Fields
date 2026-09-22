@@ -1,6 +1,6 @@
 # Invoice exception detector
 
-**AI-05-02 · Finance** · Also fits: Operations; Management
+**Finance** · Also fits: Operations; Management
 
 ![Invoice exception detector](visuals/invoice-exception-detector.svg)
 

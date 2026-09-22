@@ -1,6 +1,6 @@
 # One-to-one preparation tool
 
-**AI-13-07 · Management** · Also fits: Operations; Human Resources
+**Management** · Also fits: Operations; Human Resources
 
 ![One-to-one preparation tool](visuals/one-to-one-preparation-tool.svg)
 

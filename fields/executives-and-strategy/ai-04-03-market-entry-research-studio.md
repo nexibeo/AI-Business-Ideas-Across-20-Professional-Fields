@@ -1,6 +1,6 @@
 # Market entry research studio
 
-**AI-04-03 · Executives and Strategy** · Also fits: Finance; Science and Research
+**Executives and Strategy** · Also fits: Finance; Science and Research
 
 ![Market entry research studio](visuals/market-entry-research-studio.svg)
 

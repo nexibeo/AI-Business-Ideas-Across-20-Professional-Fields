@@ -1,6 +1,6 @@
 # Deal review briefing
 
-**AI-19-09 · Sales** · Also fits: Marketing; Operations; Science and Research
+**Sales** · Also fits: Marketing; Operations; Science and Research
 
 ![Deal review briefing](visuals/deal-review-briefing.svg)
 

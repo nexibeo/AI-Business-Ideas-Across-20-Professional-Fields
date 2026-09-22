@@ -1,6 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Order exception coordinator">
-<rect width="1600" height="1000" fill="hsl(258 28% 93%)"/><line x1="1115" y1="408" x2="1237" y2="254" stroke="hsl(258 55% 38%)" stroke-width="6"/><line x1="1412" y1="669" x2="1168" y2="709" stroke="hsl(258 55% 38%)" stroke-width="6"/><line x1="1006" y1="311" x2="1009" y2="716" stroke="hsl(258 55% 38%)" stroke-width="6"/><line x1="1237" y1="254" x2="1362" y2="277" stroke="hsl(258 55% 38%)" stroke-width="6"/><line x1="1168" y1="709" x2="1095" y2="411" stroke="hsl(258 55% 38%)" stroke-width="6"/><line x1="1009" y1="716" x2="943" y2="245" stroke="hsl(258 55% 38%)" stroke-width="6"/><line x1="1362" y1="277" x2="1115" y2="408" stroke="hsl(258 55% 38%)" stroke-width="6"/><line x1="1095" y1="411" x2="1412" y2="669" stroke="hsl(258 55% 38%)" stroke-width="6"/><line x1="943" y1="245" x2="1006" y2="311" stroke="hsl(258 55% 38%)" stroke-width="6"/><circle cx="1115" cy="408" r="44" fill="hsl(258 55% 38%)"/><circle cx="1412" cy="669" r="26" fill="hsl(258 30% 80%)"/><circle cx="1006" cy="311" r="26" fill="hsl(258 30% 80%)"/><circle cx="1237" cy="254" r="44" fill="hsl(258 55% 38%)"/><circle cx="1168" cy="709" r="26" fill="hsl(258 30% 80%)"/><circle cx="1009" cy="716" r="26" fill="hsl(258 30% 80%)"/><circle cx="1362" cy="277" r="44" fill="hsl(258 55% 38%)"/><circle cx="1095" cy="411" r="26" fill="hsl(258 30% 80%)"/><circle cx="943" cy="245" r="26" fill="hsl(258 30% 80%)"/>
-<text x="120" y="210" font-family="ui-monospace,Menlo,monospace" font-size="34" letter-spacing="4" fill="hsl(258 55% 38%)">AI-15-04 · OPERATIONS</text>
-<text x="116" y="340" font-family="Georgia,serif" font-size="96" fill="#33312f">Order exception</text><text x="116" y="444" font-family="Georgia,serif" font-size="96" fill="#33312f">coordinator</text>
-<text x="120" y="880" font-family="ui-monospace,Menlo,monospace" font-size="28" letter-spacing="2" fill="#6B655D">Operational coordination portal</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<rect x="0.0" y="0.0" width="1600.0" height="1000.0" rx="0" fill="hsl(258 28% 93%)"/>
+<ellipse cx="1080" cy="930" rx="520" ry="46" fill="hsl(258 30% 80%)" fill-opacity="0.30"/>
+<g transform="translate(1460.0,200.0) scale(1.00)"><polygon points="-40.0,-10.0 0.0,-30.0 40.0,-10.0 0.0,10.0" fill="hsl(258 30% 80%)"/><polygon points="-40.0,-10.0 0.0,10.0 0.0,45.0 -40.0,25.0" fill="hsl(258 55% 38%)"/><polygon points="40.0,-10.0 0.0,10.0 0.0,45.0 40.0,25.0" fill="hsl(258 30% 80%)"/><polygon points="45.0,-50.0 65.0,-14.0 25.0,-14.0" fill="hsl(78 22% 55%)"/><rect x="53.0" y="-40.0" width="4.0" height="16.0" rx="0" fill="#ffffff"/><circle cx="55.0" cy="-18.0" r="3.0" fill="#ffffff"/></g>
+<rect x="560.0" y="130.0" width="940.0" height="740.0" rx="14" fill="#ffffff"/>
+<rect x="560.0" y="130.0" width="940.0" height="64.0" rx="14" fill="hsl(258 55% 38%)"/>
+<rect x="560.0" y="180.0" width="940.0" height="14.0" rx="0" fill="hsl(258 55% 38%)"/>
+<circle cx="586.0" cy="162.0" r="6.0" fill="hsl(258 30% 80%)" fill-opacity="0.9"/>
+<circle cx="608.0" cy="162.0" r="6.0" fill="hsl(258 30% 80%)" fill-opacity="0.9"/>
+<circle cx="630.0" cy="162.0" r="6.0" fill="hsl(258 30% 80%)" fill-opacity="0.9"/>
+<rect x="588.0" y="218.0" width="371.3" height="64.0" rx="10" fill="#ffffff"/>
+<circle cx="610.0" cy="250.0" r="8.0" fill="hsl(258 55% 38%)"/>
+<rect x="632.0" y="240.0" width="293.3" height="8.0" rx="4" fill="hsl(258 30% 80%)"/>
+<rect x="632.0" y="254.0" width="261.3" height="6.0" rx="3" fill="hsl(258 30% 80%)"/>
+<rect x="588.0" y="294.0" width="371.3" height="64.0" rx="10" fill="#ffffff"/>
+<circle cx="610.0" cy="326.0" r="8.0" fill="hsl(258 55% 38%)"/>
+<rect x="632.0" y="316.0" width="293.3" height="8.0" rx="4" fill="hsl(258 30% 80%)"/>
+<rect x="632.0" y="330.0" width="261.3" height="6.0" rx="3" fill="hsl(258 30% 80%)"/>
+<rect x="588.0" y="370.0" width="371.3" height="64.0" rx="10" fill="hsl(258 30% 80%)"/>
+<circle cx="610.0" cy="402.0" r="8.0" fill="hsl(258 55% 38%)"/>
+<rect x="632.0" y="392.0" width="293.3" height="8.0" rx="4" fill="hsl(258 55% 38%)"/>
+<rect x="632.0" y="406.0" width="261.3" height="6.0" rx="3" fill="hsl(258 30% 80%)"/>
+<rect x="983.3" y="218.0" width="488.7" height="628.0" rx="10" fill="hsl(258 28% 93%)"/>
+<rect x="1003.3" y="238.0" width="448.7" height="14.0" rx="4" fill="hsl(258 55% 38%)"/>
+<rect x="1003.3" y="272.0" width="428.7" height="8.0" rx="4" fill="hsl(258 30% 80%)"/>
+<rect x="1003.3" y="298.0" width="398.7" height="8.0" rx="4" fill="hsl(258 30% 80%)"/>
+<rect x="1003.3" y="324.0" width="368.7" height="8.0" rx="4" fill="hsl(258 30% 80%)"/>
+<rect x="1003.3" y="800.0" width="90.0" height="26.0" rx="13" fill="hsl(258 55% 38%)"/>
+<text x="1003.3" y="818.0" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#ffffff" text-anchor="start" font-weight="bold">Exception</text>
+<rect x="1412.0" y="100.0" width="70.0" height="30.0" rx="15" fill="#ffffff"/>
+<circle cx="1428.0" cy="115.0" r="5.0" fill="hsl(78 22% 55%)"/>
+<text x="1440.0" y="120.0" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#33312f" text-anchor="start" font-weight="normal">Live</text>
 </svg>

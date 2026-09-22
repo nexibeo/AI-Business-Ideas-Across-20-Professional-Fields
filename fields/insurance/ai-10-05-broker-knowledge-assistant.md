@@ -1,6 +1,6 @@
 # Broker knowledge assistant
 
-**AI-10-05 · Insurance** · Also fits: Operations; Customer Support; IT and Development
+**Insurance** · Also fits: Operations; Customer Support; IT and Development
 
 ![Broker knowledge assistant](visuals/broker-knowledge-assistant.svg)
 

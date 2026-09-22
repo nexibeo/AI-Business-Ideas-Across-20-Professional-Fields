@@ -1,6 +1,6 @@
 # Escalation preparation tool
 
-**AI-02-07 · Customer Support** · Also fits: Operations; Product Development; Management
+**Customer Support** · Also fits: Operations; Product Development; Management
 
 ![Escalation preparation tool](visuals/escalation-preparation-tool.svg)
 

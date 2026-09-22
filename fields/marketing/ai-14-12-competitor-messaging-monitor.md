@@ -1,6 +1,6 @@
 # Competitor messaging monitor
 
-**AI-14-12 · Marketing** · Also fits: Creatives; Sales; Executives and Strategy
+**Marketing** · Also fits: Creatives; Sales; Executives and Strategy
 
 ![Competitor messaging monitor](visuals/competitor-messaging-monitor.svg)
 

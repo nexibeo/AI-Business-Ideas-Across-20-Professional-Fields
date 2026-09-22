@@ -1,6 +1,6 @@
 # Referral completeness checker
 
-**AI-07-03 · Healthcare** · Also fits: Education; Operations; Customer Support
+**Healthcare** · Also fits: Education; Operations; Customer Support
 
 ![Referral completeness checker](visuals/referral-completeness-checker.svg)
 

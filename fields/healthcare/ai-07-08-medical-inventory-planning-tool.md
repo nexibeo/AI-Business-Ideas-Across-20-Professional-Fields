@@ -1,6 +1,6 @@
 # Medical inventory planning tool
 
-**AI-07-08 · Healthcare** · Also fits: Education; Operations; Finance
+**Healthcare** · Also fits: Education; Operations; Finance
 
 ![Medical inventory planning tool](visuals/medical-inventory-planning-tool.svg)
 

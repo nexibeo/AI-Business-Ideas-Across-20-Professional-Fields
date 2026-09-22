@@ -1,6 +1,6 @@
 # Dependency maintenance service
 
-**AI-11-09 · IT and Development** · Also fits: Operations; Customer Support
+**IT and Development** · Also fits: Operations; Customer Support
 
 ![Dependency maintenance service](visuals/dependency-maintenance-service.svg)
 

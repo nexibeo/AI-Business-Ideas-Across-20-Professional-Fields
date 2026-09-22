@@ -1,6 +1,6 @@
 # Community support organizer
 
-**AI-02-11 · Customer Support** · Also fits: Operations; Product Development; Management
+**Customer Support** · Also fits: Operations; Product Development; Management
 
 ![Community support organizer](visuals/community-support-organizer.svg)
 

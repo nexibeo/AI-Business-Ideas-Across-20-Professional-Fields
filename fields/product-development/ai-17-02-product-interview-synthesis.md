@@ -1,6 +1,6 @@
 # Product interview synthesis
 
-**AI-17-02 · Product Development** · Also fits: Customer Support; Science and Research
+**Product Development** · Also fits: Customer Support; Science and Research
 
 ![Product interview synthesis](visuals/product-interview-synthesis.svg)
 

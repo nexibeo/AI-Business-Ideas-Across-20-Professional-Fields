@@ -1,6 +1,6 @@
 # Marketing localization agency
 
-**AI-14-06 · Marketing** · Also fits: Creatives; Sales; PR and Communications
+**Marketing** · Also fits: Creatives; Sales; PR and Communications
 
 ![Marketing localization agency](visuals/marketing-localization-agency.svg)
 

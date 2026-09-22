@@ -1,6 +1,6 @@
 # Data migration preparation
 
-**AI-11-12 · IT and Development** · Also fits: Operations; Customer Support
+**IT and Development** · Also fits: Operations; Customer Support
 
 ![Data migration preparation](visuals/data-migration-preparation.svg)
 

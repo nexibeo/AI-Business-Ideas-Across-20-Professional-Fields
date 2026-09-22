@@ -1,6 +1,6 @@
 # Email lifecycle studio
 
-**AI-14-05 · Marketing** · Also fits: Creatives; Sales; Writers
+**Marketing** · Also fits: Creatives; Sales; Writers
 
 ![Email lifecycle studio](visuals/email-lifecycle-studio.svg)
 

@@ -1,6 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Weekly management briefing">
-<rect width="1600" height="1000" fill="hsl(224 28% 93%)"/><rect x="820" y="494.98871873132885" width="54" height="235.01128126867115" rx="8" fill="hsl(224 55% 38%)"/><rect x="898" y="257.8977165510878" width="54" height="472.1022834489122" rx="8" fill="hsl(224 30% 80%)"/><rect x="976" y="537.4936508201063" width="54" height="192.50634917989373" rx="8" fill="hsl(224 30% 80%)"/><rect x="1054" y="519.9827887909487" width="54" height="210.0172112090513" rx="8" fill="hsl(224 55% 38%)"/><rect x="1132" y="412.363705271855" width="54" height="317.636294728145" rx="8" fill="hsl(224 30% 80%)"/><rect x="1210" y="377.36908584367484" width="54" height="352.63091415632516" rx="8" fill="hsl(224 30% 80%)"/><rect x="1288" y="338.4653942659497" width="54" height="391.5346057340503" rx="8" fill="hsl(224 55% 38%)"/><rect x="1366" y="611.2419813731685" width="54" height="118.75801862683147" rx="8" fill="hsl(224 30% 80%)"/>
-<text x="120" y="210" font-family="ui-monospace,Menlo,monospace" font-size="34" letter-spacing="4" fill="hsl(224 55% 38%)">AI-13-02 · MANAGEMENT</text>
-<text x="116" y="340" font-family="Georgia,serif" font-size="96" fill="#33312f">Weekly</text><text x="116" y="444" font-family="Georgia,serif" font-size="96" fill="#33312f">management</text><text x="116" y="548" font-family="Georgia,serif" font-size="96" fill="#33312f">briefing</text>
-<text x="120" y="880" font-family="ui-monospace,Menlo,monospace" font-size="28" letter-spacing="2" fill="#6B655D">Evidence-backed analysis and reporting workspace</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<rect x="0.0" y="0.0" width="1600.0" height="1000.0" rx="0" fill="hsl(224 28% 93%)"/>
+<ellipse cx="1080" cy="930" rx="520" ry="46" fill="hsl(224 30% 80%)" fill-opacity="0.30"/>
+<g transform="translate(630.0,200.0) scale(1.00)"><rect x="-60.0" y="-55.0" width="120.0" height="110.0" rx="10" fill="#ffffff"/><rect x="-60.0" y="-55.0" width="120.0" height="26.0" rx="10" fill="hsl(224 55% 38%)"/><rect x="-60.0" y="-33.0" width="120.0" height="4.0" rx="0" fill="hsl(224 55% 38%)"/><rect x="-50.0" y="-18.0" width="18.0" height="16.0" rx="3" fill="hsl(224 30% 80%)"/><rect x="-23.0" y="-18.0" width="18.0" height="16.0" rx="3" fill="hsl(224 30% 80%)"/><rect x="4.0" y="-18.0" width="18.0" height="16.0" rx="3" fill="hsl(224 30% 80%)"/><rect x="31.0" y="-18.0" width="18.0" height="16.0" rx="3" fill="hsl(224 30% 80%)"/><rect x="-50.0" y="6.0" width="18.0" height="16.0" rx="3" fill="hsl(224 30% 80%)"/><rect x="-23.0" y="6.0" width="18.0" height="16.0" rx="3" fill="hsl(224 30% 80%)"/><rect x="4.0" y="6.0" width="18.0" height="16.0" rx="3" fill="hsl(224 30% 80%)"/><rect x="31.0" y="6.0" width="18.0" height="16.0" rx="3" fill="hsl(224 30% 80%)"/><rect x="-50.0" y="30.0" width="18.0" height="16.0" rx="3" fill="hsl(224 30% 80%)"/><rect x="-23.0" y="30.0" width="18.0" height="16.0" rx="3" fill="hsl(224 30% 80%)"/><rect x="4.0" y="30.0" width="18.0" height="16.0" rx="3" fill="hsl(224 30% 80%)"/><rect x="31.0" y="30.0" width="18.0" height="16.0" rx="3" fill="hsl(224 30% 80%)"/></g>
+<g transform="translate(1460.0,820.0) scale(1.00)"><circle cx="-10.0" cy="-10.0" r="32.0" fill="none"/><circle cx="-10" cy="-10" r="32" fill="none" stroke="hsl(224 55% 38%)" stroke-width="9"/><line x1="14.0" y1="14.0" x2="42.0" y2="42.0" stroke="hsl(224 55% 38%)" stroke-width="10" stroke-linecap="round"/></g>
+<rect x="560.0" y="130.0" width="940.0" height="740.0" rx="14" fill="#ffffff"/>
+<rect x="560.0" y="130.0" width="940.0" height="64.0" rx="14" fill="hsl(224 55% 38%)"/>
+<rect x="560.0" y="180.0" width="940.0" height="14.0" rx="0" fill="hsl(224 55% 38%)"/>
+<circle cx="586.0" cy="162.0" r="6.0" fill="hsl(224 30% 80%)" fill-opacity="0.9"/>
+<circle cx="608.0" cy="162.0" r="6.0" fill="hsl(224 30% 80%)" fill-opacity="0.9"/>
+<circle cx="630.0" cy="162.0" r="6.0" fill="hsl(224 30% 80%)" fill-opacity="0.9"/>
+<rect x="588.0" y="218.0" width="281.3" height="70.0" rx="10" fill="#ffffff"/>
+<rect x="604.0" y="234.0" width="140.7" height="10.0" rx="4" fill="hsl(224 30% 80%)"/>
+<rect x="604.0" y="254.0" width="84.4" height="16.0" rx="4" fill="hsl(224 55% 38%)"/>
+<rect x="889.3" y="218.0" width="281.3" height="70.0" rx="10" fill="#ffffff"/>
+<rect x="905.3" y="234.0" width="140.7" height="10.0" rx="4" fill="hsl(224 30% 80%)"/>
+<rect x="905.3" y="254.0" width="84.4" height="16.0" rx="4" fill="hsl(224 55% 38%)"/>
+<rect x="1190.7" y="218.0" width="281.3" height="70.0" rx="10" fill="#ffffff"/>
+<rect x="1206.7" y="234.0" width="140.7" height="10.0" rx="4" fill="hsl(224 30% 80%)"/>
+<rect x="1206.7" y="254.0" width="84.4" height="16.0" rx="4" fill="hsl(224 55% 38%)"/>
+<rect x="588.0" y="318.0" width="884.0" height="528.0" rx="10" fill="#ffffff"/>
+<path d="M 612.0 646.3 L 751.3 714.2 L 890.7 623.7 L 1030.0 691.5 L 1169.3 601.0 L 1308.7 668.9 L 1448.0 736.8" fill="none" stroke="hsl(224 55% 38%)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="612.0" cy="646.3" r="5.0" fill="hsl(224 55% 38%)"/>
+<circle cx="751.3" cy="714.2" r="5.0" fill="hsl(224 55% 38%)"/>
+<circle cx="890.7" cy="623.7" r="5.0" fill="hsl(224 55% 38%)"/>
+<circle cx="1030.0" cy="691.5" r="5.0" fill="hsl(224 55% 38%)"/>
+<circle cx="1169.3" cy="601.0" r="5.0" fill="hsl(224 55% 38%)"/>
+<circle cx="1308.7" cy="668.9" r="5.0" fill="hsl(224 55% 38%)"/>
+<circle cx="1448.0" cy="736.8" r="5.0" fill="hsl(224 55% 38%)"/>
+<text x="604.0" y="278.0" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#33312f" text-anchor="start" font-weight="bold">Weekly</text>
+<rect x="1367.0" y="100.0" width="115.0" height="30.0" rx="15" fill="#ffffff"/>
+<circle cx="1383.0" cy="115.0" r="5.0" fill="hsl(44 22% 55%)"/>
+<text x="1395.0" y="120.0" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#33312f" text-anchor="start" font-weight="normal">In review</text>
 </svg>

@@ -1,6 +1,6 @@
 # Event sponsor matching service
 
-**AI-08-10 · Hospitality and Events** · Also fits: Customer Support; Sales
+**Hospitality and Events** · Also fits: Customer Support; Sales
 
 ![Event sponsor matching service](visuals/event-sponsor-matching-service.svg)
 

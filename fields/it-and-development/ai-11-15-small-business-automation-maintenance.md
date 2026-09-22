@@ -1,6 +1,6 @@
 # Small-business automation maintenance
 
-**AI-11-15 · IT and Development** · Also fits: Operations; Customer Support
+**IT and Development** · Also fits: Operations; Customer Support
 
 ![Small-business automation maintenance](visuals/small-business-automation-maintenance.svg)
 

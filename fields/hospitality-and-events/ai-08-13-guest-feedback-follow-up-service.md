@@ -1,6 +1,6 @@
 # Guest feedback follow-up service
 
-**AI-08-13 · Hospitality and Events** · Also fits: Customer Support; Sales; Management
+**Hospitality and Events** · Also fits: Customer Support; Sales; Management
 
 ![Guest feedback follow-up service](visuals/guest-feedback-follow-up-service.svg)
 

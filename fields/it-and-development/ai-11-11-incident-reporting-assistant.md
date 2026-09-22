@@ -1,6 +1,6 @@
 # Incident reporting assistant
 
-**AI-11-11 · IT and Development** · Also fits: Operations; Customer Support; Writers
+**IT and Development** · Also fits: Operations; Customer Support; Writers
 
 ![Incident reporting assistant](visuals/incident-reporting-assistant.svg)
 

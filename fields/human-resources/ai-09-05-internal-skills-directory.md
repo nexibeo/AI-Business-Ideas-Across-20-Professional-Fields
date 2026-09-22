@@ -1,6 +1,6 @@
 # Internal skills directory
 
-**AI-09-05 · Human Resources** · Also fits: Education; Operations; IT and Development
+**Human Resources** · Also fits: Education; Operations; IT and Development
 
 ![Internal skills directory](visuals/internal-skills-directory.svg)
 

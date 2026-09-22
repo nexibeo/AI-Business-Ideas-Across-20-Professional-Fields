@@ -1,6 +1,6 @@
 # Webinar promotion engine
 
-**AI-14-14 · Marketing** · Also fits: Creatives; Sales; Writers
+**Marketing** · Also fits: Creatives; Sales; Writers
 
 ![Webinar promotion engine](visuals/webinar-promotion-engine.svg)
 

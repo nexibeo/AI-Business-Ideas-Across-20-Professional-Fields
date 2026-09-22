@@ -1,6 +1,6 @@
 # Venue sourcing service
 
-**AI-08-12 · Hospitality and Events** · Also fits: Customer Support; Sales; Operations
+**Hospitality and Events** · Also fits: Customer Support; Sales; Operations
 
 ![Venue sourcing service](visuals/venue-sourcing-service.svg)
 

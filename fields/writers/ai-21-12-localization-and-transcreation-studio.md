@@ -1,6 +1,6 @@
 # Localization and transcreation studio
 
-**AI-21-12 · Writers** · Also fits: Marketing; Education; PR and Communications
+**Writers** · Also fits: Marketing; Education; PR and Communications
 
 ![Localization and transcreation studio](visuals/localization-and-transcreation-studio.svg)
 

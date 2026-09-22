@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Broker knowledge assistant">
 <rect width="1600" height="1000" fill="hsl(172 28% 93%)"/><rect x="820" y="170" width="450.71365736424923" height="84" rx="40" fill="hsl(172 30% 80%)"/><rect x="1008.0981001118198" y="282" width="451.9018998881802" height="84" rx="40" fill="hsl(172 55% 38%)"/><rect x="820" y="394" width="491.289046080783" height="84" rx="40" fill="hsl(172 30% 80%)"/><rect x="1159.1947117215022" y="506" width="300.80528827849776" height="84" rx="40" fill="hsl(172 55% 38%)"/><rect x="820" y="618" width="383.8494394160807" height="84" rx="40" fill="hsl(172 30% 80%)"/>
-<text x="120" y="210" font-family="ui-monospace,Menlo,monospace" font-size="34" letter-spacing="4" fill="hsl(172 55% 38%)">AI-10-05 · INSURANCE</text>
+<rect x="100" y="160" width="260" height="68" rx="34" fill="#ffffff" fill-opacity="0.72"/>
+<text x="124" y="205" font-family="ui-monospace,Menlo,monospace" font-size="30" letter-spacing="4" fill="hsl(172 55% 38%)">INSURANCE</text>
 <text x="116" y="340" font-family="Georgia,serif" font-size="96" fill="#33312f">Broker knowledge</text><text x="116" y="444" font-family="Georgia,serif" font-size="96" fill="#33312f">assistant</text>
 <text x="120" y="880" font-family="ui-monospace,Menlo,monospace" font-size="28" letter-spacing="2" fill="#6B655D">Source-linked assistant and administrator console</text>
 </svg>

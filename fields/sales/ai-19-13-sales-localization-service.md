@@ -1,6 +1,6 @@
 # Sales localization service
 
-**AI-19-13 · Sales** · Also fits: Marketing; Operations; PR and Communications
+**Sales** · Also fits: Marketing; Operations; PR and Communications
 
 ![Sales localization service](visuals/sales-localization-service.svg)
 
