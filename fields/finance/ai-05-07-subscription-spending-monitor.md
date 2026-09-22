@@ -110,6 +110,13 @@ Indicative build budget, from MVP to full product. This is a planning range, not
 | Full product | Remaining modules: flag inactive accounts; assign renewal owners; track approved changes. Self-serve onboarding, billing, monitoring and the wider integration set. | 11 weeks | $15,000 |
 | **Total** | | 22 weeks | **$35,000** |
 
+### Running costs per month (rough indication, untested)
+
+| Stage | Hosting and infrastructure | AI usage | Total per month |
+|---|---|---|---|
+| MVP and paid pilot (about 3 customers) | $50–$100 | $50–$100 | **$100–$200** |
+| Full product (about 50 customers) | $190–$380 | $350–$700 | **$540–$1,080** |
+
 **Co-create this project with us:** [contact Nexibeo](https://nexibeo.com/ideas/subscription-spending-monitor/#apply) and we build it with you.
 
 ## Research status

@@ -110,6 +110,13 @@ Indicative build budget, from MVP to full product. This is a planning range, not
 | Full product | Remaining modules: retrieve passages; preserve document context; export citations. Self-serve onboarding, billing, monitoring and the wider integration set. | 12 weeks | $17,000 |
 | **Total** | | 24 weeks | **$39,500** |
 
+### Running costs per month (rough indication, untested)
+
+| Stage | Hosting and infrastructure | AI usage | Total per month |
+|---|---|---|---|
+| MVP and paid pilot (about 3 customers) | $50–$100 | $60–$120 | **$110–$220** |
+| Full product (about 50 customers) | $190–$380 | $530–$1,050 | **$720–$1,430** |
+
 **Co-create this project with us:** [contact Nexibeo](https://nexibeo.com/ideas/public-records-search-assistant/#apply) and we build it with you.
 
 ## Research status

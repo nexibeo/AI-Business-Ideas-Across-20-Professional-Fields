@@ -110,6 +110,13 @@ Indicative build budget, from MVP to full product. This is a planning range, not
 | Full product | Remaining modules: preserve original text; group affected topics; export review notes. Self-serve onboarding, billing, monitoring and the wider integration set. | 12 weeks | $17,500 |
 | **Total** | | 24 weeks | **$40,000** |
 
+### Running costs per month (rough indication, untested)
+
+| Stage | Hosting and infrastructure | AI usage | Total per month |
+|---|---|---|---|
+| MVP and paid pilot (about 3 customers) | $50–$100 | $50–$100 | **$100–$200** |
+| Full product (about 50 customers) | $190–$380 | $350–$700 | **$540–$1,080** |
+
 **Co-create this project with us:** [contact Nexibeo](https://nexibeo.com/ideas/policy-change-tracking-tool/#apply) and we build it with you.
 
 ## Research status

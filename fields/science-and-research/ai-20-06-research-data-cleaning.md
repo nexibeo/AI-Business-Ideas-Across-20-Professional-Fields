@@ -110,6 +110,13 @@ Indicative build budget, from MVP to full product. This is a planning range, not
 | Full product | Remaining modules: preserve raw data; generate reproducible scripts; validate reviewed outputs. Self-serve onboarding, billing, monitoring and the wider integration set. | 12 weeks | $17,000 |
 | **Total** | | 24 weeks | **$39,500** |
 
+### Running costs per month (rough indication, untested)
+
+| Stage | Hosting and infrastructure | AI usage | Total per month |
+|---|---|---|---|
+| MVP and paid pilot (about 3 customers) | $30–$60 | $60–$120 | **$90–$180** |
+| Full product (about 50 customers) | $110–$210 | $530–$1,050 | **$640–$1,260** |
+
 **Co-create this project with us:** [contact Nexibeo](https://nexibeo.com/ideas/research-data-cleaning/#apply) and we build it with you.
 
 ## Research status

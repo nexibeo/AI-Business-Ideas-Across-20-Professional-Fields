@@ -110,6 +110,13 @@ Indicative build budget, from MVP to full product. This is a planning range, not
 | Full product | Remaining modules: apply medical terminology; assign qualified reviewers; synchronize updates. Self-serve onboarding, billing, monitoring and the wider integration set. | 14 weeks | $22,000 |
 | **Total** | | 28 weeks | **$50,000** |
 
+### Running costs per month (rough indication, untested)
+
+| Stage | Hosting and infrastructure | AI usage | Total per month |
+|---|---|---|---|
+| MVP and paid pilot (about 3 customers) | $60–$130 | $100–$200 | **$160–$330** |
+| Full product (about 50 customers) | $240–$490 | $1,230–$2,450 | **$1,470–$2,940** |
+
 **Co-create this project with us:** [contact Nexibeo](https://nexibeo.com/ideas/healthcare-translation-service/#apply) and we build it with you.
 
 ## Research status

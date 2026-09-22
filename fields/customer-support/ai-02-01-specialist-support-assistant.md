@@ -110,6 +110,13 @@ Indicative build budget, from MVP to full product. This is a planning range, not
 | Full product | Remaining modules: cite manual sections; hand off uncertain cases; track unresolved questions. Self-serve onboarding, billing, monitoring and the wider integration set. | 7 weeks | $7,000 |
 | **Total** | | 14 weeks | **$18,000** |
 
+### Running costs per month (rough indication, untested)
+
+| Stage | Hosting and infrastructure | AI usage | Total per month |
+|---|---|---|---|
+| MVP and paid pilot (about 3 customers) | $30–$60 | $60–$120 | **$90–$180** |
+| Full product (about 50 customers) | $110–$210 | $530–$1,050 | **$640–$1,260** |
+
 **Co-create this project with us:** [contact Nexibeo](https://nexibeo.com/ideas/specialist-support-assistant/#apply) and we build it with you.
 
 ## Research status

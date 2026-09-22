@@ -110,6 +110,13 @@ Indicative build budget, from MVP to full product. This is a planning range, not
 | Full product | Remaining modules: link quoted evidence; distinguish frequency from importance; export transparent summaries. Self-serve onboarding, billing, monitoring and the wider integration set. | 13 weeks | $19,000 |
 | **Total** | | 25 weeks | **$44,000** |
 
+### Running costs per month (rough indication, untested)
+
+| Stage | Hosting and infrastructure | AI usage | Total per month |
+|---|---|---|---|
+| MVP and paid pilot (about 3 customers) | $50–$100 | $80–$160 | **$130–$260** |
+| Full product (about 50 customers) | $190–$380 | $880–$1,750 | **$1,070–$2,130** |
+
 **Co-create this project with us:** [contact Nexibeo](https://nexibeo.com/ideas/public-consultation-analyzer/#apply) and we build it with you.
 
 ## Research status

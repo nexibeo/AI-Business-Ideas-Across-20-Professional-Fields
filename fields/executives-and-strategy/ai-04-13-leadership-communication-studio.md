@@ -110,6 +110,13 @@ Indicative build budget, from MVP to full product. This is a planning range, not
 | Full product | Remaining modules: prepare manager briefings; align presentation materials; manage approvals. Self-serve onboarding, billing, monitoring and the wider integration set. | 9 weeks | $11,500 |
 | **Total** | | 18 weeks | **$27,500** |
 
+### Running costs per month (rough indication, untested)
+
+| Stage | Hosting and infrastructure | AI usage | Total per month |
+|---|---|---|---|
+| MVP and paid pilot (about 3 customers) | $30–$60 | $70–$140 | **$100–$200** |
+| Full product (about 50 customers) | $110–$210 | $700–$1,400 | **$810–$1,610** |
+
 **Co-create this project with us:** [contact Nexibeo](https://nexibeo.com/ideas/leadership-communication-studio/#apply) and we build it with you.
 
 ## Research status

@@ -110,6 +110,13 @@ Indicative build budget, from MVP to full product. This is a planning range, not
 | Full product | Remaining modules: annotate camera movement; estimate shot durations; export pitch boards. Self-serve onboarding, billing, monitoring and the wider integration set. | 14 weeks | $21,500 |
 | **Total** | | 28 weeks | **$48,500** |
 
+### Running costs per month (rough indication, untested)
+
+| Stage | Hosting and infrastructure | AI usage | Total per month |
+|---|---|---|---|
+| MVP and paid pilot (about 3 customers) | $40–$80 | $150–$310 | **$190–$390** |
+| Full product (about 50 customers) | $160–$320 | $2,100–$4,200 | **$2,260–$4,520** |
+
 **Co-create this project with us:** [contact Nexibeo](https://nexibeo.com/ideas/storyboard-subscription/#apply) and we build it with you.
 
 ## Research status

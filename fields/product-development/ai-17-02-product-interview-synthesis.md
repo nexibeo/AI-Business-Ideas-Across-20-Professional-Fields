@@ -110,6 +110,13 @@ Indicative build budget, from MVP to full product. This is a planning range, not
 | Full product | Remaining modules: preserve contradictory accounts; connect findings to quotes; identify open questions. Self-serve onboarding, billing, monitoring and the wider integration set. | 8 weeks | $8,500 |
 | **Total** | | 17 weeks | **$21,500** |
 
+### Running costs per month (rough indication, untested)
+
+| Stage | Hosting and infrastructure | AI usage | Total per month |
+|---|---|---|---|
+| MVP and paid pilot (about 3 customers) | $30–$60 | $80–$160 | **$110–$220** |
+| Full product (about 50 customers) | $110–$210 | $880–$1,750 | **$990–$1,960** |
+
 **Co-create this project with us:** [contact Nexibeo](https://nexibeo.com/ideas/product-interview-synthesis/#apply) and we build it with you.
 
 ## Research status

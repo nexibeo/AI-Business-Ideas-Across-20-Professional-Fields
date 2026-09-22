@@ -110,6 +110,13 @@ Indicative build budget, from MVP to full product. This is a planning range, not
 | Full product | Remaining modules: detect conflicts; suggest schedule alternatives; record dispatcher decisions. Self-serve onboarding, billing, monitoring and the wider integration set. | 7 weeks | $8,500 |
 | **Total** | | 16 weeks | **$21,000** |
 
+### Running costs per month (rough indication, untested)
+
+| Stage | Hosting and infrastructure | AI usage | Total per month |
+|---|---|---|---|
+| MVP and paid pilot (about 3 customers) | $30–$60 | $50–$100 | **$80–$160** |
+| Full product (about 50 customers) | $110–$210 | $350–$700 | **$460–$910** |
+
 **Co-create this project with us:** [contact Nexibeo](https://nexibeo.com/ideas/service-scheduling-coordinator/#apply) and we build it with you.
 
 ## Research status

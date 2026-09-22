@@ -110,6 +110,13 @@ Indicative build budget, from MVP to full product. This is a planning range, not
 | Full product | Remaining modules: draft guides; flag dated facts; adapt newsletter formats. Self-serve onboarding, billing, monitoring and the wider integration set. | 10 weeks | $14,500 |
 | **Total** | | 21 weeks | **$33,500** |
 
+### Running costs per month (rough indication, untested)
+
+| Stage | Hosting and infrastructure | AI usage | Total per month |
+|---|---|---|---|
+| MVP and paid pilot (about 3 customers) | $30–$60 | $70–$140 | **$100–$200** |
+| Full product (about 50 customers) | $110–$210 | $700–$1,400 | **$810–$1,610** |
+
 **Co-create this project with us:** [contact Nexibeo](https://nexibeo.com/ideas/real-estate-content-subscription/#apply) and we build it with you.
 
 ## Research status

@@ -110,6 +110,13 @@ Indicative build budget, from MVP to full product. This is a planning range, not
 | Full product | Remaining modules: explain vocabulary; replay difficult exchanges; assign spaced practice. Self-serve onboarding, billing, monitoring and the wider integration set. | 11 weeks | $15,000 |
 | **Total** | | 22 weeks | **$35,000** |
 
+### Running costs per month (rough indication, untested)
+
+| Stage | Hosting and infrastructure | AI usage | Total per month |
+|---|---|---|---|
+| MVP and paid pilot (about 3 customers) | $30–$60 | $50–$110 | **$80–$170** |
+| Full product (about 50 customers) | $110–$210 | $420–$840 | **$530–$1,050** |
+
 **Co-create this project with us:** [contact Nexibeo](https://nexibeo.com/ideas/occupation-specific-language-tutor/#apply) and we build it with you.
 
 ## Research status

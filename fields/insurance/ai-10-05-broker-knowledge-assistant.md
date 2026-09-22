@@ -110,6 +110,13 @@ Indicative build budget, from MVP to full product. This is a planning range, not
 | Full product | Remaining modules: flag conflicting sources; route specialist questions; track knowledge gaps. Self-serve onboarding, billing, monitoring and the wider integration set. | 11 weeks | $15,500 |
 | **Total** | | 22 weeks | **$36,500** |
 
+### Running costs per month (rough indication, untested)
+
+| Stage | Hosting and infrastructure | AI usage | Total per month |
+|---|---|---|---|
+| MVP and paid pilot (about 3 customers) | $50–$100 | $60–$120 | **$110–$220** |
+| Full product (about 50 customers) | $190–$380 | $530–$1,050 | **$720–$1,430** |
+
 **Co-create this project with us:** [contact Nexibeo](https://nexibeo.com/ideas/broker-knowledge-assistant/#apply) and we build it with you.
 
 ## Research status

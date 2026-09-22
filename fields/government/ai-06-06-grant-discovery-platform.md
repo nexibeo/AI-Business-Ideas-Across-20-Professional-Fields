@@ -110,6 +110,13 @@ Indicative build budget, from MVP to full product. This is a planning range, not
 | Full product | Remaining modules: flag geographic restrictions; track call updates; save pursuit decisions. Self-serve onboarding, billing, monitoring and the wider integration set. | 13 weeks | $20,500 |
 | **Total** | | 27 weeks | **$46,000** |
 
+### Running costs per month (rough indication, untested)
+
+| Stage | Hosting and infrastructure | AI usage | Total per month |
+|---|---|---|---|
+| MVP and paid pilot (about 3 customers) | $50–$100 | $40–$90 | **$90–$190** |
+| Full product (about 50 customers) | $190–$380 | $280–$560 | **$470–$940** |
+
 **Co-create this project with us:** [contact Nexibeo](https://nexibeo.com/ideas/grant-discovery-platform/#apply) and we build it with you.
 
 ## Research status

@@ -110,6 +110,13 @@ Indicative build budget, from MVP to full product. This is a planning range, not
 | Full product | Remaining modules: track equipment returns; organize exit documents; confirm owner completion. Self-serve onboarding, billing, monitoring and the wider integration set. | 9 weeks | $11,000 |
 | **Total** | | 18 weeks | **$26,000** |
 
+### Running costs per month (rough indication, untested)
+
+| Stage | Hosting and infrastructure | AI usage | Total per month |
+|---|---|---|---|
+| MVP and paid pilot (about 3 customers) | $30–$60 | $40–$90 | **$70–$150** |
+| Full product (about 50 customers) | $110–$210 | $280–$560 | **$390–$770** |
+
 **Co-create this project with us:** [contact Nexibeo](https://nexibeo.com/ideas/offboarding-coordinator/#apply) and we build it with you.
 
 ## Research status

@@ -110,6 +110,13 @@ Indicative build budget, from MVP to full product. This is a planning range, not
 | Full product | Remaining modules: assess outputs; run live clinics; refresh policy-linked lessons. Self-serve onboarding, billing, monitoring and the wider integration set. | 14 weeks | $22,000 |
 | **Total** | | 28 weeks | **$50,000** |
 
+### Running costs per month (rough indication, untested)
+
+| Stage | Hosting and infrastructure | AI usage | Total per month |
+|---|---|---|---|
+| MVP and paid pilot (about 3 customers) | $50–$100 | $50–$110 | **$100–$210** |
+| Full product (about 50 customers) | $190–$380 | $420–$840 | **$610–$1,220** |
+
 **Co-create this project with us:** [contact Nexibeo](https://nexibeo.com/ideas/government-workforce-training/#apply) and we build it with you.
 
 ## Research status

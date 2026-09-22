@@ -110,6 +110,13 @@ Indicative build budget, from MVP to full product. This is a planning range, not
 | Full product | Remaining modules: identify duplicates; restrict outdated versions; request periodic reviews. Self-serve onboarding, billing, monitoring and the wider integration set. | 8 weeks | $10,000 |
 | **Total** | | 17 weeks | **$23,500** |
 
+### Running costs per month (rough indication, untested)
+
+| Stage | Hosting and infrastructure | AI usage | Total per month |
+|---|---|---|---|
+| MVP and paid pilot (about 3 customers) | $30–$60 | $50–$100 | **$80–$160** |
+| Full product (about 50 customers) | $110–$210 | $350–$700 | **$460–$910** |
+
 **Co-create this project with us:** [contact Nexibeo](https://nexibeo.com/ideas/communications-knowledge-library/#apply) and we build it with you.
 
 ## Research status

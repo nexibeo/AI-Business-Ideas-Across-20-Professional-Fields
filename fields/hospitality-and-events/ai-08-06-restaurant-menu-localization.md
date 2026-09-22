@@ -110,6 +110,13 @@ Indicative build budget, from MVP to full product. This is a planning range, not
 | Full product | Remaining modules: flag ambiguous terms; review dietary wording; export menu layouts. Self-serve onboarding, billing, monitoring and the wider integration set. | 13 weeks | $20,000 |
 | **Total** | | 26 weeks | **$45,500** |
 
+### Running costs per month (rough indication, untested)
+
+| Stage | Hosting and infrastructure | AI usage | Total per month |
+|---|---|---|---|
+| MVP and paid pilot (about 3 customers) | $40–$80 | $100–$200 | **$140–$280** |
+| Full product (about 50 customers) | $160–$320 | $1,230–$2,450 | **$1,390–$2,770** |
+
 **Co-create this project with us:** [contact Nexibeo](https://nexibeo.com/ideas/restaurant-menu-localization/#apply) and we build it with you.
 
 ## Research status
