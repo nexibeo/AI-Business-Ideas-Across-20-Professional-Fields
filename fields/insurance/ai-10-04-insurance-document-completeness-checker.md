@@ -101,14 +101,14 @@ Separate document preparation from coverage, underwriting and claims decisions. 
 
 ## Investment indication
 
-Indicative build budget, from MVP to full product. This is a planning range, not a quote; it excludes running costs such as model usage, hosting and reviewer hours.
+Indicative build budget, from MVP to full product. This is a planning range, not a quote; it excludes running costs such as model usage, hosting and reviewer hours. Built with Nexibeo's AI software development factory, most implementations take days to a few weeks of creation time, depending on availability.
 
-| Phase | Scope | Timeline | Indicative budget |
+| Phase | Scope | Creation time | Indicative budget |
 |---|---|---|---|
-| MVP | One buyer segment, one recurring use case; first modules: check signatures; validate identifiers. Manual review in the loop. | 5 weeks | $10,000 |
-| Paid pilot | Accounts, roles, review states, audit trail and the first integration, hardened for two to three paying pilot customers. | 7 weeks | $12,500 |
-| Full product | Remaining modules: flag unreadable pages; apply versioned checklists; record corrections. Self-serve onboarding, billing, monitoring and the wider integration set. | 12 weeks | $17,000 |
-| **Total** | | 24 weeks | **$39,500** |
+| MVP | One buyer segment, one recurring use case; first modules: check signatures; validate identifiers. Manual review in the loop. | 6 days | $10,000 |
+| Paid pilot | Accounts, roles, review states, audit trail and the first integration, hardened for two to three paying pilot customers. | 7 days | $12,500 |
+| Full product | Remaining modules: flag unreadable pages; apply versioned checklists; record corrections. Self-serve onboarding, billing, monitoring and the wider integration set. | 2 weeks | $17,000 |
+| **Total** | | about 5 weeks | **$39,500** |
 
 ### Running costs per month (rough indication, untested)
 

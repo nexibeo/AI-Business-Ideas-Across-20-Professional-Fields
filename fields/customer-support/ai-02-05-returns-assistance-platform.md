@@ -101,14 +101,14 @@ Keep customer account access scoped. Escalate missing evidence and consequential
 
 ## Investment indication
 
-Indicative build budget, from MVP to full product. This is a planning range, not a quote; it excludes running costs such as model usage, hosting and reviewer hours.
+Indicative build budget, from MVP to full product. This is a planning range, not a quote; it excludes running costs such as model usage, hosting and reviewer hours. Built with Nexibeo's AI software development factory, most implementations take days to a few weeks of creation time, depending on availability.
 
-| Phase | Scope | Timeline | Indicative budget |
+| Phase | Scope | Creation time | Indicative budget |
 |---|---|---|---|
-| MVP | One buyer segment, one recurring use case; first modules: locate eligible orders; collect return reasons. Manual review in the loop. | 4 weeks | $8,000 |
-| Paid pilot | Accounts, roles, review states, audit trail and the first integration, hardened for two to three paying pilot customers. | 6 weeks | $9,000 |
-| Full product | Remaining modules: explain policy conditions; route exceptions; track disposition. Self-serve onboarding, billing, monitoring and the wider integration set. | 9 weeks | $12,500 |
-| **Total** | | 19 weeks | **$29,500** |
+| MVP | One buyer segment, one recurring use case; first modules: locate eligible orders; collect return reasons. Manual review in the loop. | 4 days | $8,000 |
+| Paid pilot | Accounts, roles, review states, audit trail and the first integration, hardened for two to three paying pilot customers. | 5 days | $9,000 |
+| Full product | Remaining modules: explain policy conditions; route exceptions; track disposition. Self-serve onboarding, billing, monitoring and the wider integration set. | 9 days | $12,500 |
+| **Total** | | about 4 weeks | **$29,500** |
 
 ### Running costs per month (rough indication, untested)
 

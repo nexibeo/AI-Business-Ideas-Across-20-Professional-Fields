@@ -101,14 +101,14 @@ Preserve original data, methods, citations and research limitations. Use researc
 
 ## Investment indication
 
-Indicative build budget, from MVP to full product. This is a planning range, not a quote; it excludes running costs such as model usage, hosting and reviewer hours.
+Indicative build budget, from MVP to full product. This is a planning range, not a quote; it excludes running costs such as model usage, hosting and reviewer hours. Built with Nexibeo's AI software development factory, most implementations take days to a few weeks of creation time, depending on availability.
 
-| Phase | Scope | Timeline | Indicative budget |
+| Phase | Scope | Creation time | Indicative budget |
 |---|---|---|---|
-| MVP | One buyer segment, one recurring use case; first modules: extract central findings; explain methods plainly. Manual review in the loop. | 4 weeks | $7,500 |
-| Paid pilot | Accounts, roles, review states, audit trail and the first integration, hardened for two to three paying pilot customers. | 6 weeks | $9,000 |
-| Full product | Remaining modules: develop visual stories; adapt audience formats; coordinate researcher review. Self-serve onboarding, billing, monitoring and the wider integration set. | 9 weeks | $12,000 |
-| **Total** | | 19 weeks | **$28,500** |
+| MVP | One buyer segment, one recurring use case; first modules: extract central findings; explain methods plainly. Manual review in the loop. | 4 days | $7,500 |
+| Paid pilot | Accounts, roles, review states, audit trail and the first integration, hardened for two to three paying pilot customers. | 5 days | $9,000 |
+| Full product | Remaining modules: develop visual stories; adapt audience formats; coordinate researcher review. Self-serve onboarding, billing, monitoring and the wider integration set. | 9 days | $12,000 |
+| **Total** | | about 4 weeks | **$28,500** |
 
 ### Running costs per month (rough indication, untested)
 
